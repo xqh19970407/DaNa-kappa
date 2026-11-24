@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "name": "gamma_acoustic_ratio_v1",
+  "strict_gamma_tolerance_THz": 0.05,
+  "strict_other_tolerance_THz": 0.02,
+  "maximum_imaginary_fraction": 0.02,
+  "maximum_imaginary_THz": 0.05,
+  "maximum_q_over_shortest_reciprocal": 0.12,
+  "minimum_translation_weight": 0.9,
+  "maximum_gamma_acoustic_abs_THz": 0.005,
+  "maximum_asr_residual_eV_A2": 1e-08,
+  "maximum_asr_relative_residual": 1e-08,
+  "lowest_branch_only": true,
+  "interpretation": "User-authorized numerical tolerance; not proof of dynamical stability"
+}
