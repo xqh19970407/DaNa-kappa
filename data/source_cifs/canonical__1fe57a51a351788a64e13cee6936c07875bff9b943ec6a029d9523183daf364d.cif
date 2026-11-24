@@ -1,0 +1,27 @@
+data_Crystoria_1fe57a51a351788a64e13cee6936c07875bff9b943ec6a029d9523183daf364d
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Ag2 As2 La1 Li1'
+_cell_length_a 4.4567300185
+_cell_length_b 4.4567300185
+_cell_length_c 7.1750354767
+_cell_angle_alpha 90.0000007359
+_cell_angle_beta 89.9999993155
+_cell_angle_gamma 119.9999948446
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Li Li1 0.0000000000 0.0000000000 0.0000000000 1.0
+As As1 0.3333334327 0.6666665673 0.2578375936 1.0
+As As2 0.6666665673 0.3333334327 0.7421624064 1.0
+Ag Ag1 0.3333333731 0.6666666269 0.8489630222 1.0
+Ag Ag2 0.6666666269 0.3333333731 0.1510369629 1.0
+La La1 0.0000000000 0.0000000000 0.5000000000 1.0

@@ -1,0 +1,27 @@
+data_Crystoria_6781aeedcde6eb9c682c98fa39546631131d1c3b8ae26a4b01f07f414ea89a92
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'I2 Sn2 Sr2'
+_cell_length_a 4.7003342820
+_cell_length_b 4.7003342820
+_cell_length_c 13.1468162537
+_cell_angle_alpha 90.0000184923
+_cell_angle_beta 89.9999811177
+_cell_angle_gamma 120.0000096657
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Sr Sr1 0.0000001914 0.9999997616 0.0003737159 1.0
+Sr Sr2 0.9999997616 0.0000002039 0.4138713181 1.0
+Sn Sn1 0.3333333433 0.6666666269 0.1611789167 1.0
+Sn Sn2 0.6666666269 0.3333333135 0.2530660927 1.0
+I I1 0.3333332539 0.6666667461 0.5554726720 1.0
+I I2 0.6666667461 0.3333332539 0.8587723374 1.0

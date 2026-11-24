@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ZnInAuTh
+_chemical_formula_sum              "Zn1 In1 Au1 Th1"
+_cell_length_a       5.035479028063375
+_cell_length_b       5.035479028063376
+_cell_length_c       5.035479028063377
+_cell_angle_alpha    59.99999999999997
+_cell_angle_beta     60.00000000000001
+_cell_angle_gamma    60.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  3.02024518402311e-10  0.9999999994421004  3.020238129308063e-10  1.0000
+  In  In1       1.0  0.7499999995414395  0.7500000004013622  0.7499999995414378  1.0000
+  Au  Au1       1.0  0.4999999993233701  0.5000000001832934  0.4999999993233695  1.0000
+  Th  Th1       1.0  0.2500000005200934  0.24999999966016928  0.2500000005200924  1.0000

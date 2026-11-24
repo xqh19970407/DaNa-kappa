@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       HOBrRbCs
+_chemical_formula_sum              "H1 O1 Br1 Rb1 Cs1"
+_cell_length_a       4.719352447593511
+_cell_length_b       4.719352447593512
+_cell_length_c       7.662702531197601
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.0  0.0  0.0018110659970811975  1.0000
+  O   O1        1.0  0.0  0.0  0.8743221915144487  1.0000
+  Br  Br1       1.0  0.0  0.0  0.335700642107265  1.0000
+  Rb  Rb1       1.0  0.6666666654939966  0.33333333259700876  0.06655451753786065  1.0000
+  Cs  Cs1       1.0  0.33333333382037633  0.6666666676407527  0.6564935842829569  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ICs2Au
+_chemical_formula_sum              "I1 Cs2 Au1"
+_cell_length_a       6.414855572002639
+_cell_length_b       6.414855572002642
+_cell_length_c       4.492908277328159
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.0  0.0  0.0  1.0000
+  Cs  Cs1       1.0  0.999999999976163  0.5000000005793398  0.5000000003870495  1.0000
+  Cs  Cs2       1.0  0.5000000005995099  0.9999999999559932  0.5000000003459325  1.0000
+  Au  Au1       1.0  0.5000000006233469  0.5000000006233467  1.3830225013312417e-10  1.0000

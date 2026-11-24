@@ -1,0 +1,27 @@
+data_Crystoria_916d0466ba764fd6830a03c650b88f2f2481b45373010c1b3764399cf2fd7b83
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Cs1 Cu3 S2'
+_cell_length_a 5.4189435527
+_cell_length_b 5.4189435527
+_cell_length_c 6.6672687531
+_cell_angle_alpha 89.9999890248
+_cell_angle_beta 90.0000112997
+_cell_angle_gamma 120.0000134443
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+S S1 0.0000001223 0.9999998808 0.9992873669 1.0
+S S2 0.3333334923 0.6666665077 0.5453571081 1.0
+Cu Cu1 0.1666669548 0.3333332539 0.7723220587 1.0
+Cu Cu2 0.1666667610 0.8333332539 0.7723224163 1.0
+Cu Cu3 0.6666667461 0.8333330750 0.7723220587 1.0
+Cs Cs1 0.6666668653 0.3333330750 0.2723220587 1.0

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       FCl2K3
+_chemical_formula_sum              "F1 Cl2 K3"
+_cell_length_a       4.277682703326217
+_cell_length_b       4.277682703326219
+_cell_length_c       10.591856841005592
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.0  0.0  0.0  1.0000
+  Cl  Cl1       1.0  0.3333333332964602  0.6666666665929204  0.6819215080435571  1.0000
+  Cl  Cl2       1.0  0.6666666662594427  0.3333333332964602  0.3180784918615028  1.0000
+  K   K1        1.0  0.0  0.0  0.49999999995252997  1.0000
+  K   K2        1.0  0.3333333332964602  0.6666666665929204  0.13611390822604105  1.0000
+  K   K3        1.0  0.6666666662594427  0.3333333332964602  0.8638860916790189  1.0000

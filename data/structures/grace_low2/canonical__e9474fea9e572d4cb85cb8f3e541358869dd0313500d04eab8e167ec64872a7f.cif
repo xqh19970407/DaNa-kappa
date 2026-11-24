@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiNaSe2Hg
+_chemical_formula_sum              "Li1 Na1 Se2 Hg1"
+_cell_length_a       4.355452447378679
+_cell_length_b       4.355452447378682
+_cell_length_c       7.377090916402424
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  3.309163113304918e-08  0.9999999405066108  0.996053030017878  1.0000
+  Na  Na1       1.0  0.33333336577254363  0.6666666075625604  0.680328574891352  1.0000
+  Se  Se1       1.0  3.309163113304918e-08  0.9999999405066108  0.417029374432638  1.0000
+  Se  Se2       1.0  0.6666667007494289  0.3333332746185099  0.9050873990388775  1.0000
+  Hg  Hg1       1.0  0.6666667007494289  0.3333332746185099  0.2660436047543131  1.0000

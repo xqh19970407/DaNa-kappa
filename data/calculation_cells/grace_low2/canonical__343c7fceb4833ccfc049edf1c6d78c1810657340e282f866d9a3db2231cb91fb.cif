@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       I6La2
+_chemical_formula_sum              "I6 La2"
+_cell_length_a       9.067855175494307
+_cell_length_b       9.067855175494303
+_cell_length_c       4.654472880125748
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.9999717681414922  7.465117549327841e-06  0.9999999998945958  1.0000
+  I   I2        1.0  0.20377532580203112  0.5134435842916428  3.438736325307671e-11  1.0000
+  I   I3        1.0  0.5134078854020697  0.3096400253940549  0.9999999999525576  1.0000
+  I   I4        1.0  0.2980287675220667  0.9057540239958637  0.5000000000536307  1.0000
+  I   I5        1.0  0.6076613275702849  0.7019504668574815  0.49999999999881745  1.0000
+  I   I6        1.0  0.8114648854041225  0.2153865848846433  0.49999999992439276  1.0000
+  La  La1       1.0  0.5723849933475421  0.9410303579566183  4.2057937873156745e-11  1.0000
+  La  La2       1.0  0.23905165955867674  0.2743636914530093  0.49999999999114686  1.0000

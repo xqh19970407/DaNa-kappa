@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       In3CsTl4
+_chemical_formula_sum              "In3 Cs1 Tl4"
+_cell_length_a       5.453128842581128
+_cell_length_b       5.453128842581128
+_cell_length_c       9.414406366888002
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  5.5014287881377305e-09  1.0327693002940982e-25  0.9987502231761118  1.0000
+  In  In2       1.0  5.5014287881377305e-09  3.269886649334817e-26  0.3162177671096291  1.0000
+  In  In3       1.0  0.500000005264764  0.49999999976333515  0.6574839951428705  1.0000
+  Cs  Cs1       1.0  0.500000005264764  0.49999999976333515  0.1574839955086929  1.0000
+  Tl  Tl1       1.0  5.5014287881377305e-09  0.49999999976333515  0.4794806761132134  1.0000
+  Tl  Tl2       1.0  5.5014287881377305e-09  0.49999999976333515  0.8354873141725275  1.0000
+  Tl  Tl3       1.0  0.500000005264764  4.958125774422641e-26  0.4794806761132134  1.0000
+  Tl  Tl4       1.0  0.500000005264764  8.639453877853157e-26  0.8354873141725275  1.0000

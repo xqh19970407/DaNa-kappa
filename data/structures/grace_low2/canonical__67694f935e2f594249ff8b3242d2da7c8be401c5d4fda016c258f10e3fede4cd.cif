@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       InI3Tl2
+_chemical_formula_sum              "In1 I3 Tl2"
+_cell_length_a       11.223825428619715
+_cell_length_b       11.223825428619715
+_cell_length_c       11.223825428619715
+_cell_angle_alpha    154.1369141973696
+_cell_angle_beta     154.1369141973696
+_cell_angle_gamma    36.900633022993674
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.9999999996994204  0.9999999996994203  0.9999999995665336  1.0000
+  I   I1        1.0  0.16512215990425402  0.16512215990425394  0.9999999986996004  1.0000
+  I   I2        1.0  0.4999999996994202  0.4999999996994202  0.9999999995665334  1.0000
+  I   I3        1.0  0.8348778391282373  0.8348778391282373  0.9999999995665336  1.0000
+  Tl  Tl1       1.0  0.3336209304719806  0.33362093047198055  0.9999999995665336  1.0000
+  Tl  Tl2       1.0  0.6663790685605105  0.6663790685605108  0.9999999986996007  1.0000

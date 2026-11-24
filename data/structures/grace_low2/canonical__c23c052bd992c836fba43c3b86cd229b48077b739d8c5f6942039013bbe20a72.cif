@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MgGaLuHg
+_chemical_formula_sum              "Mg1 Ga1 Lu1 Hg1"
+_cell_length_a       4.950329481104895
+_cell_length_b       4.950329481104894
+_cell_length_c       4.950329481104895
+_cell_angle_alpha    60.000000000000036
+_cell_angle_beta     60.000000000000036
+_cell_angle_gamma    60.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  2.6052733519217566e-10  2.6052732131438775e-10  2.605273913269812e-10  1.0000
+  Ga  Ga1       1.0  0.7500000001087099  0.7500000001087099  0.7500000001087106  1.0000
+  Lu  Lu1       1.0  0.500000000054355  0.500000000054355  0.5000000000543552  1.0000
+  Hg  Hg1       1.0  0.2500000001087102  0.2500000001087101  0.2500000001087103  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NBrBa2
+_chemical_formula_sum              "N1 Br1 Ba2"
+_cell_length_a       8.280871000172613
+_cell_length_b       8.280871000172613
+_cell_length_c       8.280871000172615
+_cell_angle_alpha    29.385258492927633
+_cell_angle_beta     29.385258492927633
+_cell_angle_gamma    29.385258492927594
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  5.751674864737682e-09  0.9999999997896076  0.9999999943199481  1.0000
+  Br  Br1       1.0  0.5000000057285465  0.49999999976647974  0.49999999429682  1.0000
+  Ba  Ba1       1.0  0.7286449076077406  0.7286449016456737  0.7286448961760141  1.0000
+  Ba  Ba2       1.0  0.2713551045177925  0.271355097354869  0.27135509228160265  1.0000

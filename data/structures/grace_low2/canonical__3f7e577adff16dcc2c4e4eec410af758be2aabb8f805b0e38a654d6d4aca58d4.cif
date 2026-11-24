@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaMg2KSb2
+_chemical_formula_sum              "Na1 Mg2 K1 Sb2"
+_cell_length_a       4.923129624668412
+_cell_length_b       4.923129624668411
+_cell_length_c       8.627587862386708
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.0  0.0  0.0  1.0000
+  Mg  Mg1       1.0  0.3333333328574714  0.6666666657149428  0.14256774078910772  1.0000
+  Mg  Mg2       1.0  0.6666666665409702  0.33333333403020154  0.8574322589342556  1.0000
+  K   K1        1.0  0.0  0.0  0.4999999998616817  1.0000
+  Sb  Sb1       1.0  0.3333333328574714  0.6666666657149428  0.7829293990094907  1.0000
+  Sb  Sb2       1.0  0.6666666665409702  0.33333333403020154  0.21707060187294527  1.0000

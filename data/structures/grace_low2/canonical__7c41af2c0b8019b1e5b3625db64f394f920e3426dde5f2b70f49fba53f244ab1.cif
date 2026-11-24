@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Te2BaPb
+_chemical_formula_sum              "Te2 Ba1 Pb1"
+_cell_length_a       8.324501132025487
+_cell_length_b       8.324501132025485
+_cell_length_c       8.324501132025485
+_cell_angle_alpha    33.8346409019307
+_cell_angle_beta     33.8346409019307
+_cell_angle_gamma    33.8346409019307
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.9999588306732377  0.9999588304692059  0.999958830530124  1.0000
+  Te  Te2       1.0  0.5116498299344303  0.5116498295263661  0.5116498296482027  1.0000
+  Ba  Ba1       1.0  0.755804330245976  0.7558043300419445  0.7558043301028627  1.0000
+  Pb  Pb1       1.0  0.25580433014734827  0.25580432994331753  0.25580433000423575  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CaCd2As2
+_chemical_formula_sum              "Ca1 Cd2 As2"
+_cell_length_a       4.456353503884106
+_cell_length_b       4.456353503884108
+_cell_length_c       7.2396503755345645
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.0  0.0  0.0  1.0000
+  Cd  Cd1       1.0  0.6666666675666415  0.3333333333635907  0.6343138151420632  1.0000
+  Cd  Cd2       1.0  0.3333333340369733  0.6666666677776003  0.3656861840934573  1.0000
+  As  As1       1.0  0.6666666675666415  0.3333333333635907  0.2352135879039964  1.0000
+  As  As2       1.0  0.3333333340369733  0.6666666677776003  0.764786411331524  1.0000

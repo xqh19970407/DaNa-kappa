@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na2Cl4Au2
+_chemical_formula_sum              "Na2 Cl4 Au2"
+_cell_length_a       4.317925289563094
+_cell_length_b       4.317925289563091
+_cell_length_c       14.670792329962762
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  1.3371011086855675e-09  2.674202217371135e-09  5.605751355590058e-34  1.0000
+  Na  Na2       1.0  1.3371011086855691e-09  2.674202217371137e-09  0.49999999966045594  1.0000
+  Cl  Cl1       1.0  0.33333333490176054  0.6666666698035212  0.09322043480956774  1.0000
+  Cl  Cl2       1.0  0.33333333490176054  0.6666666698035212  0.40677956553251465  1.0000
+  Cl  Cl3       1.0  0.6666666663435089  0.3333333349017606  0.5932204344700237  1.0000
+  Cl  Cl4       1.0  0.6666666663435089  0.3333333349017606  0.9067795651929708  1.0000
+  Au  Au1       1.0  0.33333333490176054  0.6666666698035212  0.24999999983022797  1.0000
+  Au  Au2       1.0  0.6666666663435089  0.3333333349017606  0.7500000001723105  1.0000

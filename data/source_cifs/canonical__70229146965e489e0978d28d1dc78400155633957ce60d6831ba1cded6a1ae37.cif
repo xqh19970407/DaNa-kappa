@@ -1,0 +1,25 @@
+data_Crystoria_70229146965e489e0978d28d1dc78400155633957ce60d6831ba1cded6a1ae37
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Br2 Hg2'
+_cell_length_a 4.9431118965
+_cell_length_b 4.9431118965
+_cell_length_c 6.6914878133
+_cell_angle_alpha 111.6760418247
+_cell_angle_beta 111.6760418393
+_cell_angle_gamma 90.0000005388
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Br Br1 0.9955943227 0.9955943227 0.9911886454 1.0
+Br Br2 0.3127976656 0.3127976656 0.6255953312 1.0
+Hg Hg1 0.5389571190 0.5389571190 0.0779141635 1.0
+Hg Hg2 0.7694349289 0.7694349289 0.5388697982 1.0

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2Cl3Rb
+_chemical_formula_sum              "Li2 Cl3 Rb1"
+_cell_length_a       3.9607818125060144
+_cell_length_b       3.9607818125060144
+_cell_length_c       9.47653458740655
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.0  0.0  0.9999390589466357  1.0000
+  Li  Li2       1.0  0.5000000009460235  0.5000000009460235  0.28539898578475703  1.0000
+  Cl  Cl1       1.0  0.0  0.5000000009460235  0.1426690218380773  1.0000
+  Cl  Cl2       1.0  0.5000000009460235  0.0  0.4364249939525464  1.0000
+  Cl  Cl3       1.0  0.5000000009460235  0.0  0.848913049997279  1.0000
+  Rb  Rb1       1.0  0.0  0.5000000009460235  0.6426690225025317  1.0000

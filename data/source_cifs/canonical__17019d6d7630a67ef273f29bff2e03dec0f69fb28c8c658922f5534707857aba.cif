@@ -1,0 +1,26 @@
+data_Crystoria_17019d6d7630a67ef273f29bff2e03dec0f69fb28c8c658922f5534707857aba
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Ba1 Bi2 Mg2'
+_cell_length_a 4.6930747032
+_cell_length_b 4.6930747032
+_cell_length_c 8.2553782936
+_cell_angle_alpha 106.5136344203
+_cell_angle_beta 106.5136343920
+_cell_angle_gamma 90.0000000126
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Mg Mg1 0.0000000000 0.0000000273 0.0000000000 1.0
+Mg Mg2 0.5000000000 0.4999999702 0.0000000000 1.0
+Ba Ba1 0.2500000000 0.7500000000 0.5000000000 1.0
+Bi Bi1 0.6237435937 0.1237435788 0.2474880517 1.0
+Bi Bi2 0.8762564063 0.3762564063 0.7525119185 1.0

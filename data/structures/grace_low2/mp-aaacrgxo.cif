@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TbZnAgAs2
+_chemical_formula_sum              "Tb1 Zn1 Ag1 As2"
+_cell_length_a       4.256229160900995
+_cell_length_b       4.256229160900996
+_cell_length_c       6.9000836750005385
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000007
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.3333329997692281  0.66666699802903  0.9850830019100413  1.0000
+  Zn  Zn1       1.0  0.9999996676617037  3.323383954896567e-07  0.37778582735807137  1.0000
+  Ag  Ag1       1.0  0.6666663348514116  0.33333366692716054  0.6314153951183296  1.0000
+  As  As1       1.0  0.6666663348514116  0.33333366692716054  0.24001830093746954  1.0000
+  As  As2       1.0  0.9999996676617037  3.323383954896567e-07  0.7656974739512253  1.0000

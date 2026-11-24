@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       AlRbTe2AlRbTe2
+_chemical_formula_sum              "Al2 Rb2 Te4"
+_cell_length_a       4.259751466689864
+_cell_length_b       4.259751466689864
+_cell_length_c       15.749287390061331
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.0  0.0  0.0  1.0000
+  Rb  Rb1       1.0  0.0  0.4999999992147589  0.25000000015776375  1.0000
+  Te  Te1       1.0  0.4999999992147589  7.770726284661578e-10  0.10224972534415912  1.0000
+  Te  Te2       1.0  0.4999999992147589  6.296309820503187e-21  0.3977502749713684  1.0000
+  Al  Al2       1.0  0.4999999992147589  0.4999999992147589  0.5000000003155275  1.0000
+  Rb  Rb2       1.0  0.4999999992147589  6.296309488094806e-21  0.7499999998383419  1.0000
+  Te  Te3       1.0  0.0  0.4999999992147589  0.6022497250247373  1.0000
+  Te  Te4       1.0  7.770726284661578e-10  0.4999999992147589  0.8977502746519466  1.0000

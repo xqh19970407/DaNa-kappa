@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ClCdTeTl
+_chemical_formula_sum              "Cl1 Cd1 Te1 Tl1"
+_cell_length_a       4.6782215801704226
+_cell_length_b       4.678221580170419
+_cell_length_c       7.559908908174212
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.9999999994272415  7.404740360783767e-09  0.003457242956661499  1.0000
+  Cd  Cd1       1.0  3.142589035204634e-10  9.142346657498026e-09  0.6604127576989247  1.0000
+  Te  Te1       1.0  0.6666666667766691  0.33333334214002475  0.534341820657677  1.0000
+  Tl  Tl1       1.0  0.33333333292840234  0.6666666744070624  0.20706712858767246  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Rb2Sb2Hg2
+_chemical_formula_sum              "Rb2 Sb2 Hg2"
+_cell_length_a       4.919703742326964
+_cell_length_b       4.919703742326963
+_cell_length_c       10.968287681230898
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  1.393505843090876e-09  0.9999999413347413  0.0  1.0000
+  Rb  Rb2       1.0  1.1509702021562928e-09  0.9999999413226588  0.49999999994388833  1.0000
+  Sb  Sb1       1.0  0.33333333448833113  0.6666666079973805  0.24999999997194416  1.0000
+  Sb  Sb2       1.0  0.6666666675831564  0.3333332746600197  0.7499999999158325  1.0000
+  Hg  Hg1       1.0  0.33333333448833113  0.6666666079973805  0.7499999999158325  1.0000
+  Hg  Hg2       1.0  0.6666666675831564  0.3333332746600197  0.24999999997194416  1.0000

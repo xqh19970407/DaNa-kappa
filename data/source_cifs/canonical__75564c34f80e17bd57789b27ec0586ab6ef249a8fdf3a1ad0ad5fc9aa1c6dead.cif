@@ -1,0 +1,27 @@
+data_Crystoria_75564c34f80e17bd57789b27ec0586ab6ef249a8fdf3a1ad0ad5fc9aa1c6dead
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Hg1 Sb2 Sr3'
+_cell_length_a 5.6567201213
+_cell_length_b 5.6567201213
+_cell_length_c 7.2515063286
+_cell_angle_alpha 89.9999985784
+_cell_angle_beta 90.0000013837
+_cell_angle_gamma 119.9999995308
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Sr Sr1 0.0000000330 0.9999999404 0.9998244047 1.0
+Sr Sr2 0.3333330750 0.6666668653 0.3156310022 1.0
+Sr Sr3 0.6666668653 0.3333331048 0.6314375997 1.0
+Sb Sb1 0.0000000480 0.9999999404 0.5195876360 1.0
+Sb Sb2 0.6666668653 0.3333331048 0.1116743535 1.0
+Hg Hg1 0.3333330452 0.6666669250 0.8156309724 1.0

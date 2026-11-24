@@ -1,0 +1,29 @@
+data_Crystoria_0b0501befd74387889fa8a8d5a29e16687d04ffd756a4a7ffc4802cbe8adde3b
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Au2 Cl4 Na2'
+_cell_length_a 4.3071937940
+_cell_length_b 4.3071937940
+_cell_length_c 14.7428398132
+_cell_angle_alpha 89.9999999011
+_cell_angle_beta 90.0000001407
+_cell_angle_gamma 120.0000005815
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Na Na1 0.0000000000 0.0000000021 0.0000000000 1.0
+Na Na2 0.0000000000 0.0000000000 0.5000000000 1.0
+Cl Cl1 0.3333331645 0.6666668057 0.0940181389 1.0
+Cl Cl2 0.3333331645 0.6666668057 0.4059818685 1.0
+Cl Cl3 0.6666668057 0.3333331645 0.5940181017 1.0
+Cl Cl4 0.6666668057 0.3333331347 0.9059818983 1.0
+Au Au1 0.3333330452 0.6666669250 0.2500000000 1.0
+Au Au2 0.6666669250 0.3333330452 0.7500000000 1.0

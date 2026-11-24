@@ -1,0 +1,25 @@
+data_Crystoria_cdb650a2ed9263ca24190cd090011ae7f078fbfa679772f46784e502b5917868
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Pd1 Te2 Ti1'
+_cell_length_a 4.1704813808
+_cell_length_b 4.1704813808
+_cell_length_c 7.3406071663
+_cell_angle_alpha 90.0000196879
+_cell_angle_beta 89.9999799147
+_cell_angle_gamma 119.9999952250
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ti Ti1 0.0000000589 0.9999999404 0.0005748761 1.0
+Pd Pd1 0.6666668057 0.3333331645 0.1438646317 1.0
+Te Te1 0.3333332241 0.6666667461 0.3045995831 1.0
+Te Te2 0.6666668653 0.3333330750 0.7840129137 1.0

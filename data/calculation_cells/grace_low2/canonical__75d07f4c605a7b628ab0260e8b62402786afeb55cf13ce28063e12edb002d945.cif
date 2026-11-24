@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       YAgTe2
+_chemical_formula_sum              "Y1 Ag1 Te2"
+_cell_length_a       4.49878056766816
+_cell_length_b       4.498780567668159
+_cell_length_c       7.376474433965525
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.0  0.0  0.00018156370119485452  1.0000
+  Ag  Ag1       1.0  0.6666666663426268  0.33333333438975116  0.5975447294583005  1.0000
+  Te  Te1       1.0  0.33333333310640273  0.6666666662128056  0.7548024709965425  1.0000
+  Te  Te2       1.0  0.6666666663426268  0.33333333438975116  0.22079925370586762  1.0000

@@ -1,0 +1,27 @@
+data_Crystoria_f6445aea4bb48a776267bc4d61b3956a1b4105dde1950413d5008ac87745c344
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Br1 H4 N1'
+_cell_length_a 4.0348806381
+_cell_length_b 4.0348806381
+_cell_length_c 4.0348806381
+_cell_angle_alpha 90.0000017615
+_cell_angle_beta 89.9999982324
+_cell_angle_gamma 90.0000008701
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+H H1 0.0014893982 0.0014893792 0.0014893705 1.0
+H H2 0.0014894761 0.2995105088 0.2995105386 1.0
+H H3 0.2995107472 0.0014892606 0.2995107472 1.0
+H H4 0.2995105982 0.2995105982 0.0014894011 1.0
+N N1 0.1504997760 0.1505002677 0.1504999399 1.0
+Br Br1 0.6504999995 0.6504999995 0.6504999995 1.0

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NaCdSbHg
+_chemical_formula_sum              "Na1 Cd1 Sb1 Hg1"
+_cell_length_a       5.260148306332615
+_cell_length_b       5.260148306332617
+_cell_length_c       5.260148306332614
+_cell_angle_alpha    60.000000000000036
+_cell_angle_beta     59.99999999999999
+_cell_angle_gamma    60.00000000000002
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  1.5755047266807765e-10  1.5755041715692641e-10  1.5755050042365324e-10  1.0000
+  Cd  Cd1       1.0  0.4999999997694926  0.49999999976949266  0.4999999997694927  1.0000
+  Sb  Sb1       1.0  0.25000000012107215  0.250000000121072  0.25000000012107215  1.0000
+  Hg  Hg1       1.0  0.7499999997330145  0.7499999997330142  0.7499999997330142  1.0000

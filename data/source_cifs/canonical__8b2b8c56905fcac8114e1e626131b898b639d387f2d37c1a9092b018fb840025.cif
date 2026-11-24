@@ -1,0 +1,25 @@
+data_Crystoria_8b2b8c56905fcac8114e1e626131b898b639d387f2d37c1a9092b018fb840025
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Ge1 Hg1 Sr2'
+_cell_length_a 5.5549532850
+_cell_length_b 5.5549532850
+_cell_length_c 5.5549532850
+_cell_angle_alpha 60.0000002212
+_cell_angle_beta 60.0000002124
+_cell_angle_gamma 60.0000002129
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ge Ge1 0.0000000011 0.0000000026 0.0000000017 1.0
+Sr Sr1 0.2500000000 0.2500000000 0.2500000000 1.0
+Sr Sr2 0.7500000000 0.7500000000 0.7500000000 1.0
+Hg Hg1 0.5000000000 0.5000000000 0.5000000000 1.0

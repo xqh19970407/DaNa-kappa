@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       KSnSb
+_chemical_formula_sum              "K1 Sn1 Sb1"
+_cell_length_a       4.427291236220524
+_cell_length_b       4.4272912362205235
+_cell_length_c       6.636613299397473
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  6.776152369323302e-09  7.089076037418035e-27  0.0015164044590203368  1.0000
+  Sn  Sn1       1.0  0.33333334049903907  0.6666666674457733  0.4037668806533115  1.0000
+  Sb  Sb1       1.0  0.666666671153681  0.3333333324188156  0.6223627358814156  1.0000

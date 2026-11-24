@@ -1,0 +1,25 @@
+data_Crystoria_fbedf6041a58544a37d9b17fb52a152d2ccf4a3870fbb4f760a8d906c4809967
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Ca2 Hg1 Pb1'
+_cell_length_a 5.4790016294
+_cell_length_b 5.4790016294
+_cell_length_c 5.4790016294
+_cell_angle_alpha 59.9999998279
+_cell_angle_beta 59.9999998427
+_cell_angle_gamma 59.9999998301
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca Ca1 0.0000000022 0.0000000025 0.0000000027 1.0
+Ca Ca2 0.5000000000 0.5000000000 0.5000000000 1.0
+Hg Hg1 0.2500000000 0.2500000000 0.2500000000 1.0
+Pb Pb1 0.7500000000 0.7500000000 0.7500000000 1.0

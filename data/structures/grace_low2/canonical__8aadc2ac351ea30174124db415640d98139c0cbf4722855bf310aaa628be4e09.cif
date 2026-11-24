@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Br4Pb2
+_chemical_formula_sum              "Br4 Pb2"
+_cell_length_a       7.070639990021205
+_cell_length_b       7.191858863803115
+_cell_length_c       4.5744264320347625
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.0074611548706274575  0.9949667421614475  1.1681819821208036e-12  1.0000
+  Br  Br2       1.0  0.475600872728059  0.3213073050738417  4.0985129383671466e-11  1.0000
+  Br  Br3       1.0  0.5074611555508715  0.8213073048199839  0.5000000008894119  1.0000
+  Br  Br4       1.0  0.975600873408303  0.49496674190758966  0.5000000009632571  1.0000
+  Pb  Pb1       1.0  0.7415310137978437  0.6581370240484711  5.5707430674274154e-11  1.0000
+  Pb  Pb2       1.0  0.2415310144810868  0.1581370229329604  0.5000000008917036  1.0000

@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       ZnTlBi
+_chemical_formula_sum              "Zn1 Tl1 Bi1"
+_cell_length_a       4.977230805795107
+_cell_length_b       4.977230805795109
+_cell_length_c       4.977230805795109
+_cell_angle_alpha    59.99999999999999
+_cell_angle_beta     59.99999999999999
+_cell_angle_gamma    59.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.9999999996270402  4.2536201484617217e-11  8.50451397596979e-10  1.0000
+  Tl  Tl1       1.0  0.7499999992540805  0.7500000006650641  0.7500000005409196  1.0000
+  Bi  Bi1       1.0  0.2499999992540804  0.2500000001627769  0.2500000005409198  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TbCuTe2
+_chemical_formula_sum              "Tb1 Cu1 Te2"
+_cell_length_a       4.254997485657447
+_cell_length_b       4.25499748565745
+_cell_length_c       6.704182986895471
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.0  0.0  0.0  1.0000
+  Cu  Cu1       1.0  0.0  0.0  0.4999999994857336  1.0000
+  Te  Te1       1.0  0.33333333282511424  0.6666666656502285  0.27907228123950534  1.0000
+  Te  Te2       1.0  0.6666666657477568  0.33333333282511424  0.720927719223568  1.0000

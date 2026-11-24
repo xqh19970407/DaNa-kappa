@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sr3Te4Pb
+_chemical_formula_sum              "Sr3 Te4 Pb1"
+_cell_length_a       4.727688503757731
+_cell_length_b       4.727688503757731
+_cell_length_c       13.348918222384935
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.0  0.0  0.0014477300465885437  1.0000
+  Sr  Sr2       1.0  0.0  0.0  0.4954242778197533  1.0000
+  Sr  Sr3       1.0  0.4999999996025826  0.4999999996025826  0.7484360038438405  1.0000
+  Te  Te1       1.0  0.0  0.0  0.24843600393317092  1.0000
+  Te  Te2       1.0  0.0  0.0  0.7484360038438405  1.0000
+  Te  Te3       1.0  0.4999999996025826  0.4999999996025826  0.0006134377230859232  1.0000
+  Te  Te4       1.0  0.4999999996025826  0.4999999996025826  0.496258570143256  1.0000
+  Pb  Pb1       1.0  0.4999999996025826  0.4999999996025826  0.24843600393317092  1.0000

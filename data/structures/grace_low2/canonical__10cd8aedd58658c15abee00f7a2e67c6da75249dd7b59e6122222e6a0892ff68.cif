@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       CaRhLa
+_chemical_formula_sum              "Ca1 Rh1 La1"
+_cell_length_a       7.201571502276771
+_cell_length_b       7.201571502276771
+_cell_length_c       7.201571502276771
+_cell_angle_alpha    151.24122419825133
+_cell_angle_beta     151.24122419825133
+_cell_angle_gamma    41.12241597897996
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.00045484548318502633  0.00045484688104454983  8.725721009828544e-09  1.0000
+  Rh  Rh1       1.0  0.6365083015374635  0.6365083029353232  8.725720978711938e-09  1.0000
+  La  La1       1.0  0.25033486195193916  0.2503348630112354  9.064284239650286e-09  1.0000

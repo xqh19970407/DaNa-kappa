@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       KSe2Ag2Cs
+_chemical_formula_sum              "K1 Se2 Ag2 Cs1"
+_cell_length_a       4.6032846987135505
+_cell_length_b       4.60328469871355
+_cell_length_c       10.144115136405038
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  2.1723618360590647e-09  0.0  0.9999998810734083  1.0000
+  Se  Se1       1.0  0.3333333355108683  0.666666666677013  0.2326134205172514  1.0000
+  Se  Se2       1.0  0.6666666689813467  0.3333333333385065  0.7673863412751765  1.0000
+  Ag  Ag1       1.0  0.3333333355108683  0.666666666677013  0.7699841972385246  1.0000
+  Ag  Ag2       1.0  0.6666666689813467  0.3333333333385065  0.23001556455390323  1.0000
+  Cs  Cs1       1.0  2.172361836059069e-09  0.0  0.499999880896214  1.0000

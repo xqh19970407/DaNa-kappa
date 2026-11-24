@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       FNa2Cl
+_chemical_formula_sum              "F1 Na2 Cl1"
+_cell_length_a       6.404483108930811
+_cell_length_b       6.404483108930809
+_cell_length_c       6.404483108930809
+_cell_angle_alpha    33.37501442031701
+_cell_angle_beta     33.37501442031703
+_cell_angle_gamma    33.37501442031703
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.9999999996132694  4.221264398235994e-10  0.9999999998789315  1.0000
+  Na  Na1       1.0  0.7372172819404532  0.7372172835581658  0.7372172824717761  1.0000
+  Na  Na2       1.0  0.26278271689935506  0.2627827177082132  0.2627827171650183  1.0000
+  Cl  Cl1       1.0  0.4999999995989901  0.5000000004078478  0.4999999998646529  1.0000

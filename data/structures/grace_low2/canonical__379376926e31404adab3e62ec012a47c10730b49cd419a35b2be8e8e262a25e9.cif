@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       KBr2In
+_chemical_formula_sum              "K1 Br2 In1"
+_cell_length_a       8.210412371475442
+_cell_length_b       8.210412371475442
+_cell_length_c       8.210412371475442
+_cell_angle_alpha    33.65512564167325
+_cell_angle_beta     33.65512564167325
+_cell_angle_gamma    33.65512564167324
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  5.0650324359324336e-09  0.9999999963592192  0.9999999996128024  1.0000
+  Br  Br1       1.0  0.749286269494623  0.7492862607888098  0.7492862640423928  1.0000
+  Br  Br2       1.0  0.2507137406576161  0.25071373166048366  0.2507137351749308  1.0000
+  In  In1       1.0  0.5000000049506957  0.4999999962448825  0.49999999949846563  1.0000

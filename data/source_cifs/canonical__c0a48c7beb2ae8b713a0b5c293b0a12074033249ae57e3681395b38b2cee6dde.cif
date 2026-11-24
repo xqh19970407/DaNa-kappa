@@ -1,0 +1,29 @@
+data_Crystoria_c0a48c7beb2ae8b713a0b5c293b0a12074033249ae57e3681395b38b2cee6dde
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Br4 K2 Tl2'
+_cell_length_a 4.6807445871
+_cell_length_b 4.6807445871
+_cell_length_c 16.0597972870
+_cell_angle_alpha 89.9999997713
+_cell_angle_beta 90.0000002567
+_cell_angle_gamma 119.9999991393
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+K K1 0.0000000007 0.0000000000 0.0000000091 1.0
+K K2 0.0000000008 0.0000000000 0.5000000000 1.0
+Br Br1 0.3333331347 0.6666668653 0.1210130006 1.0
+Br Br2 0.3333331347 0.6666668653 0.3789869845 1.0
+Br Br3 0.6666668653 0.3333331347 0.6210129857 1.0
+Br Br4 0.6666668653 0.3333331347 0.8789870143 1.0
+Tl Tl1 0.3333331347 0.6666668653 0.7500000000 1.0
+Tl Tl2 0.6666668653 0.3333331347 0.2500000000 1.0

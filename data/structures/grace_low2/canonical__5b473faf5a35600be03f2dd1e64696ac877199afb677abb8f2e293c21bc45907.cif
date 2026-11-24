@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       AsSnCs
+_chemical_formula_sum              "As1 Sn1 Cs1"
+_cell_length_a       7.558821924457082
+_cell_length_b       7.558821924457082
+_cell_length_c       7.558821924457082
+_cell_angle_alpha    32.39612975282302
+_cell_angle_beta     32.39612975282302
+_cell_angle_gamma    32.396129752823
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.00045142525350922856  0.00045142539194502806  0.00045142546814057815  1.0000
+  Sn  Sn1       1.0  0.604954488133659  0.6049544885489659  0.6049544884867261  1.0000
+  Cs  Cs1       1.0  0.7932590871589779  0.7932590871589777  0.7932590874498048  1.0000

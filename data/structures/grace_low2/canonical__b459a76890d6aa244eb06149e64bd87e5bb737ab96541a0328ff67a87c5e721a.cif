@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Mg2Cl2Ba2Bi2
+_chemical_formula_sum              "Mg2 Cl2 Ba2 Bi2"
+_cell_length_a       4.893237044250415
+_cell_length_b       4.893237044250418
+_cell_length_c       10.799901876524688
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.0  0.0  1.851868677017631e-09  1.0000
+  Mg  Mg2       1.0  0.4999999995656847  0.4999999995656844  1.8518686770059468e-09  1.0000
+  Cl  Cl1       1.0  0.0  0.0  0.5000000020127643  1.0000
+  Cl  Cl2       1.0  0.4999999995656847  0.4999999995656844  0.5000000020127643  1.0000
+  Ba  Ba1       1.0  0.0  0.4999999995656844  0.32119420617516303  1.0000
+  Ba  Ba2       1.0  0.4999999995656847  0.0  0.6788057978503657  1.0000
+  Bi  Bi1       1.0  0.0  0.4999999995656844  0.8331983681777325  1.0000
+  Bi  Bi2       1.0  0.4999999995656847  0.0  0.16680163584779606  1.0000

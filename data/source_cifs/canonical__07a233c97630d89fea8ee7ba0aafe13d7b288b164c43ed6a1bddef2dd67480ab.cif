@@ -1,0 +1,27 @@
+data_Crystoria_07a233c97630d89fea8ee7ba0aafe13d7b288b164c43ed6a1bddef2dd67480ab
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Au2 K2 Se2'
+_cell_length_a 4.7408790588
+_cell_length_b 5.9212265015
+_cell_length_c 6.7035965919
+_cell_angle_alpha 90.0000008420
+_cell_angle_beta 90.0000000001
+_cell_angle_gamma 89.9999999913
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+K K1 0.0000000009 0.0000000012 0.9999156594 1.0
+K K2 0.0000000000 0.5000000000 0.3724943399 1.0
+Se Se1 0.5000000000 0.0000000169 0.3886609375 1.0
+Se Se2 0.5000000000 0.5000000000 0.9837490320 1.0
+Au Au1 0.5000000000 0.2500000298 0.6862050295 1.0
+Au Au2 0.5000000000 0.7500000000 0.6862050295 1.0

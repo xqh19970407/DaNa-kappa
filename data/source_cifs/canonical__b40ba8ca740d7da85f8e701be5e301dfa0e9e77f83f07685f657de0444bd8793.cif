@@ -1,0 +1,24 @@
+data_Crystoria_b40ba8ca740d7da85f8e701be5e301dfa0e9e77f83f07685f657de0444bd8793
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Bi1 Cu1 Sn1'
+_cell_length_a 4.7365056569
+_cell_length_b 4.7365056569
+_cell_length_c 4.7365056569
+_cell_angle_alpha 59.9999999394
+_cell_angle_beta 59.9999999317
+_cell_angle_gamma 59.9999999451
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cu Cu1 0.0000000012 0.0000000023 0.0000000012 1.0
+Sn Sn1 0.2500000000 0.2500000000 0.2500000000 1.0
+Bi Bi1 0.7500000000 0.7500000000 0.7500000000 1.0

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na2Te4La2
+_chemical_formula_sum              "Na2 Te4 La2"
+_cell_length_a       4.621666448584432
+_cell_length_b       4.621666448584432
+_cell_length_c       15.380368516867556
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.0  0.0  0.9998367483849788  1.0000
+  Na  Na2       1.0  0.333333333558833  0.666666667117666  0.4998367484868113  1.0000
+  Te  Te1       1.0  0.0  0.0  0.6365462725592707  1.0000
+  Te  Te2       1.0  0.333333333558833  0.666666667117666  0.13654627245743806  1.0000
+  Te  Te3       1.0  0.6666666652260878  0.3333333323096077  0.37575078735350215  1.0000
+  Te  Te4       1.0  0.6666666652260878  0.3333333323096077  0.8757507874553347  1.0000
+  La  La1       1.0  0.0  0.0  0.2565651821458226  1.0000
+  La  La2       1.0  0.333333333558833  0.666666667117666  0.7565651822476551  1.0000

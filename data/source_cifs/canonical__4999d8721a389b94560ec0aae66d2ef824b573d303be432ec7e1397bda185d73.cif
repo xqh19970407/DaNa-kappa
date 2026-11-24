@@ -1,0 +1,27 @@
+data_Crystoria_4999d8721a389b94560ec0aae66d2ef824b573d303be432ec7e1397bda185d73
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Cs1 Na1 Sb2 Zn2'
+_cell_length_a 4.5804257516
+_cell_length_b 4.5804257516
+_cell_length_c 10.4538402557
+_cell_angle_alpha 90.0000000000
+_cell_angle_beta 90.0000000000
+_cell_angle_gamma 119.9999932901
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Na Na1 0.0000000000 0.0000000000 0.0000000000 1.0
+Zn Zn1 0.3333329856 0.6666669846 0.1887640059 1.0
+Zn Zn2 0.6666669846 0.3333329856 0.8112360239 1.0
+Sb Sb1 0.3333329856 0.6666669846 0.7861660123 1.0
+Sb Sb2 0.6666669846 0.3333329856 0.2138340026 1.0
+Cs Cs1 0.0000000000 0.0000000000 0.5000000000 1.0

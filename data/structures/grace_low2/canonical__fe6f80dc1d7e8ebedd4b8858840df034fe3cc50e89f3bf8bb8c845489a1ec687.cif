@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       NaAgTe
+_chemical_formula_sum              "Na1 Ag1 Te1"
+_cell_length_a       4.803772065511233
+_cell_length_b       4.803772065511232
+_cell_length_c       4.803772065511232
+_cell_angle_alpha    59.99999999999999
+_cell_angle_beta     60.00000000000001
+_cell_angle_gamma    59.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  2.1498461344471312e-10  0.9999999999730623  0.9999999998125773  1.0000
+  Ag  Ag1       1.0  0.25000000042996917  0.25000000016608165  0.2500000002260889  1.0000
+  Te  Te1       1.0  0.49999999957759755  0.4999999998850575  0.5000000006259739  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NaCl2Rb
+_chemical_formula_sum              "Na1 Cl2 Rb1"
+_cell_length_a       7.667577171176822
+_cell_length_b       7.667577171176822
+_cell_length_c       7.6675771711768235
+_cell_angle_alpha    33.01342293167154
+_cell_angle_beta     33.01342293167154
+_cell_angle_gamma    33.01342293167152
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  2.3577489369665126e-10  2.839792554281847e-10  0.9999999993042517  1.0000
+  Cl  Cl1       1.0  0.7372865735899102  0.7372865736863191  0.7372865730519315  1.0000
+  Cl  Cl2       1.0  0.2627134268291265  0.26271342687733135  0.26271342589760244  1.0000
+  Rb  Rb1       1.0  0.5000000003598436  0.5000000004080486  0.49999999942832  1.0000

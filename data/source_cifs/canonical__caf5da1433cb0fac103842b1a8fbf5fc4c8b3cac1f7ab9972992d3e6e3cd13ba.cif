@@ -1,0 +1,25 @@
+data_Crystoria_caf5da1433cb0fac103842b1a8fbf5fc4c8b3cac1f7ab9972992d3e6e3cd13ba
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Ca1 K1 Na1 Pb1'
+_cell_length_a 5.6950757091
+_cell_length_b 5.6950757091
+_cell_length_c 5.6950757091
+_cell_angle_alpha 60.0000000176
+_cell_angle_beta 60.0000000200
+_cell_angle_gamma 60.0000000204
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Na Na1 0.0000000001 0.0000000003 0.0000000003 1.0
+K K1 0.7500000000 0.7500000000 0.7500000000 1.0
+Ca Ca1 0.5000000000 0.5000000000 0.5000000000 1.0
+Pb Pb1 0.2500000000 0.2500000000 0.2500000000 1.0

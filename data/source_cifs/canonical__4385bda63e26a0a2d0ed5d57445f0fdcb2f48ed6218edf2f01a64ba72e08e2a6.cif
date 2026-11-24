@@ -1,0 +1,26 @@
+data_Crystoria_4385bda63e26a0a2d0ed5d57445f0fdcb2f48ed6218edf2f01a64ba72e08e2a6
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'As2 Mg2 Zn1'
+_cell_length_a 4.1840239189
+_cell_length_b 4.1840239189
+_cell_length_c 6.7788558006
+_cell_angle_alpha 90.0000000000
+_cell_angle_beta 90.0000000000
+_cell_angle_gamma 120.0000009770
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Mg Mg1 0.0000000000 0.0000000000 0.0000000000 1.0
+Mg Mg2 0.3333329856 0.6666669846 0.6368070245 1.0
+Zn Zn1 0.6666669846 0.3333329856 0.3743659854 1.0
+As As1 0.3333329856 0.6666669846 0.2425840050 1.0
+As As2 0.6666669846 0.3333329856 0.7782179713 1.0

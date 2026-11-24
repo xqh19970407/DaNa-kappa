@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cl2I2Ba2
+_chemical_formula_sum              "Cl2 I2 Ba2"
+_cell_length_a       5.065418262032459
+_cell_length_b       5.065418262032459
+_cell_length_c       8.65277800960392
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.0  0.0  0.0  1.0000
+  Cl  Cl2       1.0  0.49999999979937904  0.49999999979937904  0.0  1.0000
+  I   I1        1.0  0.0  0.49999999979937904  0.36369804084966384  1.0000
+  I   I2        1.0  0.49999999979937904  0.0  0.6363019591961109  1.0000
+  Ba  Ba1       1.0  0.0  0.49999999979937904  0.7818840391479878  1.0000
+  Ba  Ba2       1.0  0.49999999979937904  0.0  0.21811596089778698  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ca2IAu
+_chemical_formula_sum              "Ca2 I1 Au1"
+_cell_length_a       8.403559940841161
+_cell_length_b       8.403559940841163
+_cell_length_c       8.403559940841165
+_cell_angle_alpha    29.711192380031402
+_cell_angle_beta     29.711192380031427
+_cell_angle_gamma    29.711192380031402
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.0001886327617410628  0.00018863225016861124  0.00018863309460668624  1.0000
+  Ca  Ca2       1.0  0.5319060247301481  0.5319060242185744  0.5319060250630124  1.0000
+  I   I1        1.0  0.7660473287459446  0.7660473282343715  0.7660473290788095  1.0000
+  Au  Au1       1.0  0.26604732875477  0.2660473282431954  0.26604732908763346  1.0000

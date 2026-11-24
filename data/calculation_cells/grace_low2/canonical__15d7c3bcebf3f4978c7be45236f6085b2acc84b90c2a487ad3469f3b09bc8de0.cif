@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sn4Ba2
+_chemical_formula_sum              "Sn4 Ba2"
+_cell_length_a       4.721382043082306
+_cell_length_b       4.721382043082311
+_cell_length_c       11.665723495543666
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999997
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.9999998226387731  1.7608920016286434e-07  0.0006393388290789772  1.0000
+  Sn  Sn2       1.0  0.9999998214656522  1.7602048685283478e-07  0.500639338162868  1.0000
+  Sn  Sn3       1.0  0.33333315407640396  0.6666668418948302  0.1052978317606484  1.0000
+  Sn  Sn4       1.0  0.6666664866871558  0.33333350776917353  0.6052978319516497  1.0000
+  Ba  Ba1       1.0  0.33333315407640396  0.6666668418948302  0.7869598112373362  1.0000
+  Ba  Ba2       1.0  0.6666664866871558  0.33333350776917353  0.2869598110463349  1.0000

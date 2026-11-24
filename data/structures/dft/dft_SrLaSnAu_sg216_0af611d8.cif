@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       AuLaSnSr
+_chemical_formula_sum              "Au1 La1 Sn1 Sr1"
+_cell_length_a       5.535770374826378
+_cell_length_b       5.535770374826377
+_cell_length_c       5.535770374826378
+_cell_angle_alpha    60.00000000000001
+_cell_angle_beta     60.00000000000001
+_cell_angle_gamma    60.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.24999999985088553  0.24999999985088547  0.2499999998508855  1.0000
+  La  La1       1.0  0.49999999983323556  0.4999999998332356  0.4999999998332356  1.0000
+  Sn  Sn1       1.0  0.7500000000353068  0.750000000035307  0.750000000035307  1.0000
+  Sr  Sr1       1.0  2.0207119999999995e-10  2.020712e-10  2.020712e-10  1.0000

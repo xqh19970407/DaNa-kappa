@@ -1,0 +1,29 @@
+data_Crystoria_fee8b96ae2cf2797a391b811a58fee77cdcbf2a4af3135f2278d598b4e5c5752
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Cd2 Cs2 F2 Te2'
+_cell_length_a 4.7149161772
+_cell_length_b 4.7149161772
+_cell_length_c 14.5697984695
+_cell_angle_alpha 90.0000000000
+_cell_angle_beta 90.0000000000
+_cell_angle_gamma 119.9999992700
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+F F1 0.0000000000 0.0000000000 0.0000000000 1.0
+F F2 0.0000000000 0.0000000000 0.5000000000 1.0
+Cd Cd1 0.0000000000 0.0000000000 0.3458060026 1.0
+Cd Cd2 0.0000000000 0.0000000000 0.8458060026 1.0
+Te Te1 0.3333329856 0.6666669846 0.2862519920 1.0
+Te Te2 0.6666669846 0.3333329856 0.7862520218 1.0
+Cs Cs1 0.3333329856 0.6666669846 0.5722140074 1.0
+Cs Cs2 0.6666669846 0.3333329856 0.0722139999 1.0

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       BiHgRbSr
+_chemical_formula_sum              "Bi1 Hg1 Rb1 Sr1"
+_cell_length_a       5.932133456931841
+_cell_length_b       5.932133456931841
+_cell_length_c       5.932133456931842
+_cell_angle_alpha    59.99999999999999
+_cell_angle_beta     59.99999999999997
+_cell_angle_gamma    60.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.2500000004625065  0.2500000000675087  0.24999999968540718  1.0000
+  Hg  Hg1       1.0  0.7500000004625065  0.7500000000675086  0.7499999996854071  1.0000
+  Rb  Rb1       1.0  2.3125319999999996e-10  0.9999999997022326  8.539300000000012e-11  1.0000
+  Sr  Sr1       1.0  0.5000000002312532  0.49999999970223286  0.500000000085393  1.0000

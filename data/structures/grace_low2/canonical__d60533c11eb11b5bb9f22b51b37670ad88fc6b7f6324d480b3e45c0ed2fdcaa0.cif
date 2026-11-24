@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Y2IIr
+_chemical_formula_sum              "Y2 I1 Ir1"
+_cell_length_a       8.249745737320172
+_cell_length_b       8.249745737320172
+_cell_length_c       8.249745737320172
+_cell_angle_alpha    29.068641128490178
+_cell_angle_beta     29.068641128490178
+_cell_angle_gamma    29.068641128490192
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.9998258401943116  0.9998260015635567  0.9998260016626364  1.0000
+  Y   Y2        1.0  0.546881276780986  0.5468814381502312  0.5468814382493108  1.0000
+  I   I1        1.0  0.7733535584172876  0.7733537197865328  0.7733537198856122  1.0000
+  Ir  Ir1       1.0  0.27335355841188586  0.273353719781131  0.2733537198802104  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       RbCs3Au4
+_chemical_formula_sum              "Rb1 Cs3 Au4"
+_cell_length_a       6.105056424015179
+_cell_length_b       6.105056424015179
+_cell_length_c       8.622825551365343
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.0  1.6379864992997386e-09  9.420040056676213e-38  1.0000
+  Cs  Cs1       1.0  0.0  1.6379864992997386e-09  0.5000000005006862  1.0000
+  Cs  Cs2       1.0  0.49999999967115977  0.5000000013091462  2.875493810653453e-29  1.0000
+  Cs  Cs3       1.0  0.49999999967115977  0.5000000013091462  0.5000000005006862  1.0000
+  Au  Au1       1.0  0.0  0.5000000013091462  0.24340875244399024  1.0000
+  Au  Au2       1.0  0.0  0.5000000013091462  0.7565912485573821  1.0000
+  Au  Au3       1.0  0.49999999967115977  1.6379864992997386e-09  0.24340875244399024  1.0000
+  Au  Au4       1.0  0.49999999967115977  1.6379864992997386e-09  0.7565912485573821  1.0000

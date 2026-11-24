@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       AuClCs2
+_chemical_formula_sum              "Au1 Cl1 Cs2"
+_cell_length_a       6.078779259167073
+_cell_length_b       6.078779259167072
+_cell_length_c       6.078779259167072
+_cell_angle_alpha    59.99999999999999
+_cell_angle_beta     59.99999999999999
+_cell_angle_gamma    60.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.4999999998883382  0.4999999997599786  0.4999999998058157  1.0000
+  Cl  Cl1       1.0  0.9999999998883383  0.9999999995231121  2.795558458703614e-10  1.0000
+  Cs  Cs1       1.0  0.2500000007816396  0.24999999935837994  0.2499999997503863  1.0000
+  Cs  Cs2       1.0  0.750000000279158  0.7499999995258689  0.7499999999178755  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MgZnCdTh
+_chemical_formula_sum              "Mg1 Zn1 Cd1 Th1"
+_cell_length_a       5.105455004225867
+_cell_length_b       5.105455004225867
+_cell_length_c       5.105455004225867
+_cell_angle_alpha    60.00000000000001
+_cell_angle_beta     59.999999999999986
+_cell_angle_gamma    59.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  2.98016436735438e-10  2.9801676980234535e-10  2.980163477106501e-10  1.0000
+  Zn  Zn1       1.0  0.7499999997964016  0.749999999796402  0.7499999997964011  1.0000
+  Cd  Cd1       1.0  0.24999999999630937  0.24999999999630979  0.2499999999963091  1.0000
+  Th  Th1       1.0  0.5000000000981089  0.5000000000981091  0.5000000000981084  1.0000

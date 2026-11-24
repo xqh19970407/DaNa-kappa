@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CdPbS2
+_chemical_formula_sum              "Cd1 Pb1 S2"
+_cell_length_a       7.024230363889293
+_cell_length_b       7.024230363889291
+_cell_length_c       7.024230363889291
+_cell_angle_alpha    33.62822817968251
+_cell_angle_beta     33.62822817968257
+_cell_angle_gamma    33.62822817968257
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  1.930874173010569e-10  1.9116438107120444e-10  0.999999999891436  1.0000
+  Pb  Pb1       1.0  0.4999999999076228  0.49999999999239425  0.49999999969266645  1.0000
+  S   S1        1.0  0.7415565018235792  0.7415565014728069  0.7415565011730788  1.0000
+  S   S2        1.0  0.25844349895245605  0.25844349857134025  0.2584434982716124  1.0000

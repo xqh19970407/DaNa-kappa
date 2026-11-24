@@ -1,0 +1,24 @@
+data_Crystoria_2df92289b84505b272b9ed1516533e5129bb1ee9a2230cebfc0ee0e1a71b306d
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'As1 K1 Pb1'
+_cell_length_a 4.2937231469
+_cell_length_b 4.2937235832
+_cell_length_c 7.0186411145
+_cell_angle_alpha 72.1888990016
+_cell_angle_beta 72.1889033945
+_cell_angle_gamma 59.9999891479
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+K K1 0.0000397584 0.0000397445 0.9998806119 1.0
+As As1 0.2156140506 0.2156140655 0.3531574905 1.0
+Pb Pb1 0.8106421828 0.8106421828 0.5680729151 1.0

@@ -1,0 +1,27 @@
+data_Crystoria_3e22d2d0c324a074210955a386b9b074c9823e399a972fc0f5b30a87301b1899
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'As2 Hg2 Na1 Rb1'
+_cell_length_a 4.6052139947
+_cell_length_b 4.6052139947
+_cell_length_c 9.6498565674
+_cell_angle_alpha 90.0000005436
+_cell_angle_beta 89.9999995256
+_cell_angle_gamma 119.9999913648
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Na Na1 0.0000000000 0.0000000000 0.0000000000 1.0
+As As1 0.3333334327 0.6666665673 0.2311452180 1.0
+As As2 0.6666665673 0.3333334029 0.7688547969 1.0
+Rb Rb1 0.0000000000 0.0000000000 0.5000000000 1.0
+Hg Hg1 0.3333334327 0.6666665673 0.8007979989 1.0
+Hg Hg2 0.6666665077 0.3333334327 0.1992019862 1.0

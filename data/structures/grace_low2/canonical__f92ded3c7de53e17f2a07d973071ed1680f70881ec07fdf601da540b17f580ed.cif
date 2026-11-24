@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       AsBa2Au
+_chemical_formula_sum              "As1 Ba2 Au1"
+_cell_length_a       5.7053705077593895
+_cell_length_b       5.705370507759393
+_cell_length_c       5.705370507759395
+_cell_angle_alpha    59.99999999999999
+_cell_angle_beta     60.00000000000001
+_cell_angle_gamma    59.999999999999986
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  1.8369629167174826e-09  2.262416910037453e-09  1.2507494545190085e-09  1.0000
+  Ba  Ba1       1.0  0.25000000099061  0.2500000019815907  0.2500000023839958  1.0000
+  Ba  Ba2       1.0  0.7500000004539467  0.7500000028516475  0.7500000020569128  1.0000
+  Au  Au1       1.0  0.5000000013002998  0.5000000024413047  0.5000000014296372  1.0000

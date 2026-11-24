@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaKAs2Hg2
+_chemical_formula_sum              "Na1 K1 As2 Hg2"
+_cell_length_a       4.590458608207066
+_cell_length_b       4.590458608207065
+_cell_length_c       9.2993767395675
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.0  0.0  0.0  1.0000
+  K   K1        1.0  0.0  0.0  0.5000000000232543  1.0000
+  As  As1       1.0  0.33333333293687756  0.6666666658737551  0.23765951868541976  1.0000
+  As  As2       1.0  0.6666666662033712  0.3333333341945956  0.7623404813610888  1.0000
+  Hg  Hg1       1.0  0.33333333293687756  0.6666666658737551  0.7878504404307795  1.0000
+  Hg  Hg2       1.0  0.6666666662033712  0.3333333341945956  0.21214955961572915  1.0000

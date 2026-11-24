@@ -1,0 +1,26 @@
+data_Crystoria_fcb48e84cf8f2e3715da67a0a9d23ac83b3594b86ca9eeda08f8a91e86d6f53e
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'As2 In1 Mg1 Na1'
+_cell_length_a 4.4024982054
+_cell_length_b 4.4024982054
+_cell_length_c 7.5268793106
+_cell_angle_alpha 89.9999893241
+_cell_angle_beta 90.0000106634
+_cell_angle_gamma 119.9999850704
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Na Na1 0.0000000106 0.0000000000 0.9998933673 1.0
+Mg Mg1 0.3333332837 0.6666666865 0.6709746718 1.0
+As As1 0.3333332539 0.6666667461 0.2670046389 1.0
+As As2 0.6666666865 0.3333332539 0.7615486979 1.0
+In In1 0.6666666865 0.3333332837 0.3995295465 1.0

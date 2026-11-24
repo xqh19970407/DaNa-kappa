@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CaAs2SrAu2
+_chemical_formula_sum              "Ca1 As2 Sr1 Au2"
+_cell_length_a       4.485076022853698
+_cell_length_b       4.4850760228537006
+_cell_length_c       8.32957749852469
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.0  0.0  0.0  1.0000
+  As  As1       1.0  0.3333333334452589  0.6666666668905176  0.7562227485266405  1.0000
+  As  As2       1.0  0.666666665760862  0.33333333215798905  0.2437772516504765  1.0000
+  Sr  Sr1       1.0  1.277003743752704e-25  1.8178866903105977e-24  0.5000000000885585  1.0000
+  Au  Au1       1.0  0.3333333334452589  0.6666666668905176  0.2325226628052915  1.0000
+  Au  Au2       1.0  0.666666665760862  0.33333333215798905  0.7674773373718254  1.0000

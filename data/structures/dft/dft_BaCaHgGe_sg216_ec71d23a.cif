@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       BaCaGeHg
+_chemical_formula_sum              "Ba1 Ca1 Ge1 Hg1"
+_cell_length_a       5.5857591290758855
+_cell_length_b       5.585759129075885
+_cell_length_c       5.5857591290758855
+_cell_angle_alpha    60.00000000000001
+_cell_angle_beta     59.999999999999986
+_cell_angle_gamma    60.00000000000002
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.49999999998594546  0.4999999999859527  0.49999999998595257  1.0000
+  Ca  Ca1       1.0  0.9999999999859523  0.9999999999859527  0.9999999999859526  1.0000
+  Ge  Ge1       1.0  0.7500000003377849  0.7500000003377849  0.7500000003377848  1.0000
+  Hg  Hg1       1.0  0.25000000033778486  0.2500000003377849  0.25000000033778497  1.0000

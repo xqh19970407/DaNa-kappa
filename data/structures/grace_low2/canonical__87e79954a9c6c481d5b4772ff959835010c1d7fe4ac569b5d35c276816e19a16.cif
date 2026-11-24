@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NaSnAuTh
+_chemical_formula_sum              "Na1 Sn1 Au1 Th1"
+_cell_length_a       5.259688217131786
+_cell_length_b       5.259688217131785
+_cell_length_c       5.259688217131786
+_cell_angle_alpha    60.00000000000001
+_cell_angle_beta     59.99999999999999
+_cell_angle_gamma    59.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  2.2130583476887011e-10  3.3243364905363986e-10  0.9999999996304288  1.0000
+  Sn  Sn1       1.0  0.7499999992783363  0.7500000007785368  0.7500000001977944  1.0000
+  Au  Au1       1.0  0.24999999986047394  0.2500000005844908  0.2500000000037485  1.0000
+  Th  Th1       1.0  0.4999999996391681  0.5000000002520574  0.5000000003733195  1.0000

@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       ThSbRh
+_chemical_formula_sum              "Th1 Sb1 Rh1"
+_cell_length_a       4.764026122090759
+_cell_length_b       4.7640261220907565
+_cell_length_c       4.764026122090757
+_cell_angle_alpha    60.00000000000001
+_cell_angle_beta     59.999999999999986
+_cell_angle_gamma    59.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Th  Th1       1.0  0.9999999998317576  5.90500445274921e-10  0.9999999992199414  1.0000
+  Sb  Sb1       1.0  0.5000000009700292  0.49999999977031717  0.4999999998626462  1.0000
+  Rh  Rh1       1.0  0.2499999998485507  0.24999999993234778  0.2500000003679976  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HNaCl2
+_chemical_formula_sum              "H1 Na1 Cl2"
+_cell_length_a       6.38855306754095
+_cell_length_b       6.3885530675409505
+_cell_length_c       6.388553067540951
+_cell_angle_alpha    39.34407259949127
+_cell_angle_beta     39.34407259949129
+_cell_angle_gamma    39.344072599491255
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  4.19485200798859e-10  0.9999999998807927  0.9999999998696092  1.0000
+  Na  Na1       1.0  0.5000000004477998  0.4999999999091073  0.4999999998979237  1.0000
+  Cl  Cl1       1.0  0.9118342639232723  0.9118342633845794  0.911834263373396  1.0000
+  Cl  Cl2       1.0  0.08816573733518251  0.088165736257799  0.08816573623543197  1.0000

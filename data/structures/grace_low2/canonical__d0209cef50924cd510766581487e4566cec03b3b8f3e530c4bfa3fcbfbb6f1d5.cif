@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Li2OCaTe
+_chemical_formula_sum              "Li2 O1 Ca1 Te1"
+_cell_length_a       4.377046985950067
+_cell_length_b       4.377046985950067
+_cell_length_c       4.6084491250682955
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.0  0.0  0.0  1.0000
+  Li  Li2       1.0  0.4999999993203104  0.4999999993203104  6.354327189848428e-21  1.0000
+  O   O1        1.0  0.0  0.4999999993203104  6.354327327830387e-21  1.0000
+  Ca  Ca1       1.0  7.54471414689096e-46  0.4999999993203104  0.49999999945010837  1.0000
+  Te  Te1       1.0  0.4999999993203104  7.043080992139784e-21  0.49999999945010837  1.0000

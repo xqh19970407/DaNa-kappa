@@ -1,0 +1,27 @@
+data_Crystoria_61e1d5ecb6e0817e05ce37c84f1e53efd5fa296656c692ce9d7a16c60e6af6fa
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Cu2 Na1 S2 Tl1'
+_cell_length_a 3.9136862219
+_cell_length_b 3.9136862219
+_cell_length_c 9.1035346985
+_cell_angle_alpha 90.0000020266
+_cell_angle_beta 89.9999983106
+_cell_angle_gamma 119.9999950646
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Na Na1 0.0000000000 0.0000000000 0.0000000000 1.0
+S S1 0.3333333135 0.6666666269 0.7824174762 1.0
+S S2 0.6666666865 0.3333333135 0.2175825089 1.0
+Cu Cu1 0.3333333135 0.6666666865 0.2395893037 1.0
+Cu Cu2 0.6666666865 0.3333333433 0.7604106665 1.0
+Tl Tl1 0.0000000024 0.0000000000 0.5000000000 1.0

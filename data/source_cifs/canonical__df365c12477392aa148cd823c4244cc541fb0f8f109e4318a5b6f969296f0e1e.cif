@@ -1,0 +1,25 @@
+data_Crystoria_df365c12477392aa148cd823c4244cc541fb0f8f109e4318a5b6f969296f0e1e
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Cs1 In1 Te2'
+_cell_length_a 4.5361251831
+_cell_length_b 4.5361251831
+_cell_length_c 8.7286835622
+_cell_angle_alpha 105.0605881988
+_cell_angle_beta 105.0605881498
+_cell_angle_gamma 90.0000000275
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+In In1 0.9999998808 0.0000001015 0.0000000002 1.0
+Te Te1 0.1070146784 0.6070145965 0.2140284330 1.0
+Te Te2 0.3929854035 0.8929853439 0.7859715223 1.0
+Cs Cs1 0.7500000000 0.2500000000 0.5000000000 1.0

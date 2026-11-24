@@ -1,0 +1,25 @@
+data_Crystoria_058426b2f81ec368873e16062f78ba7d99fc0d9af51070300fd7e60d381dfc56
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Bi1 Na1 Te2'
+_cell_length_a 4.5227204396
+_cell_length_b 4.5227203369
+_cell_length_c 8.0682093125
+_cell_angle_alpha 73.7230648394
+_cell_angle_beta 73.7230652331
+_cell_angle_gamma 60.0000002448
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Na Na1 0.0000000085 0.0000000000 0.0000000000 1.0
+Te Te1 0.2452880889 0.2452881038 0.2641357481 1.0
+Te Te2 0.7547119260 0.7547119260 0.7358642817 1.0
+Bi Bi1 0.5000000000 0.5000000000 0.5000000596 1.0

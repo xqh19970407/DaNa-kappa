@@ -1,0 +1,29 @@
+data_Crystoria_48a0b448ba981a2e1f4aa94798d66eccaf92cb84b0a9857fb537dcc8dc35f946
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Hg3 S4 Zn1'
+_cell_length_a 5.8557529449
+_cell_length_b 5.8557529449
+_cell_length_c 5.8557529449
+_cell_angle_alpha 90.0000073923
+_cell_angle_beta 89.9999927516
+_cell_angle_gamma 89.9999927870
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+S S1 0.0000242670 0.9999757409 0.9999757409 1.0
+S S2 0.0000243144 0.4689835906 0.4689835906 1.0
+S S3 0.5310164094 0.9999756813 0.4689835906 1.0
+S S4 0.5310164094 0.4689835906 0.9999756813 1.0
+Zn Zn1 0.7655202150 0.2344797999 0.2344797999 1.0
+Hg Hg1 0.2655201256 0.2344799042 0.7344799042 1.0
+Hg Hg2 0.2655201256 0.7344799042 0.2344799042 1.0
+Hg Hg3 0.7655200958 0.7344799042 0.7344799042 1.0

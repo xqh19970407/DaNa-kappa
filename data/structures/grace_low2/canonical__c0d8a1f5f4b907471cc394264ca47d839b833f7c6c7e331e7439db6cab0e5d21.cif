@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HAsInCs
+_chemical_formula_sum              "H1 As1 In1 Cs1"
+_cell_length_a       4.446814409141271
+_cell_length_b       4.446814409141272
+_cell_length_c       6.729760165437998
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  8.995203379248842e-09  0.0  0.9992452465057988  1.0000
+  As  As1       1.0  0.33333334282787797  0.6666666676653491  0.4046861007004027  1.0000
+  In  In1       1.0  6.939513630399575e-09  1.2741726223528127e-19  0.271627908731132  1.0000
+  Cs  Cs1       1.0  0.6666666748836958  0.33333333383267455  0.7925567195384388  1.0000

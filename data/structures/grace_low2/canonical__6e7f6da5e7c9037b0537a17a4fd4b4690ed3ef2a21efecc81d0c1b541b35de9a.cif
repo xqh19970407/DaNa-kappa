@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Se2RbAu3
+_chemical_formula_sum              "Se2 Rb1 Au3"
+_cell_length_a       6.177488979474855
+_cell_length_b       6.1774889794748535
+_cell_length_c       5.883476477071202
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.9999997576405427  0.9999998764490895  0.010094133478411925  1.0000
+  Se  Se2       1.0  0.33333309168093994  0.666666544347236  0.6010938610455753  1.0000
+  Rb  Rb1       1.0  0.6666664242381986  0.3333332111293597  0.8055939970943052  1.0000
+  Au  Au1       1.0  0.1666664255143001  0.8333332111111648  0.3055939976950958  1.0000
+  Au  Au2       1.0  0.6666664255568108  0.8333332111111649  0.3055939970130852  1.0000
+  Au  Au3       1.0  0.16666642415715383  0.33333320997315463  0.3055939975274075  1.0000

@@ -1,0 +1,29 @@
+data_Crystoria_145d6a3c03b8687fa5e5e362813944f479bdfd625447ab5b86aeda6c91a5ec72
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Ca2 H2 Sb2 Zn2'
+_cell_length_a 4.3896852757
+_cell_length_b 4.3896852757
+_cell_length_c 10.2309932709
+_cell_angle_alpha 89.9999999900
+_cell_angle_beta 89.9999999993
+_cell_angle_gamma 120.0000018354
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+H H1 0.0000000000 0.0000000099 0.0002008271 1.0
+H H2 0.0000000094 0.0000000000 0.5002008677 1.0
+Ca Ca1 0.3333330452 0.6666669250 0.0596407205 1.0
+Ca Ca2 0.6666669250 0.3333330452 0.5596407056 1.0
+Zn Zn1 0.0000000752 0.9999999404 0.3344751894 1.0
+Zn Zn2 0.9999999404 0.0000000775 0.8344751596 1.0
+Sb Sb1 0.3333331347 0.6666668653 0.7483832240 1.0
+Sb Sb2 0.6666668653 0.3333331347 0.2483832538 1.0

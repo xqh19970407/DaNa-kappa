@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MgAgSb2La
+_chemical_formula_sum              "Mg1 Ag1 Sb2 La1"
+_cell_length_a       4.683372799238833
+_cell_length_b       4.683372799238828
+_cell_length_c       7.5532273135344425
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.9999998804609934  9.369021502097489e-08  0.9998328807081261  1.0000
+  Ag  Ag1       1.0  0.3333332128482668  0.6666667587898122  0.7444940945870497  1.0000
+  Sb  Sb1       1.0  0.9999998804609934  9.36902150209749e-08  0.6242767937820116  1.0000
+  Sb  Sb2       1.0  0.3333332128482668  0.6666667587898122  0.13613212436457822  1.0000
+  La  La1       1.0  0.6666665466546301  0.3333334262400136  0.39564911605997993  1.0000

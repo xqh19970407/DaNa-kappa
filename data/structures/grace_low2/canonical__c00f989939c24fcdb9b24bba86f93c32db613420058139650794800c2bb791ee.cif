@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HSrCdSb
+_chemical_formula_sum              "H1 Sr1 Cd1 Sb1"
+_cell_length_a       4.6956029668742385
+_cell_length_b       4.6956029668742385
+_cell_length_c       5.130105358939634
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  4.259303893683662e-09  6.322661302032191e-27  0.999939110412332  1.0000
+  Sr  Sr1       1.0  0.33333333796980963  0.6666666674210117  0.058379062230781015  1.0000
+  Cd  Cd1       1.0  5.557049365154238e-09  1.1315175463266769e-09  0.6281352944115857  1.0000
+  Sb  Sb1       1.0  0.6666666725122219  0.33333333371050583  0.4725774989738429  1.0000

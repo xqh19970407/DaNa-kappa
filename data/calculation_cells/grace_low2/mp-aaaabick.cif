@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sr2I2F2
+_chemical_formula_sum              "Sr2 I2 F2"
+_cell_length_a       4.273678783696533
+_cell_length_b       4.273678783696533
+_cell_length_c       9.563262459735293
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.2500000009537139  0.2500000009537139  0.14271918456139274  1.0000
+  Sr  Sr2       1.0  0.7500000005212373  0.7500000005212373  0.8572808154662868  1.0000
+  I   I1        1.0  0.2500000009537139  0.2500000009537139  0.6838685289184278  1.0000
+  I   I2        1.0  0.7500000005212373  0.7500000005212373  0.31613147110925177  1.0000
+  F   F1        1.0  0.2500000009537139  0.7500000005212373  0.0  1.0000
+  F   F2        1.0  0.7500000005212373  0.2500000009537139  0.0  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cs2Pb2Bi2
+_chemical_formula_sum              "Cs2 Pb2 Bi2"
+_cell_length_a       4.782608461526487
+_cell_length_b       4.782608461526489
+_cell_length_c       14.181334814946231
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.0  0.0  0.9980252913204816  1.0000
+  Cs  Cs2       1.0  0.33333333300849133  0.6666666660169827  0.49802529114229777  1.0000
+  Pb  Pb1       1.0  0.9999999996723246  0.9999999990254742  0.3051688276507566  1.0000
+  Pb  Pb2       1.0  0.33333333300849133  0.6666666660169827  0.8051688278289403  1.0000
+  Bi  Bi1       1.0  0.6666666663446584  0.33333333300849133  0.2012148960048948  1.0000
+  Bi  Bi2       1.0  0.6666666663446584  0.33333333300849133  0.7012148961830786  1.0000

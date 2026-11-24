@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       NaCuTe
+_chemical_formula_sum              "Na1 Cu1 Te1"
+_cell_length_a       4.543698574081744
+_cell_length_b       4.543698574081744
+_cell_length_c       4.543698574081744
+_cell_angle_alpha    59.999999999999986
+_cell_angle_beta     59.99999999999999
+_cell_angle_gamma    59.999999999999986
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  2.8370708083515946e-10  0.999999999330711  2.837071523620279e-10  1.0000
+  Cu  Cu1       1.0  0.7499999998390415  0.7500000007920377  0.7499999998390415  1.0000
+  Te  Te1       1.0  0.5000000000976228  0.5000000010506191  0.500000000097623  1.0000

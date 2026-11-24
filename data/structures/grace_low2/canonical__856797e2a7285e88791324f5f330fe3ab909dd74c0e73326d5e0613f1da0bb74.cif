@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SrBaAu2Bi2
+_chemical_formula_sum              "Sr1 Ba1 Au2 Bi2"
+_cell_length_a       4.952489234616179
+_cell_length_b       4.952489234616174
+_cell_length_c       9.055682789942765
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.0  0.0  0.0  1.0000
+  Ba  Ba1       1.0  0.0  0.0  0.4999999994510207  1.0000
+  Au  Au1       1.0  0.33333333301106893  0.666666666022138  0.2239729644961227  1.0000
+  Au  Au2       1.0  0.6666666676319704  0.33333333417684696  0.7760270355101977  1.0000
+  Bi  Bi1       1.0  0.33333333301106893  0.666666666022138  0.7540198788304904  1.0000
+  Bi  Bi2       1.0  0.6666666676319704  0.33333333417684696  0.24598012117583007  1.0000

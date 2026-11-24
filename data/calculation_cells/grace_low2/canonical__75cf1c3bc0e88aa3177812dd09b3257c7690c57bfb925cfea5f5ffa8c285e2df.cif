@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HRbInSb
+_chemical_formula_sum              "H1 Rb1 In1 Sb1"
+_cell_length_a       4.653510604415945
+_cell_length_b       4.653510604415946
+_cell_length_c       6.545672100946992
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  1.0744576353291758e-08  0.0  0.0027024558711764364  1.0000
+  Rb  Rb1       1.0  0.6666666769283117  0.3333333333164198  0.8502538416482575  1.0000
+  In  In1       1.0  9.795627198272427e-09  1.0179439037776635e-18  0.28390007494129577  1.0000
+  Sb  Sb1       1.0  0.3333333440609962  0.6666666666328396  0.43816564376713285  1.0000

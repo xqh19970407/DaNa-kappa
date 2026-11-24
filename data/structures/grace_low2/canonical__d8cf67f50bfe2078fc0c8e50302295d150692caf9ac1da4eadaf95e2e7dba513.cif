@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       YTe2Au
+_chemical_formula_sum              "Y1 Te2 Au1"
+_cell_length_a       8.882977947166212
+_cell_length_b       8.882977947166212
+_cell_length_c       8.882977947166212
+_cell_angle_alpha    29.65885226610953
+_cell_angle_beta     29.65885226610953
+_cell_angle_gamma    29.65885226610953
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  6.102669686243337e-09  0.9999999964406158  0.999999997239961  1.0000
+  Te  Te1       1.0  0.6018456782188125  0.6018456676915994  0.6018456687010096  1.0000
+  Te  Te2       1.0  0.39815433468288997  0.398154325020836  0.39815432582018123  1.0000
+  Au  Au1       1.0  0.5000000062629416  0.49999999660088795  0.49999999740023277  1.0000

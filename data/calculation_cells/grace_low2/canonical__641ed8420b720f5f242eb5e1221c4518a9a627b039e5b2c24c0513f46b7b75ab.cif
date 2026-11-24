@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       K2IAu
+_chemical_formula_sum              "K2 I1 Au1"
+_cell_length_a       5.910486898109321
+_cell_length_b       5.910486898109319
+_cell_length_c       4.174098228221008
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.0  0.0  0.0  1.0000
+  K   K2        1.0  0.5000000001599428  0.500000000159943  0.9999999995588602  1.0000
+  I   I1        1.0  2.4035403611869864e-10  0.5000000001396053  0.499999999056013  1.0000
+  Au  Au1       1.0  0.5000000004002969  0.9999999999796624  0.5000000009290451  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       H2Na2Sr2
+_chemical_formula_sum              "H2 Na2 Sr2"
+_cell_length_a       4.198299820957438
+_cell_length_b       4.198299820957438
+_cell_length_c       9.900821994257234
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  4.831705162405602e-59  4.672938498877942e-34  2.020034297313959e-09  1.0000
+  H   H2        1.0  0.4999999998859732  0.4999999998859732  2.020034297313959e-09  1.0000
+  Na  Na1       1.0  5.1698788272774136e-26  0.4999999998859732  0.4070756188059679  1.0000
+  Na  Na2       1.0  0.4999999998859732  1.3716099713548719e-25  0.5929243848041128  1.0000
+  Sr  Sr1       1.0  5.1698788272774136e-26  0.4999999998859732  0.8679835739885665  1.0000
+  Sr  Sr2       1.0  0.4999999998859732  3.0539315721685244e-26  0.13201642861149707  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HZnTeCs
+_chemical_formula_sum              "H1 Zn1 Te1 Cs1"
+_cell_length_a       4.548868933952579
+_cell_length_b       4.548868933952581
+_cell_length_c       6.507518360000014
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.0  0.0  0.004245913491360466  1.0000
+  Zn  Zn1       1.0  0.0  0.0  0.7533007067843278  1.0000
+  Te  Te1       1.0  0.6666666671076303  0.3333333328858266  0.6215085561433578  1.0000
+  Cs  Cs1       1.0  0.3333333328858267  0.6666666657716532  0.17593980941146314  1.0000

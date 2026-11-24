@@ -1,0 +1,24 @@
+data_Crystoria_d1d4fd1517e0054989b57e4babd38175c0491504a2e93860789c4a5da0eddb78
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Hg1 I1 In1'
+_cell_length_a 4.9691440279
+_cell_length_b 4.9691440279
+_cell_length_c 5.4763054848
+_cell_angle_alpha 89.9999840687
+_cell_angle_beta 90.0000159375
+_cell_angle_gamma 120.0000148335
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+In In1 0.0000000157 0.0000000000 0.0014451946 1.0
+I I1 0.3333330750 0.6666668653 0.6859841347 1.0
+Hg Hg1 0.6666668653 0.3333331048 0.2616187036 1.0

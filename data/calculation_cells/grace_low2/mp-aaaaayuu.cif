@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Rb2Y2Te4
+_chemical_formula_sum              "Rb2 Y2 Te4"
+_cell_length_a       4.521804682115536
+_cell_length_b       4.521804682115537
+_cell_length_c       17.16475146592647
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.333333000739021  0.6666670010789354  0.2499999996223879  1.0000
+  Rb  Rb2       1.0  0.6666663332282591  0.3333336665252638  0.7500000000323422  1.0000
+  Y   Y1        1.0  0.9999996674621632  3.345252198219934e-07  0.0  1.0000
+  Y   Y2        1.0  0.9999996674621632  3.345252198219934e-07  0.4999999998273651  1.0000
+  Te  Te1       1.0  0.333333000739021  0.6666670010789354  0.5997632771110057  1.0000
+  Te  Te2       1.0  0.6666663332282591  0.3333336665252638  0.09976327670105138  1.0000
+  Te  Te3       1.0  0.6666663332282591  0.3333336665252638  0.4002367225437244  1.0000
+  Te  Te4       1.0  0.333333000739021  0.6666670010789354  0.9002367229536786  1.0000

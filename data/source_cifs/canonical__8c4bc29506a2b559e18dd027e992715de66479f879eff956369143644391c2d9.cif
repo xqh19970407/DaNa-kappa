@@ -1,0 +1,29 @@
+data_Crystoria_8c4bc29506a2b559e18dd027e992715de66479f879eff956369143644391c2d9
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Bi2 F6'
+_cell_length_a 3.7481615543
+_cell_length_b 6.1948359001
+_cell_length_c 6.1948352487
+_cell_angle_alpha 120.0000041476
+_cell_angle_beta 90.0000000324
+_cell_angle_gamma 89.9999999758
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+F F1 0.0000000000 0.0017439428 0.0015130305 1.0
+F F2 0.0000000000 0.2343047261 0.7284281850 1.0
+F F3 0.0000000003 0.5073896646 0.2340739816 1.0
+F F4 0.5000000000 0.3215693235 0.4086026847 1.0
+F F5 0.5000000000 0.5946542621 0.9142484665 1.0
+F F6 0.5000000000 0.8272150755 0.6411638856 1.0
+Bi Bi1 0.0000000000 0.5811461806 0.6546718478 1.0
+Bi Bi2 0.5000000000 0.2478128374 0.9880049229 1.0

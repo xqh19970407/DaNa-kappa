@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       KIKIKIKI
+_chemical_formula_sum              "K4 I4"
+_cell_length_a       7.187850751684738
+_cell_length_b       7.187850751684739
+_cell_length_c       7.187850751684737
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    89.99999999999997
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.0  0.0  0.0  1.0000
+  I   I1        1.0  0.4999999995005937  0.499999999533426  0.4999999996810504  1.0000
+  K   K2        1.0  5.346965041544073e-11  0.5000000000480354  0.5000000002130774  1.0000
+  I   I2        1.0  0.4999999994471236  4.691433645461989e-10  4.517255402843798e-10  1.0000
+  K   K3        1.0  0.5000000004583688  0.9999999999876087  0.5000000001519181  1.0000
+  I   I3        1.0  1.7816475936376146e-10  0.4999999989778475  9.710222174701903e-11  1.0000
+  K   K4        1.0  0.5000000004285189  0.5000000002502218  0.9999999997455971  1.0000
+  I   I4        1.0  0.9999999998753052  8.643497160788027e-11  0.49999999913222265  1.0000

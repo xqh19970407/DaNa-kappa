@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Mg2ZnAs2
+_chemical_formula_sum              "Mg2 Zn1 As2"
+_cell_length_a       4.180166389357605
+_cell_length_b       4.180166389357604
+_cell_length_c       6.830406538595117
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.0  0.0  0.9983314448509614  1.0000
+  Mg  Mg2       1.0  0.3333333333121962  0.6666666666243923  0.6366657599994686  1.0000
+  Zn  Zn1       1.0  0.666666666227395  0.33333333469336185  0.3743079794084788  1.0000
+  As  As1       1.0  0.3333333333121962  0.6666666666243923  0.2441885502093491  1.0000
+  As  As2       1.0  0.666666666227395  0.33333333469336185  0.778481252902653  1.0000

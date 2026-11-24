@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       H2Ca2As2Sr2
+_chemical_formula_sum              "H2 Ca2 As2 Sr2"
+_cell_length_a       4.824387339056187
+_cell_length_b       4.824387339056187
+_cell_length_c       10.344494264955335
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.0  0.0  0.9963287978099948  1.0000
+  H   H2        1.0  0.0  0.0  0.49632879757047926  1.0000
+  Ca  Ca1       1.0  0.0  0.0  0.2715366694644427  1.0000
+  Ca  Ca2       1.0  0.0  0.0  0.7715366692249271  1.0000
+  As  As1       1.0  0.33333333346747357  0.6666666669349474  0.21321758352867368  1.0000
+  As  As2       1.0  0.6666666662331872  0.3333333322707408  0.7132175842558559  1.0000
+  Sr  Sr1       1.0  0.33333333346747357  0.6666666669349474  0.5325999694992135  1.0000
+  Sr  Sr2       1.0  0.6666666662331872  0.3333333322707408  0.032599969738729036  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Se2TePb3
+_chemical_formula_sum              "Se2 Te1 Pb3"
+_cell_length_a       4.478098156096817
+_cell_length_b       4.478098156096816
+_cell_length_c       10.972134420936053
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.999999999401645  7.735653606479054e-09  6.926264615336741e-05  1.0000
+  Se  Se2       1.0  0.33333333326615155  0.6666666754646666  0.32040250102040635  1.0000
+  Te  Te1       1.0  0.6666666667697065  0.33333334160016015  0.66023588137758  1.0000
+  Pb  Pb1       1.0  0.999999999401645  7.735653606479054e-09  0.4800436795551629  1.0000
+  Pb  Pb2       1.0  0.33333333326615155  0.6666666754646666  0.8404280841113969  1.0000
+  Pb  Pb3       1.0  0.6666666667697065  0.33333334160016015  0.16023588142023606  1.0000

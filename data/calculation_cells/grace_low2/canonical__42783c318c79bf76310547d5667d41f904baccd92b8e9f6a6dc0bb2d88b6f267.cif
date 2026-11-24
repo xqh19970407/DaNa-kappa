@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       KCu2Te2Cs
+_chemical_formula_sum              "K1 Cu2 Te2 Cs1"
+_cell_length_a       4.503856616342008
+_cell_length_b       4.5038566163420075
+_cell_length_c       10.964297704430775
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.0  0.0  0.0  1.0000
+  Cu  Cu1       1.0  0.33333333335428783  0.6666666667085759  0.7671749633905709  1.0000
+  Cu  Cu2       1.0  0.6666666664422883  0.33333333207238597  0.2328250362053198  1.0000
+  Te  Te1       1.0  0.33333333335428783  0.6666666667085759  0.2338303600570742  1.0000
+  Te  Te2       1.0  0.6666666664422883  0.33333333207238597  0.7661696395388166  1.0000
+  Cs  Cs1       1.0  0.0  0.0  0.4999999997979453  1.0000

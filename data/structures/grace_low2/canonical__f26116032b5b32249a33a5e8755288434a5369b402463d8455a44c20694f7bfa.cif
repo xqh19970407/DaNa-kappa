@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SrCdSnBa
+_chemical_formula_sum              "Sr1 Cd1 Sn1 Ba1"
+_cell_length_a       5.872421608801607
+_cell_length_b       5.872421608801605
+_cell_length_c       5.872421608801607
+_cell_angle_alpha    60.00000000000001
+_cell_angle_beta     60.00000000000001
+_cell_angle_gamma    59.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  2.4231361361870546e-10  2.423136136187054e-10  2.4231341932967604e-10  1.0000
+  Cd  Cd1       1.0  0.7500000001370292  0.7500000001370294  0.7500000001370288  1.0000
+  Sn  Sn1       1.0  0.24999999996323022  0.2499999999632303  0.2499999999632299  1.0000
+  Ba  Ba1       1.0  0.4999999998947158  0.49999999989471566  0.4999999998947156  1.0000

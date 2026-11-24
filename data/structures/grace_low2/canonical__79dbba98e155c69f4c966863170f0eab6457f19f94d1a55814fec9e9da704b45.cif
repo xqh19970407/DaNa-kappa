@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       SnSbCs
+_chemical_formula_sum              "Sn1 Sb1 Cs1"
+_cell_length_a       7.627198215817223
+_cell_length_b       7.627198215817223
+_cell_length_c       7.627198215817223
+_cell_angle_alpha    34.609238082364946
+_cell_angle_beta     34.609238082364946
+_cell_angle_gamma    34.609238082364946
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.00012028413972682327  0.00012079989879564682  0.00012079805357146965  1.0000
+  Sb  Sb1       1.0  0.7321004368781803  0.7321009526372491  0.7321009507920246  1.0000
+  Cs  Cs1       1.0  0.5268055836889864  0.5268060994480553  0.526806097602831  1.0000

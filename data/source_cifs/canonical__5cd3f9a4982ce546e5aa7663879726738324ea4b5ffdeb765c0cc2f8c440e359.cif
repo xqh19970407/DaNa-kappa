@@ -1,0 +1,25 @@
+data_Crystoria_5cd3f9a4982ce546e5aa7663879726738324ea4b5ffdeb765c0cc2f8c440e359
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Ag1 Lu1 Se2'
+_cell_length_a 4.1319516940
+_cell_length_b 4.1319516940
+_cell_length_c 7.0093431473
+_cell_angle_alpha 90.0000000000
+_cell_angle_beta 90.0000000000
+_cell_angle_gamma 119.9999981605
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Se Se1 0.0000000000 0.0000000000 0.0000000000 1.0
+Se Se2 0.3333329856 0.6666669846 0.5638099909 1.0
+Ag Ag1 0.0000000000 0.0000000000 0.3700959980 1.0
+Lu Lu1 0.6666669846 0.3333329856 0.7943959832 1.0

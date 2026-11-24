@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NaAsHgPb
+_chemical_formula_sum              "Na1 As1 Hg1 Pb1"
+_cell_length_a       5.270891249181852
+_cell_length_b       5.270891249181852
+_cell_length_c       5.270891249181852
+_cell_angle_alpha    59.999999999999986
+_cell_angle_beta     59.99999999999999
+_cell_angle_gamma    59.999999999999986
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9999999998025608  0.9999999998025604  0.9999999998025605  1.0000
+  As  As1       1.0  0.2500000001860216  0.25000000018602125  0.2500000001860211  1.0000
+  Hg  Hg1       1.0  0.7499999997987546  0.7499999997987544  0.7499999997987541  1.0000
+  Pb  Pb1       1.0  0.4999999999961941  0.49999999999619404  0.4999999999961939  1.0000

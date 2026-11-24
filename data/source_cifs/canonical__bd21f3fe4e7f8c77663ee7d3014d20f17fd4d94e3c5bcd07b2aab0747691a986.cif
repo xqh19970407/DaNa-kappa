@@ -1,0 +1,25 @@
+data_Crystoria_bd21f3fe4e7f8c77663ee7d3014d20f17fd4d94e3c5bcd07b2aab0747691a986
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Ga1 Lu1 Se2'
+_cell_length_a 4.0489422494
+_cell_length_b 4.0489420891
+_cell_length_c 7.6474716053
+_cell_angle_alpha 74.6494327554
+_cell_angle_beta 74.6494325479
+_cell_angle_gamma 60.0000013097
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ga Ga1 0.0000000000 0.0000000000 0.0000000000 1.0
+Se Se1 0.2397319973 0.2397319973 0.2808029950 1.0
+Se Se2 0.7602679729 0.7602679729 0.7191969752 1.0
+Lu Lu1 0.5000000000 0.5000000000 0.5000000000 1.0

@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       PCaAg
+_chemical_formula_sum              "P1 Ca1 Ag1"
+_cell_length_a       4.556058691121612
+_cell_length_b       4.556058691121611
+_cell_length_c       4.556058691121611
+_cell_angle_alpha    60.00000000000001
+_cell_angle_beta     59.99999999999999
+_cell_angle_gamma    59.999999999999986
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  6.166132856346918e-09  1.45593667543455e-10  6.48911428375944e-09  1.0000
+  Ca  Ca1       1.0  0.750000006283889  0.7499999998411209  0.7500000067574615  1.0000
+  Ag  Ag1       1.0  0.25000000628388885  0.24999999984112073  0.25000000675746115  1.0000

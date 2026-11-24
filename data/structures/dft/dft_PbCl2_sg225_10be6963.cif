@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       Cl2Pb
+_chemical_formula_sum              "Cl2 Pb1"
+_cell_length_a       4.985053956501926
+_cell_length_b       4.985053956501926
+_cell_length_c       4.985053956501925
+_cell_angle_alpha    59.99999999999999
+_cell_angle_beta     60.00000000000001
+_cell_angle_gamma    60.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  1.7813309999999996e-10  8.703368355128908e-10  0.9999999997784954  1.0000
+  Cl  Cl2       1.0  0.5000000001781331  0.5000000005811246  0.5000000003569197  1.0000
+  Pb  Pb1       1.0  0.2500000003562661  0.2500000004495959  0.2500000001354152  1.0000

@@ -1,0 +1,27 @@
+data_Crystoria_d1ea0872d8c888fda71e156e13ca66dcbbfcf44d2c2b7191e9ae12a614e5ae1b
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Br1 Cl2 Cs3'
+_cell_length_a 5.0645941755
+_cell_length_b 5.0645941755
+_cell_length_c 12.5131359100
+_cell_angle_alpha 89.9999969214
+_cell_angle_beta 90.0000031064
+_cell_angle_gamma 119.9999863232
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cl Cl1 0.0000000000 0.0000000157 0.0021941760 1.0
+Cl Cl2 0.3333331645 0.6666668057 0.3240425289 1.0
+Br Br1 0.6666668653 0.3333331347 0.6631183028 1.0
+Cs Cs1 0.0000000000 0.0000000061 0.4856416285 1.0
+Cs Cs2 0.3333331347 0.6666668057 0.8405950069 1.0
+Cs Cs3 0.6666668653 0.3333331347 0.1631183177 1.0

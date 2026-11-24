@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       F2Sr2Ag2Te2
+_chemical_formula_sum              "F2 Sr2 Ag2 Te2"
+_cell_length_a       4.362229691668378
+_cell_length_b       4.362229691668374
+_cell_length_c       9.778550214012032
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.0  0.0  0.0  1.0000
+  F   F2        1.0  0.5000000009549729  0.5000000009549733  3.78272074292376e-19  1.0000
+  Sr  Sr1       1.0  0.0  0.5000000009549733  0.13646415069668097  1.0000
+  Sr  Sr2       1.0  0.5000000009549729  3.2757250359063457e-18  0.8635358499156763  1.0000
+  Ag  Ag1       1.0  1.0715603787954165e-25  1.8966931356886525e-18  0.5000000003061786  1.0000
+  Ag  Ag2       1.0  0.5000000009549729  0.5000000009549733  0.5000000003061786  1.0000
+  Te  Te1       1.0  4.616283936885251e-26  0.5000000009549733  0.6978627578372021  1.0000
+  Te  Te2       1.0  0.5000000009549729  1.1461232681132288e-18  0.30213724277515525  1.0000

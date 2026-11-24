@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       BrRbITl
+_chemical_formula_sum              "Br1 Rb1 I1 Tl1"
+_cell_length_a       4.997200733725345
+_cell_length_b       4.997200733725346
+_cell_length_c       7.351656348241243
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  1.6811647315772093e-29  1.1696567284475427e-21  0.9987156540577065  1.0000
+  Rb  Rb1       1.0  0.500000000627817  0.5000000006278169  0.029272874003622853  1.0000
+  I   I1        1.0  0.500000000627817  0.5000000006278169  0.5289662976330937  1.0000
+  Tl  Tl1       1.0  0.0  0.0  0.5637241315001691  1.0000

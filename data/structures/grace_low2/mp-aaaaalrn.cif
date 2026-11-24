@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Mg3As2
+_chemical_formula_sum              "Mg3 As2"
+_cell_length_a       4.30253201694261
+_cell_length_b       4.3025320169426085
+_cell_length_c       6.805453792964558
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.33333399877025216  0.6666670004753126  0.358559442799042  1.0000
+  Mg  Mg2       1.0  0.6666673309005646  0.33333366545015264  0.6414405582347523  1.0000
+  Mg  Mg3       1.0  6.660994786505679e-07  3.333122178784737e-07  0.0  1.0000
+  As  As1       1.0  0.33333399877025216  0.6666670004753126  0.7688543187831541  1.0000
+  As  As2       1.0  0.6666673309005646  0.33333366545015264  0.23114568225064017  1.0000

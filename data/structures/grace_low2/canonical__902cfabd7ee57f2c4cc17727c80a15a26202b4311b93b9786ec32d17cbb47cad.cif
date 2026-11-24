@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ClK3Br2
+_chemical_formula_sum              "Cl1 K3 Br2"
+_cell_length_a       10.406877367555218
+_cell_length_b       10.40687736755522
+_cell_length_c       10.406877367555218
+_cell_angle_alpha    154.0994205757517
+_cell_angle_beta     154.0994205757517
+_cell_angle_gamma    36.955114832644256
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  8.974143650419817e-11  8.974132548189573e-11  1.6877232944523255e-10  1.0000
+  K   K1        1.0  0.16258406788683233  0.1625840678868321  1.687722344795655e-10  1.0000
+  K   K2        1.0  0.5000000000897414  0.5000000000897412  1.6877240142156437e-10  1.0000
+  K   K3        1.0  0.8374159324721334  0.8374159324721331  5.063170180577375e-10  1.0000
+  Br  Br1       1.0  0.33346228489040497  0.33346228489040486  1.6877214355558693e-10  1.0000
+  Br  Br2       1.0  0.6665377154685609  0.6665377154685606  5.063172716393521e-10  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       As2RbCd4Sb
+_chemical_formula_sum              "As2 Rb1 Cd4 Sb1"
+_cell_length_a       4.589617820407703
+_cell_length_b       4.589617820407697
+_cell_length_c       11.121896792634931
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  1.055962221176213e-25  1.5683640825560027e-18  0.001899212675580353  1.0000
+  As  As2       1.0  3.8734645719784517e-26  5.753049292783744e-19  0.36751514658064216  1.0000
+  Rb  Rb1       1.0  0.4999999999555842  0.49999999995558486  0.18470717974656814  1.0000
+  Cd  Cd1       1.0  5.32114213163904e-26  0.49999999995558486  0.504871102896622  1.0000
+  Cd  Cd2       1.0  9.111944652101542e-26  0.49999999995558486  0.8645432563596005  1.0000
+  Cd  Cd3       1.0  0.4999999999555842  7.903207169800355e-19  0.504871102896622  1.0000
+  Cd  Cd4       1.0  0.4999999999555842  1.3533482948543413e-18  0.8645432563596005  1.0000
+  Sb  Sb1       1.0  0.4999999999555842  0.49999999995558486  0.6847071800776748  1.0000

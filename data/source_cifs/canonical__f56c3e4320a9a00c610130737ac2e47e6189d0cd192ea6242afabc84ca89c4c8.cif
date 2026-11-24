@@ -1,0 +1,25 @@
+data_Crystoria_f56c3e4320a9a00c610130737ac2e47e6189d0cd192ea6242afabc84ca89c4c8
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Au1 I2 Na1'
+_cell_length_a 4.9821553310
+_cell_length_b 4.9821548462
+_cell_length_c 8.7624329329
+_cell_angle_alpha 73.4835470193
+_cell_angle_beta 73.4835489367
+_cell_angle_gamma 59.9999968493
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Na Na1 0.0000000000 0.0000000000 0.0000000000 1.0
+I I1 0.3960570097 0.3960569799 0.8118290305 1.0
+I I2 0.6039429903 0.6039429903 0.1881709546 1.0
+Au Au1 0.5000000000 0.5000000000 0.4999999702 1.0

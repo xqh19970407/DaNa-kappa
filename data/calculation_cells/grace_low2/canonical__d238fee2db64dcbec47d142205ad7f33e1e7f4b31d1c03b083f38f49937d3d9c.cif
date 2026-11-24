@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       F2ClKCd
+_chemical_formula_sum              "F2 Cl1 K1 Cd1"
+_cell_length_a       4.231549983969595
+_cell_length_b       4.231549983969595
+_cell_length_c       6.325139026408565
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.0  0.0  0.9995157671653995  1.0000
+  F   F2        1.0  0.49999999953095253  0.49999999953095253  0.9995157671653995  1.0000
+  Cl  Cl1       1.0  0.0  0.49999999953095253  0.5146522102373993  1.0000
+  K   K1        1.0  0.49999999953095253  0.0  0.7310513208791116  1.0000
+  Cd  Cd1       1.0  0.0  0.49999999953095253  0.12380496250445856  1.0000

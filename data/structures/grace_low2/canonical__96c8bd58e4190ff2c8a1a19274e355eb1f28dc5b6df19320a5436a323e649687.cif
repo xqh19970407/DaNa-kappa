@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       KSrSbHg
+_chemical_formula_sum              "K1 Sr1 Sb1 Hg1"
+_cell_length_a       5.762067934743085
+_cell_length_b       5.762067934743084
+_cell_length_c       5.762067934743084
+_cell_angle_alpha    59.99999999999999
+_cell_angle_beta     60.000000000000036
+_cell_angle_gamma    59.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  3.678778571411283e-10  0.9999999996163897  3.6787780803748245e-10  1.0000
+  Sr  Sr1       1.0  0.49999999951263047  0.5000000002641191  0.49999999951263063  1.0000
+  Sb  Sb1       1.0  0.7499999998071398  0.7500000005586284  0.7499999998071399  1.0000
+  Hg  Hg1       1.0  0.25000000013100454  0.2499999993795165  0.2500000001310046  1.0000

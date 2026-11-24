@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Mg3Bi2
+_chemical_formula_sum              "Mg3 Bi2"
+_cell_length_a       4.715569295279399
+_cell_length_b       4.7155692952793995
+_cell_length_c       7.520281941987396
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  1.3121834912797416e-07  0.9999998817235148  0.0023677569720603232  1.0000
+  Mg  Mg2       1.0  0.33333346305474437  0.6666665486365075  0.6272029873860685  1.0000
+  Mg  Mg3       1.0  0.6666667957874255  0.3333332131008023  0.25203821806434834  1.0000
+  Bi  Bi1       1.0  1.3121834912797416e-07  0.9999998817235148  0.4076141232000019  1.0000
+  Bi  Bi2       1.0  0.6666667957874255  0.3333332131008023  0.8467918515721353  1.0000

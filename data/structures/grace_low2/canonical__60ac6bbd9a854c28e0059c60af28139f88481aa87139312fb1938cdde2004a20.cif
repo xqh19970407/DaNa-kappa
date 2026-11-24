@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CaSe2Pb
+_chemical_formula_sum              "Ca1 Se2 Pb1"
+_cell_length_a       7.524577878189601
+_cell_length_b       7.524577878189601
+_cell_length_c       7.524577878189601
+_cell_angle_alpha    33.22835986276194
+_cell_angle_beta     33.22835986276194
+_cell_angle_gamma    33.22835986276192
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.999999999613113  0.9999999999137725  2.607682919455711e-10  1.0000
+  Se  Se1       1.0  0.7451446441564407  0.7451446444570997  0.7451446448040958  1.0000
+  Se  Se2       1.0  0.2548553548393351  0.2548553554406536  0.25485535613464544  1.0000
+  Pb  Pb1       1.0  0.4999999997341584  0.5000000000348175  0.5000000003818137  1.0000

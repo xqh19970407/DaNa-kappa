@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       InTe2Cs
+_chemical_formula_sum              "In1 Te2 Cs1"
+_cell_length_a       8.80931877257957
+_cell_length_b       8.80931877257957
+_cell_length_c       8.80931877257957
+_cell_angle_alpha    150.29521499138727
+_cell_angle_beta     150.29521499138727
+_cell_angle_gamma    42.50823168143873
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  1.1951307480947654e-07  1.0203897454444435e-07  2.2160493427258738e-07  1.0000
+  Te  Te1       1.0  0.10662065538936794  0.6066206368692241  0.500000220916683  1.0000
+  Te  Te2       1.0  0.3933795841318147  0.8933795670765929  0.5000002215438479  1.0000
+  Cs  Cs1       1.0  0.7500001194866325  0.2500001020125321  0.5000002216049344  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SClTlPb
+_chemical_formula_sum              "S1 Cl1 Tl1 Pb1"
+_cell_length_a       4.257468092799807
+_cell_length_b       4.257468092799808
+_cell_length_c       7.847056002889798
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.9999999406481197  7.051659189051313e-08  0.0003213226857654572  1.0000
+  Cl  Cl1       1.0  0.6666666071849195  0.3333334052813832  0.5495428614772129  1.0000
+  Tl  Tl1       1.0  0.33333327236563126  0.666666737333998  0.2757596261837701  1.0000
+  Pb  Pb1       1.0  0.33333327236563126  0.666666737333998  0.8098351353246032  1.0000

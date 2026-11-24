@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       S2Rb2Cs2
+_chemical_formula_sum              "S2 Rb2 Cs2"
+_cell_length_a       5.668457952955315
+_cell_length_b       5.668457952955315
+_cell_length_c       8.028466682900651
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.0  0.0  0.9991962973435833  1.0000
+  S   S2        1.0  0.5000000006213935  0.5000000006213935  0.4754266973704314  1.0000
+  Rb  Rb1       1.0  0.0  0.5000000006213935  0.2373114973570074  1.0000
+  Rb  Rb2       1.0  0.5000000006213935  0.0  0.2373114973570074  1.0000
+  Cs  Cs1       1.0  0.0  0.5000000006213935  0.7373114971763595  1.0000
+  Cs  Cs2       1.0  0.5000000006213935  0.0  0.7373114971763595  1.0000

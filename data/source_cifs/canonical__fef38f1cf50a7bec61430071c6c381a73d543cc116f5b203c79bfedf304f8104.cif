@@ -1,0 +1,25 @@
+data_Crystoria_fef38f1cf50a7bec61430071c6c381a73d543cc116f5b203c79bfedf304f8104
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Ge1 Mg1 Te2'
+_cell_length_a 4.2670664535
+_cell_length_b 4.2670669556
+_cell_length_c 7.3266503726
+_cell_angle_alpha 73.0700866027
+_cell_angle_beta 73.0700859875
+_cell_angle_gamma 60.0000035007
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Mg Mg1 0.0000000000 0.0000000000 0.0000000000 1.0
+Ge Ge1 0.5000000000 0.5000000000 0.5000000000 1.0
+Te Te1 0.2509309947 0.2509309947 0.2472070009 1.0
+Te Te2 0.7490689754 0.7490689754 0.7527930140 1.0

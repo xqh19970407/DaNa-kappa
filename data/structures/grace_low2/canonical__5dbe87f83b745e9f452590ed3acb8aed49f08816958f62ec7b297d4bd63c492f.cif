@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Li2CsBi
+_chemical_formula_sum              "Li2 Cs1 Bi1"
+_cell_length_a       7.208855114578296
+_cell_length_b       7.208855114578296
+_cell_length_c       7.208855114578298
+_cell_angle_alpha    39.82759211537928
+_cell_angle_beta     39.82759211537928
+_cell_angle_gamma    39.82759211537928
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.0016790135915940917  0.0016790134028797136  0.0016790139095367803  1.0000
+  Li  Li2       1.0  0.6353476539962615  0.6353476538075468  0.6353476543142028  1.0000
+  Cs  Cs1       1.0  0.818513333793928  0.8185133336052128  0.81851333411187  1.0000
+  Bi  Bi1       1.0  0.31851333381298763  0.3185133336242731  0.31851333413092925  1.0000

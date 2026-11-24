@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LiNBr2Ba2
+_chemical_formula_sum              "Li1 N1 Br2 Ba2"
+_cell_length_a       4.119902629619535
+_cell_length_b       4.1199026296195225
+_cell_length_c       11.2205290188042
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.0000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.0  0.0  0.0  1.0000
+  N   N1        1.0  4.983367935933542e-25  2.6969784321613644e-24  0.5000000000532864  1.0000
+  Br  Br1       1.0  0.33333333301860324  0.6666666660372065  0.866450622221741  1.0000
+  Br  Br2       1.0  0.666666668469781  0.333333334419972  0.1335493787760551  1.0000
+  Ba  Ba1       1.0  0.33333333301860324  0.6666666660372065  0.3677307899730144  1.0000
+  Ba  Ba2       1.0  0.666666668469781  0.333333334419972  0.6322692110247818  1.0000

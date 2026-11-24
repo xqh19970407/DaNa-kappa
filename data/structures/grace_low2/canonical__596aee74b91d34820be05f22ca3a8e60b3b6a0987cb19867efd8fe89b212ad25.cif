@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Cl2Hg2
+_chemical_formula_sum              "Cl2 Hg2"
+_cell_length_a       6.499524730389691
+_cell_length_b       6.499524730389691
+_cell_length_c       6.499524730389691
+_cell_angle_alpha    136.85974849269647
+_cell_angle_beta     136.8597484926965
+_cell_angle_gamma    62.65391421414719
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.9991040316880194  0.9991040316880189  3.557400834499694e-07  1.0000
+  Cl  Cl2       1.0  0.32468785774901304  0.3246878577490127  3.5574008333035885e-07  1.0000
+  Hg  Hg1       1.0  0.5443955580945472  0.5443955580945465  3.5576940113466073e-07  1.0000
+  Hg  Hg2       1.0  0.7793963316076346  0.7793963316076336  3.55769401189148e-07  1.0000

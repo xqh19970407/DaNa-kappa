@@ -1,0 +1,29 @@
+data_Crystoria_3054f6365b0d3f71a1a88887e1f7042947a8cd9be4cb25902c0ac635322c8afd
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Li2 Se4 Y2'
+_cell_length_a 4.0491237362
+_cell_length_b 4.0491237362
+_cell_length_c 13.2202863693
+_cell_angle_alpha 90.0000000000
+_cell_angle_beta 90.0000000000
+_cell_angle_gamma 119.9999995446
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Li Li1 0.0000000000 0.0000000000 0.0000000000 1.0
+Li Li2 0.3333329856 0.6666669846 0.5000000000 1.0
+Se Se1 0.0000000000 0.0000000000 0.3652139902 1.0
+Se Se2 0.3333329856 0.6666669846 0.8652139902 1.0
+Se Se3 0.6666669846 0.3333329856 0.1122969985 1.0
+Se Se4 0.6666669846 0.3333329856 0.6122969985 1.0
+Y Y1 0.0000000000 0.0000000000 0.7392299771 1.0
+Y Y2 0.3333329856 0.6666669846 0.2392300069 1.0

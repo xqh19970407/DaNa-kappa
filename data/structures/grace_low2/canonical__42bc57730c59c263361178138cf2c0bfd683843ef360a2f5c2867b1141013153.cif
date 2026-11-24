@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HPBa2
+_chemical_formula_sum              "H1 P1 Ba2"
+_cell_length_a       7.607062770380638
+_cell_length_b       7.6070627703806375
+_cell_length_c       7.607062770380639
+_cell_angle_alpha    35.10888972609702
+_cell_angle_beta     35.108889726097026
+_cell_angle_gamma    35.10888972609705
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.9999999997075291  0.9999999997819282  3.738241384362279e-10  1.0000
+  P   P1        1.0  0.499999999762652  0.4999999998370512  0.5000000004289465  1.0000
+  Ba  Ba1       1.0  0.7522001771430242  0.7522001772918219  0.7522001772174317  1.0000
+  Ba  Ba2       1.0  0.2477998225547762  0.24779982262917513  0.24779982322107028  1.0000

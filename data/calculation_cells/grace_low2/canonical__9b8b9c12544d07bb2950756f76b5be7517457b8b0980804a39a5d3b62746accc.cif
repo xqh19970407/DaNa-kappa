@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HKInSb
+_chemical_formula_sum              "H1 K1 In1 Sb1"
+_cell_length_a       4.601944124190313
+_cell_length_b       4.601944124190312
+_cell_length_c       6.271681154889112
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.0  0.0  0.0014232858607503562  1.0000
+  K   K1        1.0  0.666666666280587  0.3333333334717268  0.8681329703369249  1.0000
+  In  In1       1.0  0.9999999990894471  0.0  0.2947080781616488  1.0000
+  Sb  Sb1       1.0  0.3333333334717267  0.6666666669434536  0.46136372027527917  1.0000

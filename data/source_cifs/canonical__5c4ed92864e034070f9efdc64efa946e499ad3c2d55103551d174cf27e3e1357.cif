@@ -1,0 +1,27 @@
+data_Crystoria_5c4ed92864e034070f9efdc64efa946e499ad3c2d55103551d174cf27e3e1357
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Ca2 Pd2 Te2'
+_cell_length_a 4.5028743744
+_cell_length_b 4.5028743744
+_cell_length_c 7.1193504333
+_cell_angle_alpha 89.9999999797
+_cell_angle_beta 90.0000000208
+_cell_angle_gamma 89.9999999988
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca Ca1 0.0000000007 0.0000000003 0.9999741912 1.0
+Ca Ca2 0.5000000000 0.5000000000 0.4096480012 1.0
+Pd Pd1 0.0000000007 0.5000000000 0.7048110366 1.0
+Pd Pd2 0.5000000000 0.0000000000 0.7048110366 1.0
+Te Te1 0.0000000000 0.0000000005 0.4518872201 1.0
+Te Te2 0.5000000000 0.5000000000 0.9577354193 1.0

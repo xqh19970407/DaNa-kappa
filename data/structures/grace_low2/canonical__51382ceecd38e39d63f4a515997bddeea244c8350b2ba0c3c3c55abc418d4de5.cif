@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       KRbAu2
+_chemical_formula_sum              "K1 Rb1 Au2"
+_cell_length_a       8.506432541831213
+_cell_length_b       8.506432541831213
+_cell_length_c       8.506432541831217
+_cell_angle_alpha    33.664801355808756
+_cell_angle_beta     33.664801355808756
+_cell_angle_gamma    33.664801355808756
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  5.6806237088620166e-09  0.9999999969508264  0.9999999999383063  1.0000
+  Rb  Rb1       1.0  0.5000000059010202  0.4999999971712234  0.5000000001587019  1.0000
+  Au  Au1       1.0  0.745884566188929  0.7458845568487419  0.7458845599359352  1.0000
+  Au  Au2       1.0  0.2541154457819755  0.25411543718463314  0.25411544010588366  1.0000

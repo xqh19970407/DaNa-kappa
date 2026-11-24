@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ZnAs2SrCd
+_chemical_formula_sum              "Zn1 As2 Sr1 Cd1"
+_cell_length_a       4.4155868585950655
+_cell_length_b       4.415586858595065
+_cell_length_c       7.4028482893098095
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  4.442272997638284e-10  2.353550089312443e-08  0.9989985125035311  1.0000
+  As  As1       1.0  0.9999999984976987  2.3535500893338008e-08  0.3747951560761595  1.0000
+  As  As2       1.0  0.3333333335892721  0.6666666898255905  0.892829396429009  1.0000
+  Sr  Sr1       1.0  0.6666666671758378  0.3333333566805457  0.6344649608425114  1.0000
+  Cd  Cd1       1.0  0.3333333335892721  0.6666666898255905  0.263527003898912  1.0000

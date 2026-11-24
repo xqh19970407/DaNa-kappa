@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CaSe3Sn2
+_chemical_formula_sum              "Ca1 Se3 Sn2"
+_cell_length_a       9.593473458134229
+_cell_length_b       9.593473458134227
+_cell_length_c       9.593473458134227
+_cell_angle_alpha    154.3955971780994
+_cell_angle_beta     154.39559717809948
+_cell_angle_gamma    36.5248654550994
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  6.827813314735867e-11  2.4203563271885807e-09  2.519466741508561e-09  1.0000
+  Se  Se1       1.0  0.1651914499551824  0.1651914511312196  1.6782029301875383e-09  1.0000
+  Se  Se2       1.0  0.5000000000682779  0.5000000024203564  2.519466695920845e-09  1.0000
+  Se  Se3       1.0  0.8348085503179301  0.8348085526700084  2.519466878725102e-09  1.0000
+  Sn  Sn1       1.0  0.3350781968119033  0.3350781991639815  2.5194669356134937e-09  1.0000
+  Sn  Sn2       1.0  0.6649218032938207  0.664921805645899  2.519466839345552e-09  1.0000

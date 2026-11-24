@@ -1,0 +1,25 @@
+data_Crystoria_596aee74b91d34820be05f22ca3a8e60b3b6a0987cb19867efd8fe89b212ad25
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Cl2 Hg2'
+_cell_length_a 4.7127633095
+_cell_length_b 4.7127633095
+_cell_length_c 6.4828202866
+_cell_angle_alpha 111.3141271208
+_cell_angle_beta 111.3141270686
+_cell_angle_gamma 90.0000006379
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cl Cl1 0.9992849231 0.9992849231 0.9985694885 1.0
+Cl Cl2 0.3245069385 0.3245069683 0.6490135193 1.0
+Hg Hg1 0.5446019769 0.5446019769 0.0892043710 1.0
+Hg Hg2 0.7791891694 0.7791891694 0.5583786368 1.0

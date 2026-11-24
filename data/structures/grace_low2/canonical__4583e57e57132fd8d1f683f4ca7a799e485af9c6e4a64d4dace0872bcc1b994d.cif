@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ca2Rb2Sb2
+_chemical_formula_sum              "Ca2 Rb2 Sb2"
+_cell_length_a       5.37452873207104
+_cell_length_b       5.37452873207104
+_cell_length_c       8.633438838919336
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  1.5100893011113344e-54  3.721256503971304e-09  5.502443397465693e-28  1.0000
+  Ca  Ca2       1.0  0.5000000007376424  0.500000004458899  7.393260098543306e-20  1.0000
+  Rb  Rb1       1.0  4.472838107308255e-46  0.500000004458899  0.36570671072191274  1.0000
+  Rb  Rb2       1.0  0.5000000007376424  3.721256504207643e-09  0.6342932894032591  1.0000
+  Sb  Sb1       1.0  4.472838107308255e-46  0.500000004458899  0.8041830155443657  1.0000
+  Sb  Sb2       1.0  0.5000000007376424  3.7212565040442665e-09  0.1958169845808061  1.0000

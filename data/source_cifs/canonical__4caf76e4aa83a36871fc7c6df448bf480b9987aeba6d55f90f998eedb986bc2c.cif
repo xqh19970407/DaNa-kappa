@@ -1,0 +1,25 @@
+data_Crystoria_4caf76e4aa83a36871fc7c6df448bf480b9987aeba6d55f90f998eedb986bc2c
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Bi1 K1 Li2'
+_cell_length_a 4.8842751011
+_cell_length_b 4.8842749596
+_cell_length_c 6.4927893761
+_cell_angle_alpha 67.9057805725
+_cell_angle_beta 67.9057795675
+_cell_angle_gamma 59.9999944995
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Li Li1 0.0000000000 0.0000000000 0.0000000000 1.0
+Li Li2 0.3822450042 0.3822450042 0.8532660007 1.0
+K K1 0.1911219954 0.1911219954 0.4266330004 1.0
+Bi Bi1 0.6911219954 0.6911219954 0.9266330004 1.0

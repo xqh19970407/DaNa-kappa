@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       KHgPbBi
+_chemical_formula_sum              "K1 Hg1 Pb1 Bi1"
+_cell_length_a       5.728016018081358
+_cell_length_b       5.728016018081357
+_cell_length_c       5.728016018081359
+_cell_angle_alpha    59.999999999999986
+_cell_angle_beta     60.00000000000001
+_cell_angle_gamma    59.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.999999999520157  2.7611278353506716e-10  0.9999999995201571  1.0000
+  Hg  Hg1       1.0  0.7500000003308109  0.7499999995748553  0.7500000003308112  1.0000
+  Pb  Pb1       1.0  0.5000000003804885  0.49999999962453257  0.5000000003804884  1.0000
+  Bi  Bi1       1.0  0.24999999947047957  0.2500000002264353  0.2499999994704796  1.0000

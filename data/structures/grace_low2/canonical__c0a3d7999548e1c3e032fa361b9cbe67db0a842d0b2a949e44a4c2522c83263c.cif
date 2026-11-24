@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       KCuI2
+_chemical_formula_sum              "K1 Cu1 I2"
+_cell_length_a       8.65099001036415
+_cell_length_b       8.650990010364149
+_cell_length_c       8.650990010364149
+_cell_angle_alpha    39.38043196228758
+_cell_angle_beta     39.3804319622876
+_cell_angle_gamma    39.3804319622876
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.9999999998844136  1.81278201649732e-10  1.0956438963960423e-10  1.0000
+  Cu  Cu1       1.0  0.4999999997742008  0.5000000000710656  0.49999999999935163  1.0000
+  I   I1        1.0  0.6010765915840172  0.6010765921777468  0.6010765920343188  1.0000
+  I   I2        1.0  0.39892340792980124  0.398923408226666  0.39892340815495214  1.0000

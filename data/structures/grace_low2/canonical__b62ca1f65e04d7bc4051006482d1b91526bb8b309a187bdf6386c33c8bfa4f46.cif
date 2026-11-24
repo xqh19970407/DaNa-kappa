@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       KZn2CsBi2
+_chemical_formula_sum              "K1 Zn2 Cs1 Bi2"
+_cell_length_a       4.7631235952994135
+_cell_length_b       4.763123595299414
+_cell_length_c       11.466673053835231
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.0  0.0  0.0  1.0000
+  Zn  Zn1       1.0  0.3333333333418698  0.6666666666837396  0.22935138794424634  1.0000
+  Zn  Zn2       1.0  0.6666666665583074  0.3333333321297445  0.770648611721286  1.0000
+  Cs  Cs1       1.0  0.0  0.0  0.5000000002688124  1.0000
+  Bi  Bi1       1.0  0.3333333333418698  0.6666666666837396  0.7650891683063821  1.0000
+  Bi  Bi2       1.0  0.6666666665583074  0.3333333321297445  0.2349108313591502  1.0000

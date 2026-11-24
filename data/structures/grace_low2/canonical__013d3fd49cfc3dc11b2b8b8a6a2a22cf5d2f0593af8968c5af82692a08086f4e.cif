@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NaBr2Cs
+_chemical_formula_sum              "Na1 Br2 Cs1"
+_cell_length_a       8.367971313309164
+_cell_length_b       8.367971313309162
+_cell_length_c       8.367971313309164
+_cell_angle_alpha    32.64845172223933
+_cell_angle_beta     32.64845172223934
+_cell_angle_gamma    32.648451722239315
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  4.849435859647406e-11  0.9999999997746412  9.20991852930096e-12  1.0000
+  Br  Br1       1.0  0.7337177320319911  0.7337177317581383  0.7337177319927068  1.0000
+  Br  Br2       1.0  0.266282268253872  0.26628226770616636  0.26628226817530354  1.0000
+  Cs  Cs1       1.0  0.5000000001609323  0.49999999988707966  0.5000000001216481  1.0000

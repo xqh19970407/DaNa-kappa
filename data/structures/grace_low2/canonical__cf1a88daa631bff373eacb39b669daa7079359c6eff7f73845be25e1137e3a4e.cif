@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HSrSbHg
+_chemical_formula_sum              "H1 Sr1 Sb1 Hg1"
+_cell_length_a       4.686531183767537
+_cell_length_b       4.68653118376754
+_cell_length_c       5.15032827179367
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999997
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  4.267548687027375e-09  3.5763252682190395e-29  0.9969293083536805  1.0000
+  Sr  Sr1       1.0  0.3333333375375895  0.6666666665400816  0.04696244146701059  1.0000
+  Sb  Sb1       1.0  0.6666666705006153  0.3333333332700408  0.45903709535327136  1.0000
+  Hg  Hg1       1.0  4.574563613420033e-09  0.9999999998101224  0.6303921592301309  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Zn2As2CsTl
+_chemical_formula_sum              "Zn2 As2 Cs1 Tl1"
+_cell_length_a       4.2599815477122664
+_cell_length_b       4.259981547712267
+_cell_length_c       10.977147887658758
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.9999997617092768  1.8431919418042256e-07  0.00035721686374023953  1.0000
+  Zn  Zn2       1.0  0.3333330954116569  0.6666668527980122  0.556554907752366  1.0000
+  As  As1       1.0  0.9999997617092768  1.8431919418042256e-07  0.5399113577273725  1.0000
+  As  As2       1.0  0.3333330954116569  0.6666668527980122  0.017000765764466977  1.0000
+  Cs  Cs1       1.0  0.666666427386753  0.3333335185586032  0.27845606174591975  1.0000
+  Tl  Tl1       1.0  0.666666427386753  0.3333335185586032  0.7784560623080532  1.0000

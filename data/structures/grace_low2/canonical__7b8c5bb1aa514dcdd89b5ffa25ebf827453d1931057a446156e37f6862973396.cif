@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       KBr3Tl2
+_chemical_formula_sum              "K1 Br3 Tl2"
+_cell_length_a       10.682139004532779
+_cell_length_b       10.682139004532779
+_cell_length_c       10.682139004532779
+_cell_angle_alpha    154.21772199386902
+_cell_angle_beta     154.21772199386902
+_cell_angle_gamma    36.78322703857815
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  6.469720891242977e-10  6.469720891242976e-10  4.5445125440579654e-10  1.0000
+  Br  Br1       1.0  0.1645935498591956  0.1645935498591956  1.3633537538612967e-09  1.0000
+  Br  Br2       1.0  0.5000000011014233  0.5000000011014233  1.3633536908396249e-09  1.0000
+  Br  Br3       1.0  0.8354064519887938  0.8354064519887938  4.5445116387557026e-10  1.0000
+  Tl  Tl1       1.0  0.333866705929996  0.33386670592999595  4.5445123753349027e-10  1.0000
+  Tl  Tl2       1.0  0.6661332959179934  0.6661332959179933  1.363353658549516e-09  1.0000

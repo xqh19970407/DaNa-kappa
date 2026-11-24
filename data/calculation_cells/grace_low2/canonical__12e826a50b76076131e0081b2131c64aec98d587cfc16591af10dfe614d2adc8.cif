@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Mg4AsSb2Cs
+_chemical_formula_sum              "Mg4 As1 Sb2 Cs1"
+_cell_length_a       4.693734441406795
+_cell_length_b       4.693734441406795
+_cell_length_c       11.252773224497435
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.0  0.0  0.9989140113060457  1.0000
+  Mg  Mg2       1.0  0.0  0.0  0.29749613212786585  1.0000
+  Mg  Mg3       1.0  0.49999999985014126  0.49999999985014126  0.9989140113060457  1.0000
+  Mg  Mg4       1.0  0.49999999985014126  0.49999999985014126  0.29749613212786585  1.0000
+  As  As1       1.0  0.0  0.49999999985014126  0.14820507147245762  1.0000
+  Sb  Sb1       1.0  0.49999999985014126  0.0  0.43647216752822776  1.0000
+  Sb  Sb2       1.0  0.49999999985014126  0.0  0.8599379759056839  1.0000
+  Cs  Cs1       1.0  0.0  0.49999999985014126  0.648205071272621  1.0000

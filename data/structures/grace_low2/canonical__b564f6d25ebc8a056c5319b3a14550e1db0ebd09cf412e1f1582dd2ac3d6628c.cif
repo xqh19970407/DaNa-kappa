@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NaSrCdBi
+_chemical_formula_sum              "Na1 Sr1 Cd1 Bi1"
+_cell_length_a       5.627509442838752
+_cell_length_b       5.627509442838754
+_cell_length_c       5.627509442838752
+_cell_angle_alpha    59.999999999999986
+_cell_angle_beta     59.99999999999997
+_cell_angle_gamma    59.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  2.9912397983306647e-10  0.9999999995296672  2.991237759295572e-10  1.0000
+  Sr  Sr1       1.0  0.4999999997861525  0.5000000005556098  0.4999999997861526  1.0000
+  Cd  Cd1       1.0  0.2499999999790368  0.24999999920958  0.24999999997903644  1.0000
+  Bi  Bi1       1.0  0.7499999994660655  0.7500000002355229  0.7499999994660651  1.0000

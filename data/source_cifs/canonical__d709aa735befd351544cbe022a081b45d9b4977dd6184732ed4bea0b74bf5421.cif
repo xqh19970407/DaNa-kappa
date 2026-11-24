@@ -1,0 +1,25 @@
+data_Crystoria_d709aa735befd351544cbe022a081b45d9b4977dd6184732ed4bea0b74bf5421
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Ga2 I2'
+_cell_length_a 4.6112085695
+_cell_length_b 4.6112085695
+_cell_length_c 8.0056610107
+_cell_angle_alpha 89.9999998805
+_cell_angle_beta 90.0000001031
+_cell_angle_gamma 120.0000087163
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ga Ga1 0.0000000000 0.0000000000 0.0000000000 1.0
+Ga Ga2 0.0000000000 0.0000000000 0.5000000000 1.0
+I I1 0.3333330750 0.6666668653 0.2500000000 1.0
+I I2 0.6666668653 0.3333330750 0.7500000000 1.0

@@ -1,0 +1,25 @@
+data_Crystoria_a2c8ded39921e2ea06dc15513af3158e81849de9387519677d24ad0e151a6f47
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Cu1 Lu1 Te2'
+_cell_length_a 4.2064474569
+_cell_length_b 4.2064474569
+_cell_length_c 6.6449146271
+_cell_angle_alpha 90.0000134075
+_cell_angle_beta 89.9999864099
+_cell_angle_gamma 120.0000052286
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cu Cu1 0.0000000000 0.0000000000 0.0000000012 1.0
+Te Te1 0.3333331347 0.6666668653 0.7725376487 1.0
+Te Te2 0.6666668653 0.3333331347 0.2274623513 1.0
+Lu Lu1 0.0000000000 0.0000000000 0.5000000000 1.0

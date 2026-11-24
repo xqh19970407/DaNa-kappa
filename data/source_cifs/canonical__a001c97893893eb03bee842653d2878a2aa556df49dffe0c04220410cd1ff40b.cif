@@ -1,0 +1,27 @@
+data_Crystoria_a001c97893893eb03bee842653d2878a2aa556df49dffe0c04220410cd1ff40b
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Na4 Se1 Te1'
+_cell_length_a 5.0027580261
+_cell_length_b 5.0027580261
+_cell_length_c 7.1241960526
+_cell_angle_alpha 89.9999999985
+_cell_angle_beta 89.9999999797
+_cell_angle_gamma 90.0000000568
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Na Na1 0.0000000004 0.0000000000 0.9998532534 1.0
+Na Na2 0.0000000000 0.0000000002 0.4743467569 1.0
+Na Na3 0.5000000000 0.5000000000 0.9998532534 1.0
+Na Na4 0.5000000000 0.5000000000 0.4743467569 1.0
+Se Se1 0.0000000000 0.5000000000 0.2371000051 1.0
+Te Te1 0.5000000000 0.0000000011 0.7371000051 1.0

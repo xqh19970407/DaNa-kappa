@@ -1,0 +1,27 @@
+data_Crystoria_a618f0d482f15ba76ddfdbc7dadd859dcc51d14517bd40a84e15e34f9ad5f088
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Cs4 S1 Se1'
+_cell_length_a 5.9148340225
+_cell_length_b 5.9148340225
+_cell_length_c 8.3739919662
+_cell_angle_alpha 90.0000000000
+_cell_angle_beta 90.0000000000
+_cell_angle_gamma 90.0000000000
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+S S1 0.0000000000 0.0000000000 0.0000000000 1.0
+Se Se1 0.5000000000 0.5000000000 0.5000000000 1.0
+Cs Cs1 0.0000000000 0.5000000000 0.2434639931 1.0
+Cs Cs2 0.0000000000 0.5000000000 0.7565360069 1.0
+Cs Cs3 0.5000000000 0.0000000000 0.2434639931 1.0
+Cs Cs4 0.5000000000 0.0000000000 0.7565360069 1.0

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NaKTlBi
+_chemical_formula_sum              "Na1 K1 Tl1 Bi1"
+_cell_length_a       5.744892047427417
+_cell_length_b       5.744892047427415
+_cell_length_c       5.744892047427417
+_cell_angle_alpha    60.00000000000001
+_cell_angle_beta     59.99999999999999
+_cell_angle_gamma    59.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9999999998196294  1.1078816125265868e-09  3.3522375968422624e-10  1.0000
+  K   K1        1.0  0.7500000001722298  0.7500000005486747  0.7499999999903003  1.0000
+  Tl  Tl1       1.0  0.5000000003526005  0.5000000004950556  0.5000000001575665  1.0000
+  Bi  Bi1       1.0  0.2500000001722298  0.25000000098384384  0.2499999999903003  1.0000

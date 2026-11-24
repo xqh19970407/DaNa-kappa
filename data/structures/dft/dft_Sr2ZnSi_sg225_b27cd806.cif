@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SiSr2Zn
+_chemical_formula_sum              "Si1 Sr2 Zn1"
+_cell_length_a       5.444237711647823
+_cell_length_b       5.444237711647823
+_cell_length_c       5.444237711647824
+_cell_angle_alpha    60.000000000000036
+_cell_angle_beta     59.999999999999986
+_cell_angle_gamma    60.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  1.868727e-10  3.4817000000000133e-12  2.468497e-10  1.0000
+  Sr  Sr1       1.0  0.2500000003737526  0.2500000002726352  0.2499999999623554  1.0000
+  Sr  Sr2       1.0  0.7499999998101643  0.7500000004604956  0.7500000001502158  1.0000
+  Zn  Zn1       1.0  0.49999999962329167  0.500000000457021  0.4999999999033591  1.0000

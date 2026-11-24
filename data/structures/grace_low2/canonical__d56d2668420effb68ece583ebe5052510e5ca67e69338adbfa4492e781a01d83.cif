@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       KSeRbHg
+_chemical_formula_sum              "K1 Se1 Rb1 Hg1"
+_cell_length_a       5.826076559918037
+_cell_length_b       5.82607655991804
+_cell_length_c       5.826076559918039
+_cell_angle_alpha    59.99999999999999
+_cell_angle_beta     60.00000000000001
+_cell_angle_gamma    59.999999999999986
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  9.086382768807248e-10  5.404117011044365e-10  1.9686561555359146e-09  1.0000
+  Se  Se1       1.0  0.7500000007661879  0.7500000009534851  0.750000001810235  1.0000
+  Rb  Rb1       1.0  0.5000000014341828  0.5000000009756966  0.5000000022889626  1.0000
+  Hg  Hg1       1.0  0.2500000007661878  0.25000000070574147  0.25000000230572283  1.0000

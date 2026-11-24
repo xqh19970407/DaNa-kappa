@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiKSe2Cd
+_chemical_formula_sum              "Li1 K1 Se2 Cd1"
+_cell_length_a       4.418514282368168
+_cell_length_b       4.418514282368174
+_cell_length_c       8.038645396853187
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999997
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  3.190729018438548e-08  0.9999999410655898  0.9992295185883417  1.0000
+  K   K1        1.0  0.33333336434175054  0.6666666064704752  0.6594420351064547  1.0000
+  Se  Se1       1.0  3.190729018438548e-08  0.9999999410655898  0.37218885549687375  1.0000
+  Se  Se2       1.0  0.6666666980828724  0.3333332744886836  0.9209588263338603  1.0000
+  Cd  Cd1       1.0  0.6666666980828724  0.3333332744886836  0.24835676552936795  1.0000

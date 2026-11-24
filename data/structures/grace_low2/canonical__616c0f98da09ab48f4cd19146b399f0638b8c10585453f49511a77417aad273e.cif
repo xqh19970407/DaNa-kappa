@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       K2SbCs
+_chemical_formula_sum              "K2 Sb1 Cs1"
+_cell_length_a       6.157230388513569
+_cell_length_b       6.15723038851357
+_cell_length_c       6.15723038851357
+_cell_angle_alpha    59.999999999999986
+_cell_angle_beta     59.99999999999999
+_cell_angle_gamma    59.999999999999986
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.9999999890317821  0.9999999878353205  3.0476413607149025e-08  1.0000
+  K   K2        1.0  0.4999999890048161  0.4999999880978646  0.5000000303258308  1.0000
+  Sb  Sb1       1.0  0.7499999891351973  0.7499999887121902  0.7500000295504486  1.0000
+  Cs  Cs1       1.0  0.24999998913519705  0.24999998871219004  0.2500000295504487  1.0000

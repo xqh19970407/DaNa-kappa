@@ -1,0 +1,25 @@
+data_Crystoria_53533f6d116184a0b2f3187abf27f25c818f0048fdc461984598d51b8da90f4f
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'In1 Rb1 Se2'
+_cell_length_a 4.1561517715
+_cell_length_b 4.1561517715
+_cell_length_c 8.0158144340
+_cell_angle_alpha 105.0253867944
+_cell_angle_beta 105.0253867944
+_cell_angle_gamma 90.0000000000
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Se Se1 0.0000000000 0.0000000000 0.0000000000 1.0
+Se Se2 0.2807550132 0.2807550132 0.5615100265 1.0
+Rb Rb1 0.6403779984 0.6403779984 0.2807550132 1.0
+In In1 0.3903779984 0.8903779984 0.7807549834 1.0

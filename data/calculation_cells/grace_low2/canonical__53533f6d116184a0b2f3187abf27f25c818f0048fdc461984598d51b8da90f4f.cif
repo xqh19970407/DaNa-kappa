@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Se2RbInSe2RbIn
+_chemical_formula_sum              "Se4 Rb2 In2"
+_cell_length_a       4.154314071545479
+_cell_length_b       4.154314071545479
+_cell_length_c       15.108976302348259
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.0  0.0  0.9989624677617924  1.0000
+  Se  Se2       1.0  0.0  0.0  0.2817925453585018  1.0000
+  Rb  Rb1       1.0  2.5140358571425446e-20  0.999999999627982  0.6403775064824364  1.0000
+  In  In1       1.0  0.5000000010175591  0.999999999627982  0.39037750685222083  1.0000
+  Se  Se3       1.0  0.5000000010175591  0.5000000010175591  0.49896246768408176  1.0000
+  Se  Se4       1.0  0.5000000010175591  0.5000000010175591  0.781792545280791  1.0000
+  Rb  Rb2       1.0  0.5000000010175591  0.5000000010175591  0.1403775065601471  1.0000
+  In  In2       1.0  1.2570179315970856e-20  0.5000000010175591  0.8903775067745101  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       AgSbBa2
+_chemical_formula_sum              "Ag1 Sb1 Ba2"
+_cell_length_a       5.915514039477406
+_cell_length_b       5.915514039477408
+_cell_length_c       5.915514039477406
+_cell_angle_alpha    59.999999999999986
+_cell_angle_beta     59.99999999999999
+_cell_angle_gamma    59.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  2.805022603080687e-10  4.718942977136008e-10  5.0272008778051726e-11  1.0000
+  Sb  Sb1       1.0  0.5000000007981008  0.5000000000553629  0.500000000365736  1.0000
+  Ba  Ba1       1.0  0.25000000107860304  0.2500000001046399  0.25000000041600795  1.0000
+  Ba  Ba2       1.0  0.7500000010786031  0.7500000005926366  0.7499999994400145  1.0000

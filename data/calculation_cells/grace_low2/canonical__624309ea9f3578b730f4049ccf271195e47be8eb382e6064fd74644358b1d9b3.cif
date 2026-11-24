@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       HOK2I
+_chemical_formula_sum              "H1 O1 K2 I1"
+_cell_length_a       5.445212937545233
+_cell_length_b       5.445212937545271
+_cell_length_c       4.926051785285711
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.0  1.5217361861970627e-39  0.9974417118314421  1.0000
+  O   O1        1.0  6.219839503074935e-21  0.0  0.7992940211796074  1.0000
+  K   K1        1.0  1.556641489391423e-20  0.5000000002254025  0.734657327559966  1.0000
+  K   K2        1.0  0.500000000225406  9.849556583832465e-21  0.734657327559966  1.0000
+  I   I1        1.0  0.500000000225406  0.5000000002254025  0.2391825586404514  1.0000

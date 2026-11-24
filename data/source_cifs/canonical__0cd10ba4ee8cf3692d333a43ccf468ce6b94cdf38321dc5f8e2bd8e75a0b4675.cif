@@ -1,0 +1,26 @@
+data_Crystoria_0cd10ba4ee8cf3692d333a43ccf468ce6b94cdf38321dc5f8e2bd8e75a0b4675
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'As2 Ca1 Cd2'
+_cell_length_a 4.4532522069
+_cell_length_b 4.4532522069
+_cell_length_c 7.2280931473
+_cell_angle_alpha 89.9999908187
+_cell_angle_beta 90.0000091150
+_cell_angle_gamma 119.9999913024
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca Ca1 0.0000000010 0.0000000000 0.0000000009 1.0
+As As1 0.3333333135 0.6666666865 0.2347516865 1.0
+As As2 0.6666666269 0.3333333135 0.7652483582 1.0
+Cd Cd1 0.3333333135 0.6666666865 0.6340804100 1.0
+Cd Cd2 0.6666666865 0.3333333135 0.3659196496 1.0

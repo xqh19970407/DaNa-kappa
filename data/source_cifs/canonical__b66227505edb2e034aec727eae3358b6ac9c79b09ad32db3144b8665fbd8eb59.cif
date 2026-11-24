@@ -1,0 +1,26 @@
+data_Crystoria_b66227505edb2e034aec727eae3358b6ac9c79b09ad32db3144b8665fbd8eb59
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Sn1 Te2 Tl2'
+_cell_length_a 4.6047412189
+_cell_length_b 4.6047412189
+_cell_length_c 9.9094152451
+_cell_angle_alpha 89.9999995164
+_cell_angle_beta 90.0000005150
+_cell_angle_gamma 119.9999949072
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Sn Sn1 0.0000000000 0.0000000000 0.0000000017 1.0
+Te Te1 0.3333330750 0.6666669250 0.8198439479 1.0
+Te Te2 0.6666669250 0.3333330750 0.1801560521 1.0
+Tl Tl1 0.3333330452 0.6666669250 0.3667067587 1.0
+Tl Tl2 0.6666669250 0.3333330452 0.6332932115 1.0

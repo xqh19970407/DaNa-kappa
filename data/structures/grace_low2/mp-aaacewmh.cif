@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NaSmTe2
+_chemical_formula_sum              "Na1 Sm1 Te2"
+_cell_length_a       8.009213211091485
+_cell_length_b       8.009213211091486
+_cell_length_c       8.009213211091486
+_cell_angle_alpha    32.70658642231709
+_cell_angle_beta     32.706586422317095
+_cell_angle_gamma    32.706586422317095
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9999999998504416  0.9999999993246498  5.249534209193193e-10  1.0000
+  Sm  Sm1       1.0  0.500000000020498  0.4999999994947049  0.5000000006950086  1.0000
+  Te  Te1       1.0  0.7546123483785971  0.7546123478528046  0.7546123490531083  1.0000
+  Te  Te2       1.0  0.2453876517461332  0.2453876506945483  0.24538765181503913  1.0000

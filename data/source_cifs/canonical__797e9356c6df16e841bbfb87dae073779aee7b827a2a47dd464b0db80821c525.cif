@@ -1,0 +1,27 @@
+data_Crystoria_797e9356c6df16e841bbfb87dae073779aee7b827a2a47dd464b0db80821c525
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Cu2 La2 Pb2'
+_cell_length_a 4.7432293411
+_cell_length_b 4.7432293411
+_cell_length_c 7.9195199013
+_cell_angle_alpha 89.9999992211
+_cell_angle_beta 90.0000007785
+_cell_angle_gamma 119.9999993297
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cu Cu1 0.9999999404 0.0000000753 0.0007901086 1.0
+Cu Cu2 0.3333332539 0.6666667461 0.5007901192 1.0
+La La1 0.6666666865 0.3333332837 0.1962586045 1.0
+La La2 0.6666666269 0.3333333731 0.6962586045 1.0
+Pb Pb1 0.0000000007 0.9999999404 0.4257472754 1.0
+Pb Pb2 0.3333334625 0.6666665077 0.9257472754 1.0

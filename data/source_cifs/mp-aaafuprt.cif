@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Mg3BiSb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.6643400000
+_cell_length_b   4.6643409250
+_cell_length_c   7.3603450000
+_cell_angle_alpha   90.0000000000
+_cell_angle_beta   90.0000000000
+_cell_angle_gamma   119.9999934398
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg3BiSb
+_chemical_formula_sum   'Mg3 Bi1 Sb1'
+_cell_volume   138.6785583459
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.0000000000  0.0000000000  0.0044930000  1.0
+  Mg  Mg1  1  0.3333330000  0.6666670000  0.3649360000  1.0
+  Mg  Mg2  1  0.6666670000  0.3333330000  0.6258560000  1.0
+  Bi  Bi3  1  0.3333330000  0.6666670000  0.7796450000  1.0
+  Sb  Sb4  1  0.6666670000  0.3333330000  0.2250700000  1.0

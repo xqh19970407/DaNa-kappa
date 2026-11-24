@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Br2Cl2Br2Cl2
+_chemical_formula_sum              "Br4 Cl4"
+_cell_length_a       7.913202631654626
+_cell_length_b       5.266686685893391
+_cell_length_c       7.670436227009769
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.0  0.0  0.0  1.0000
+  Br  Br2       1.0  0.0  0.0  0.4999999995430658  1.0000
+  Cl  Cl1       1.0  0.500000000527307  0.22370457562165466  0.2500000004233863  1.0000
+  Cl  Cl2       1.0  0.500000000527307  0.7762954251580783  0.7499999999664521  1.0000
+  Br  Br3       1.0  0.500000000527307  0.499999999440503  0.0  1.0000
+  Br  Br4       1.0  0.500000000527307  0.499999999440503  0.4999999995430658  1.0000
+  Cl  Cl3       1.0  3.6254029687748305e-19  0.7237045750621576  0.2500000004233863  1.0000
+  Cl  Cl4       1.0  1.3841038058511242e-19  0.2762954257175752  0.7499999999664521  1.0000

@@ -1,0 +1,28 @@
+data_Crystoria_abc686df8c38c0fae19c7b9055c3f43747635043d5fd8d883bc4b3deb77159b6
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Cu1 F4 Rb2'
+_cell_length_a 3.7213854790
+_cell_length_b 6.4064707756
+_cell_length_c 6.4064707756
+_cell_angle_alpha 90.0000002565
+_cell_angle_beta 90.0000000573
+_cell_angle_gamma 89.9999999890
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+F F1 0.0000000000 0.0004154381 0.0004154331 1.0
+F F2 0.0000000023 0.0004154403 0.4201105535 1.0
+F F3 0.0000000000 0.4201105535 0.0004154475 1.0
+F F4 0.0000000021 0.4201105535 0.4201105535 1.0
+Cu Cu1 0.0000000002 0.2102630287 0.2102629989 1.0
+Rb Rb1 0.5000000000 0.2102629989 0.7102630138 1.0
+Rb Rb2 0.5000000000 0.7102630138 0.2102629989 1.0

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       LiAg2Sb2La
+_chemical_formula_sum              "Li1 Ag2 Sb2 La1"
+_cell_length_a       4.693423882209927
+_cell_length_b       4.693423882209931
+_cell_length_c       7.474160278074456
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999997
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  4.2612814231010556e-09  0.0  7.580803636188293e-34  1.0000
+  Ag  Ag1       1.0  0.3333333373713563  0.6666666662201498  0.1541229177783662  1.0000
+  Ag  Ag2       1.0  0.6666666705808908  0.3333333331100749  0.8458770824792606  1.0000
+  Sb  Sb1       1.0  0.3333333373713563  0.6666666662201498  0.7469141511958874  1.0000
+  Sb  Sb2       1.0  0.6666666705808908  0.3333333331100749  0.2530858490617394  1.0000
+  La  La1       1.0  4.2612814231010605e-09  7.230030750584736e-40  0.5000000001288135  1.0000

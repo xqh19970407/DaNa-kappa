@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       CsAu
+_chemical_formula_sum              "Cs1 Au1"
+_cell_length_a       5.213791359929568
+_cell_length_b       5.213791359929564
+_cell_length_c       5.213791359929567
+_cell_angle_alpha    60.00000000000002
+_cell_angle_beta     59.99999999999997
+_cell_angle_gamma    59.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  6.191040735625819e-11  1.5631107519453732e-11  0.9999999999392308  1.0000
+  Au  Au1       1.0  0.5000000000619103  0.499999999738793  0.5000000004929069  1.0000

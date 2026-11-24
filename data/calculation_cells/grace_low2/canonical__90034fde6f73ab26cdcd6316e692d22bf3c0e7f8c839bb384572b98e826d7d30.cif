@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NaP2KCd2
+_chemical_formula_sum              "Na1 P2 K1 Cd2"
+_cell_length_a       4.404739804636064
+_cell_length_b       4.404739804636062
+_cell_length_c       9.1824059470273
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.0  0.0  0.0  1.0000
+  P   P1        1.0  0.3333333330820775  0.6666666661641549  0.7717776888631529  1.0000
+  P   P2        1.0  0.6666666666701541  0.33333333439282514  0.22822231146058583  1.0000
+  K   K1        1.0  2.776196328323362e-24  0.0  0.49999999961734976  1.0000
+  Cd  Cd1       1.0  0.3333333330820775  0.6666666661641549  0.21736980171805353  1.0000
+  Cd  Cd2       1.0  0.6666666666701541  0.33333333439282514  0.7826301975166459  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       TlBrTlBrTlBrTlBr
+_chemical_formula_sum              "Tl4 Br4"
+_cell_length_a       6.766978399725212
+_cell_length_b       6.766978399725213
+_cell_length_c       6.766978399725213
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.0  0.0  0.0  1.0000
+  Br  Br1       1.0  0.4999999997968337  0.49999999967529835  0.5000000005343533  1.0000
+  Tl  Tl2       1.0  0.9999999995875025  0.49999999988911936  0.49999999915205234  1.0000
+  Br  Br2       1.0  0.4999999998559289  1.9772482694954378e-10  0.9999999988808814  1.0000
+  Tl  Tl3       1.0  0.5000000006076977  0.99999999959157  0.4999999994267507  1.0000
+  Br  Br3       1.0  4.2323215949553897e-11  0.49999999989197863  0.9999999992094774  1.0000
+  Tl  Tl4       1.0  0.5000000002516544  0.49999999967815767  5.917783688345619e-10  1.0000
+  Br  Br4       1.0  0.9999999995451794  0.9999999999971407  0.4999999999425749  1.0000

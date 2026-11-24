@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Cl2KAg
+_chemical_formula_sum              "Cl2 K1 Ag1"
+_cell_length_a       8.14309812526292
+_cell_length_b       8.14309812526292
+_cell_length_c       8.143098125262922
+_cell_angle_alpha    35.23998652176474
+_cell_angle_beta     35.23998652176473
+_cell_angle_gamma    35.23998652176473
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.002036056641564551  0.002036097369653896  0.0020361044162712783  1.0000
+  Cl  Cl2       1.0  0.7969939894888386  0.7969940301373852  0.7969940375719576  1.0000
+  K   K1        1.0  0.3995150230298353  0.399515063678382  0.39951507111295476  1.0000
+  Ag  Ag1       1.0  0.8995150230998737  0.8995150637484206  0.8995150711829926  1.0000

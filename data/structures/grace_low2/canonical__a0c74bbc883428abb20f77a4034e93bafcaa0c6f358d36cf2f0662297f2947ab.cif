@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       GaCdLaHg
+_chemical_formula_sum              "Ga1 Cd1 La1 Hg1"
+_cell_length_a       5.187717475749068
+_cell_length_b       5.187717475749068
+_cell_length_c       5.187717475749069
+_cell_angle_alpha    59.99999999999997
+_cell_angle_beta     59.99999999999999
+_cell_angle_gamma    59.99999999999997
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.9999999998956427  0.9999999998956427  0.9999999998956426  1.0000
+  Cd  Cd1       1.0  0.7500000001847611  0.7500000001847612  0.7500000001847608  1.0000
+  La  La1       1.0  0.25000000018476115  0.25000000018476115  0.25000000018476104  1.0000
+  Hg  Hg1       1.0  0.49999999989564253  0.4999999998956427  0.4999999998956426  1.0000

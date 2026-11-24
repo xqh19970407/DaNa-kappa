@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       AsSr2Au
+_chemical_formula_sum              "As1 Sr2 Au1"
+_cell_length_a       5.416160316761421
+_cell_length_b       5.416160316761424
+_cell_length_c       5.416160316761422
+_cell_angle_alpha    60.00000000000001
+_cell_angle_beta     60.00000000000001
+_cell_angle_gamma    59.999999999999986
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  3.716639705609414e-09  4.041126348872464e-09  3.6871703145555e-09  1.0000
+  Sr  Sr1       1.0  0.25000000347604123  0.25000000368639896  0.2500000044295118  1.0000
+  Sr  Sr2       1.0  0.750000003476041  0.750000003686399  0.7500000044295119  1.0000
+  Au  Au1       1.0  0.5000000031513199  0.5000000042295664  0.5000000038756104  1.0000

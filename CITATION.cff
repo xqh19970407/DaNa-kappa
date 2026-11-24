@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite this software and the papers listed in the documentation."
+title: "DANA-kappa: Distribution-Aware Neighborhood Attention for lattice thermal conductivity"
+type: software
+version: 0.1.0
+date-released: 2026-11-24
+license: GPL-3.0-only
+repository-code: "https://github.com/xqh19970407/DaNa-kappa"
+authors:
+  - family-names: Han
+    given-names: Xiao-Qi
+  - family-names: Gao
+    given-names: Ze-Feng
+  - family-names: Pang
+    given-names: Ke-Xin
+  - family-names: Guo
+    given-names: Peng-Jie
+  - family-names: Lu
+    given-names: Zhong-Yi

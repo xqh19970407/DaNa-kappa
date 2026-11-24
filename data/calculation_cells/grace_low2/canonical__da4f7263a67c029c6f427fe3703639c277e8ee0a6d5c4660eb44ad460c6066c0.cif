@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Li2Se2BaLi2Se2Ba
+_chemical_formula_sum              "Li4 Se4 Ba2"
+_cell_length_a       4.168772926585772
+_cell_length_b       4.168772926585772
+_cell_length_c       13.573412794369117
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.0  0.0  0.0  1.0000
+  Li  Li2       1.0  2.644572918026479e-23  6.839071546918405e-21  0.5000000002074232  1.0000
+  Se  Se1       1.0  5.936484748516758e-24  0.4999999992101066  0.11223900673174875  1.0000
+  Se  Se2       1.0  2.050924443174803e-23  0.4999999992101066  0.3877609934756745  1.0000
+  Ba  Ba1       1.0  0.4999999992101066  3.4195357734592026e-21  0.2500000001037116  1.0000
+  Li  Li3       1.0  0.4999999992101066  0.4999999992101066  0.5000000002074232  1.0000
+  Li  Li4       1.0  0.4999999992101066  0.4999999992101066  6.42640339042994e-22  1.0000
+  Se  Se3       1.0  0.4999999992101066  8.37429273099134e-21  0.6122390062024377  1.0000
+  Se  Se4       1.0  0.4999999992101066  8.190006450803367e-10  0.8877609936830978  1.0000
+  Ba  Ba2       1.0  3.9668593770397183e-23  0.4999999992101066  0.7500000003111349  1.0000

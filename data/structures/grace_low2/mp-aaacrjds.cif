@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SnTe2Pb
+_chemical_formula_sum              "Sn1 Te2 Pb1"
+_cell_length_a       7.957016565425668
+_cell_length_b       7.957016565425669
+_cell_length_c       7.957016565425665
+_cell_angle_alpha    33.46612180277992
+_cell_angle_beta     33.4661218027799
+_cell_angle_gamma    33.466121802779966
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.5000000002440226  0.5000000007597186  0.4999999996744884  1.0000
+  Te  Te1       1.0  0.7529056999952692  0.7529057005109652  0.7529056993606899  1.0000
+  Te  Te2       1.0  0.24709430049277636  0.24709430100847207  0.2470942999882868  1.0000
+  Pb  Pb1       1.0  1.853942448623189e-10  7.010900709290221e-10  0.9999999995643333  1.0000

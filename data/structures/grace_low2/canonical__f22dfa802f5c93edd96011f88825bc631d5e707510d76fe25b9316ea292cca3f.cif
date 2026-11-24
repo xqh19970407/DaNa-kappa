@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Na3BrI2
+_chemical_formula_sum              "Na3 Br1 I2"
+_cell_length_a       10.061042076771871
+_cell_length_b       10.061042076771871
+_cell_length_c       10.061042076771871
+_cell_angle_alpha    154.004735314254
+_cell_angle_beta     154.004735314254
+_cell_angle_gamma    37.09272185722988
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.0006967068640938763  0.0006967068640939815  1.192620426347525e-07  1.0000
+  Na  Na2       1.0  0.31633524306694144  0.3163352430669415  1.1926204268215424e-07  1.0000
+  Na  Na3       1.0  0.6585159749286319  0.6585159749286321  1.1926204278162347e-07  1.0000
+  Br  Br1       1.0  0.15851597492863181  0.1585159749286319  1.1926204269103528e-07  1.0000
+  I   I1        1.0  0.49260562146109377  0.49260562146109377  1.1926204262645055e-07  1.0000
+  I   I2        1.0  0.8244263279457522  0.8244263279457524  1.1926204269365907e-07  1.0000

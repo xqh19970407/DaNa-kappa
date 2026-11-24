@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li2Y2Te4
+_chemical_formula_sum              "Li2 Y2 Te4"
+_cell_length_a       4.3337528441387425
+_cell_length_b       4.333752844138744
+_cell_length_c       14.188949428714906
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.0  0.0  0.001957209033658188  1.0000
+  Li  Li2       1.0  0.33333333317815533  0.6666666663563106  0.5019572094313302  1.0000
+  Y   Y1        1.0  0.0  0.0  0.2560671294413846  1.0000
+  Y   Y2        1.0  0.33333333317815533  0.6666666663563106  0.7560671298390564  1.0000
+  Te  Te1       1.0  0.0  0.0  0.6275874492849264  1.0000
+  Te  Te2       1.0  0.33333333317815533  0.6666666663563106  0.12758744959202817  1.0000
+  Te  Te3       1.0  0.6666666667776855  0.33333333451037317  0.38363020020242616  1.0000
+  Te  Te4       1.0  0.6666666667776855  0.33333333451037317  0.8836301998953243  1.0000

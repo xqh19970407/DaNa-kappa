@@ -1,0 +1,12 @@
+{
+  "temperature_K": 300,
+  "unit": "W m^-1 K^-1",
+  "cif_paths_relative_to": "data/",
+  "grace_successful_records": 4724,
+  "grace_positive_below2": 1712,
+  "grace_zero_records": 13,
+  "dft_completed_records": 60,
+  "dft_positive_below2": 58,
+  "dft_primary_protocol": 59,
+  "note": "Source records are not a globally deduplicated set of compounds. Low2 uses strict 0 < kappa < 2."
+}

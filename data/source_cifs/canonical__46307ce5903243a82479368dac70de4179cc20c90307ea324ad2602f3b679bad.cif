@@ -1,0 +1,25 @@
+data_Crystoria_46307ce5903243a82479368dac70de4179cc20c90307ea324ad2602f3b679bad
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Cl2 H1 Na1'
+_cell_length_a 4.3089856510
+_cell_length_b 4.3089852333
+_cell_length_c 6.4120599658
+_cell_angle_alpha 70.3662526491
+_cell_angle_beta 70.3662534965
+_cell_angle_gamma 59.9999958857
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+H H1 0.0000000000 0.0000000000 0.0000000000 1.0
+Na Na1 0.5000000000 0.5000000000 0.5000000000 1.0
+Cl Cl1 0.0878169984 0.0878169984 0.7365499735 1.0
+Cl Cl2 0.9121829867 0.9121829867 0.2634499967 1.0

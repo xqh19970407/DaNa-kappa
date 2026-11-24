@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CdTe4Hg3
+_chemical_formula_sum              "Cd1 Te4 Hg3"
+_cell_length_a       6.656566784759757
+_cell_length_b       6.656566784759757
+_cell_length_c       6.656566784759757
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.0  0.0  0.0  1.0000
+  Te  Te1       1.0  0.24920556701961633  0.24920556701961633  0.24920556701961633  1.0000
+  Te  Te2       1.0  0.24920556701961633  0.7507944322653367  0.7507944322653367  1.0000
+  Te  Te3       1.0  0.7507944322653367  0.24920556701961633  0.7507944322653367  1.0000
+  Te  Te4       1.0  0.7507944322653367  0.7507944322653367  0.24920556701961633  1.0000
+  Hg  Hg1       1.0  4.1359030598077723e-25  0.4999999996424765  0.4999999996424765  1.0000
+  Hg  Hg2       1.0  0.4999999996424765  4.8540574151244036e-42  0.4999999996424765  1.0000
+  Hg  Hg3       1.0  0.4999999996424765  0.4999999996424765  0.0  1.0000

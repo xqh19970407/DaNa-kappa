@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       LiBrLiBrLiBrLiBr
+_chemical_formula_sum              "Li4 Br4"
+_cell_length_a       5.503649644609732
+_cell_length_b       5.503649644609729
+_cell_length_c       5.5036496446097285
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.0  0.0  0.0  1.0000
+  Br  Br1       1.0  0.5000000005146051  0.5000000000225431  0.5000000010328788  1.0000
+  Li  Li2       1.0  0.9999999999867638  0.4999999997175113  0.4999999990032947  1.0000
+  Br  Br2       1.0  0.49999999904428594  0.9999999997620135  3.0107711006065325e-12  1.0000
+  Li  Li3       1.0  0.5000000005057061  5.733990116471668e-10  0.500000000043595  1.0000
+  Br  Br3       1.0  8.899022535123114e-12  0.49999999944914403  9.892836495503602e-10  1.0000
+  Li  Li4       1.0  0.5000000001022167  0.5000000002601889  0.9999999999432625  1.0000
+  Br  Br4       1.0  4.123885298574544e-10  0.9999999997623542  0.5000000010896162  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiKI2
+_chemical_formula_sum              "Li1 K1 I2"
+_cell_length_a       8.298702001489971
+_cell_length_b       8.298702001489971
+_cell_length_c       8.298702001489975
+_cell_angle_alpha    32.09291204325123
+_cell_angle_beta     32.09291204325123
+_cell_angle_gamma    32.09291204325121
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  1.5362267088175816e-10  3.4975696067753355e-10  0.9999999993804277  1.0000
+  K   K1        1.0  0.5000000001342574  0.5000000003303917  0.49999999936106204  1.0000
+  I   I1        1.0  0.7356905249663119  0.7356905251624464  0.735690524193117  1.0000
+  I   I2        1.0  0.26430947549891165  0.2643094758911807  0.26430947521096926  1.0000

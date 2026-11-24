@@ -1,0 +1,25 @@
+data_Crystoria_b683883a60ffaa310a82c291bb0b18855598496d4d1cb88330efb48a8d2ce47d
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Br2 Ga1 Tl1'
+_cell_length_a 4.6042019929
+_cell_length_b 4.6042017937
+_cell_length_c 8.0336406635
+_cell_angle_alpha 73.3480228470
+_cell_angle_beta 73.3480205505
+_cell_angle_gamma 60.0000014312
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ga Ga1 0.0000000000 0.0000000000 0.0000000000 1.0
+Br Br1 0.2564969957 0.2564969957 0.2305099964 1.0
+Br Br2 0.7435029745 0.7435029745 0.7694900036 1.0
+Tl Tl1 0.5000000000 0.5000000000 0.5000000000 1.0

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ClAgClAgClAgClAg
+_chemical_formula_sum              "Cl4 Ag4"
+_cell_length_a       5.609252610324142
+_cell_length_b       5.609252610324143
+_cell_length_c       5.609252610324142
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.0  0.0  0.0  1.0000
+  Ag  Ag1       1.0  0.500000000916545  0.5000000000229161  0.49999999997793537  1.0000
+  Cl  Cl2       1.0  0.9999999992244816  0.49999999947918006  0.4999999997838448  1.0000
+  Ag  Ag2       1.0  0.4999999997036434  0.9999999990881114  0.999999999661295  1.0000
+  Cl  Cl3       1.0  0.5000000003113219  8.816389403949648e-10  0.5000000001554713  1.0000
+  Ag  Ag3       1.0  0.9999999995759414  0.5000000001705591  8.517459816556907e-10  1.0000
+  Cl  Cl4       1.0  0.500000000007397  0.5000000007142952  0.9999999997852287  1.0000
+  Ag  Ag4       1.0  0.9999999998798662  3.3790291924202253e-10  0.5000000012219886  1.0000

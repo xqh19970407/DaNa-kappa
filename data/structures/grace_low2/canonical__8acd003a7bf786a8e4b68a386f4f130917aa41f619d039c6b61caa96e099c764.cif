@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SeRb4Te
+_chemical_formula_sum              "Se1 Rb4 Te1"
+_cell_length_a       5.857764336116258
+_cell_length_b       5.857764336116258
+_cell_length_c       8.389673163530485
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.0  0.0  0.0  1.0000
+  Rb  Rb1       1.0  0.0  0.5000000003315037  0.23662907735545022  1.0000
+  Rb  Rb2       1.0  0.0  0.5000000003315037  0.7633709222237366  1.0000
+  Rb  Rb3       1.0  0.5000000003315037  0.0  0.23662907735545022  1.0000
+  Rb  Rb4       1.0  0.5000000003315037  0.0  0.7633709222237366  1.0000
+  Te  Te1       1.0  0.5000000003315037  0.5000000003315037  0.4999999997895933  1.0000

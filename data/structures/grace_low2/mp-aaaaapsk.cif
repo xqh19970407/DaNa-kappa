@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiInSe2
+_chemical_formula_sum              "Li1 In1 Se2"
+_cell_length_a       6.910917201065808
+_cell_length_b       6.910917201065807
+_cell_length_c       6.910917201065806
+_cell_angle_alpha    33.22831137833332
+_cell_angle_beta     33.2283113783333
+_cell_angle_gamma    33.228311378333316
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  1.5635178487528874e-10  0.9999999993601311  4.025731229849849e-10  1.0000
+  In  In1       1.0  0.5000000001849235  0.4999999993887029  0.5000000002673134  1.0000
+  Se  Se1       1.0  0.2486857765242909  0.24868577572807082  0.2486857761738744  1.0000
+  Se  Se2       1.0  0.7513142245475704  0.7513142237513497  0.7513142233720442  1.0000

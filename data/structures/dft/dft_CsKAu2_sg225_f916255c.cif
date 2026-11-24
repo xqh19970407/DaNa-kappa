@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Au2CsK
+_chemical_formula_sum              "Au2 Cs1 K1"
+_cell_length_a       5.928126295235646
+_cell_length_b       5.9281262952356455
+_cell_length_c       5.9281262952356455
+_cell_angle_alpha    59.99999999999999
+_cell_angle_beta     59.99999999999999
+_cell_angle_gamma    59.999999999999986
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.7499999989354362  0.75000000006996  0.7500000012081999  1.0000
+  Au  Au2       1.0  0.24999999893543648  0.25000000006996004  0.2500000012081998  1.0000
+  Cs  Cs1       1.0  0.4999999990968574  0.5000000004501431  0.5000000010756979  1.0000
+  K   K1        1.0  0.9999999993053379  1.4953367207172734e-10  1.3584511157449017e-09  1.0000

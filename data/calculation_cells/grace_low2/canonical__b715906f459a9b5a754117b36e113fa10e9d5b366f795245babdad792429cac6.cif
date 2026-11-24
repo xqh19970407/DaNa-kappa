@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HCaZnBi
+_chemical_formula_sum              "H1 Ca1 Zn1 Bi1"
+_cell_length_a       4.482164092025668
+_cell_length_b       4.482164092025665
+_cell_length_c       4.878069360627361
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  1.3386390763057406e-08  8.337305485174694e-27  0.9993613272445148  1.0000
+  Ca  Ca1       1.0  0.33333334735307396  0.6666666679333665  0.026468508431252542  1.0000
+  Zn  Zn1       1.0  1.2802799848254229e-08  6.119436068985351e-10  0.654900689970743  1.0000
+  Bi  Bi1       1.0  0.6666666806152419  0.3333333326785772  0.4732064735756707  1.0000

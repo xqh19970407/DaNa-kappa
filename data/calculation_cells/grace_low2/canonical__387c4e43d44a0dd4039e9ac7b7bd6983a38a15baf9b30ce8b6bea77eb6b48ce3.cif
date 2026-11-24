@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CsAuCsAu
+_chemical_formula_sum              "Cs2 Au2"
+_cell_length_a       4.527440702676025
+_cell_length_b       5.028594722414805
+_cell_length_c       8.710675613343447
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  2.208753389986825e-09  0.9999998961111733  0.0007594979188371658  1.0000
+  Au  Au1       1.0  0.5000000019132195  0.9999998961111733  0.6674440018285145  1.0000
+  Cs  Cs2       1.0  2.2087533899868245e-09  0.4999998963512808  0.5007594983009288  1.0000
+  Au  Au2       1.0  0.5000000019132195  0.4999998963512808  0.1674440025944394  1.0000

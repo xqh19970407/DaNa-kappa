@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HoAgTe2
+_chemical_formula_sum              "Ho1 Ag1 Te2"
+_cell_length_a       4.484763715427321
+_cell_length_b       4.484763715427318
+_cell_length_c       7.3597995731155095
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.6666669996736563  0.33333300016230916  0.9856429007249746  1.0000
+  Ag  Ag1       1.0  3.334260680737495e-07  0.9999996665739028  0.3888395847699106  1.0000
+  Te  Te1       1.0  3.334260680737495e-07  0.9999996665739028  0.766176842722494  1.0000
+  Te  Te2       1.0  0.3333336673120106  0.6666663348911729  0.22934067337454503  1.0000

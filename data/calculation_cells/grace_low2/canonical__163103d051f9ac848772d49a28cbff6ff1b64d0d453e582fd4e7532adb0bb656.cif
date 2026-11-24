@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sr2Sn2Ba2
+_chemical_formula_sum              "Sr2 Sn2 Ba2"
+_cell_length_a       5.422951009003818
+_cell_length_b       5.422951009003818
+_cell_length_c       8.696174011836408
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.0  0.0  0.0  1.0000
+  Sr  Sr2       1.0  0.49999999916984145  0.49999999916984145  2.8145578729199326e-28  1.0000
+  Sn  Sn1       1.0  3.2311742624204904e-27  0.49999999916984145  0.23579963869271464  1.0000
+  Sn  Sn2       1.0  0.49999999916984145  0.0  0.764200361096111  1.0000
+  Ba  Ba1       1.0  3.2311742624204904e-27  0.49999999916984145  0.6361953489511286  1.0000
+  Ba  Ba2       1.0  0.49999999916984145  0.0  0.36380465198762807  1.0000

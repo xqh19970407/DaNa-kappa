@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CaSb2BaAu2
+_chemical_formula_sum              "Ca1 Sb2 Ba1 Au2"
+_cell_length_a       4.75833507235546
+_cell_length_b       4.758335072355462
+_cell_length_c       8.808554059264363
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  4.203150828152933e-09  1.2881591950804505e-27  1.0217340938646205e-08  1.0000
+  Sb  Sb1       1.0  0.3333333369396564  0.666666665473011  0.23517636334663125  1.0000
+  Sb  Sb2       1.0  0.6666666698797795  0.3333333339498506  0.7648236560363041  1.0000
+  Ba  Ba1       1.0  4.203150828152933e-09  1.2881591950804505e-27  0.5000000102590978  1.0000
+  Au  Au1       1.0  0.3333333369396564  0.666666665473011  0.7890283164794968  1.0000
+  Au  Au2       1.0  0.6666666698797795  0.3333333339498506  0.21097170403869875  1.0000

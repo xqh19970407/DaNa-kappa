@@ -1,0 +1,25 @@
+data_Crystoria_d717671e09d5f6ef49629b9f8a19678acd1b92c2c407cdf88b804ab8862b0907
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Br2 Li1 Na1'
+_cell_length_a 4.0607628992
+_cell_length_b 4.0607628822
+_cell_length_c 7.1316284281
+_cell_angle_alpha 73.4590297908
+_cell_angle_beta 73.4590313191
+_cell_angle_gamma 60.0000079070
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Li Li1 0.0000000000 0.0000000000 0.0000000000 1.0
+Na Na1 0.5000000000 0.5000000000 0.5000000000 1.0
+Br Br1 0.2568170130 0.2568170130 0.2295480072 1.0
+Br Br2 0.7431830168 0.7431830168 0.7704520226 1.0

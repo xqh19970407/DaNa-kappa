@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ZnAsRbCsAu
+_chemical_formula_sum              "Zn1 As1 Rb1 Cs1 Au1"
+_cell_length_a       4.373401225674818
+_cell_length_b       4.373401225674812
+_cell_length_c       10.597287530651792
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000007
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.9999998208508407  1.610571022562099e-07  0.9995397642427191  1.0000
+  As  As1       1.0  0.3333331538661486  0.6666668290656673  0.9990122452918715  1.0000
+  Rb  Rb1       1.0  0.6666664885017697  0.33333349506138477  0.2608188540704812  1.0000
+  Cs  Cs1       1.0  0.6666664885017697  0.33333349506138477  0.7206206982599729  1.0000
+  Au  Au1       1.0  0.3333331538661486  0.6666668290656673  0.4834244494340814  1.0000

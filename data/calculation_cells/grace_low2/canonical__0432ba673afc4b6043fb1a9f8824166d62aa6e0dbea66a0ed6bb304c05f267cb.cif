@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NaMgAlSb2
+_chemical_formula_sum              "Na1 Mg1 Al1 Sb2"
+_cell_length_a       4.576573376431475
+_cell_length_b       4.576573376431476
+_cell_length_c       7.87601779438393
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  4.370081795912283e-09  6.833013417428486e-27  0.003331571954892019  1.0000
+  Mg  Mg1       1.0  0.33333333759633765  0.6666666664525118  0.6524653237406713  1.0000
+  Al  Al1       1.0  0.6666666720038453  0.3333333344877899  0.4122399764402727  1.0000
+  Sb  Sb1       1.0  0.33333333759633765  0.6666666664525118  0.27892530938242216  1.0000
+  Sb  Sb2       1.0  0.6666666720038453  0.3333333344877899  0.7635278191331697  1.0000

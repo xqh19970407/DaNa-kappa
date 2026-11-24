@@ -1,0 +1,27 @@
+data_Crystoria_1615b288f421879d92c63c67f36d4b4296d4d1ce8425b3e11ab7eb5e9c591ed4
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Ag2 Rb1 Te2 Tl1'
+_cell_length_a 4.8307032533
+_cell_length_b 4.8307032533
+_cell_length_c 9.8799915314
+_cell_angle_alpha 89.9999974045
+_cell_angle_beta 90.0000026024
+_cell_angle_gamma 119.9999999287
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Rb Rb1 0.0000000007 0.0000000000 0.0000000003 1.0
+Ag Ag1 0.3333331943 0.6666667461 0.7185157537 1.0
+Ag Ag2 0.6666667461 0.3333331943 0.2814842165 1.0
+Te Te1 0.3333332241 0.6666667461 0.2611358464 1.0
+Te Te2 0.6666667461 0.3333332241 0.7388641238 1.0
+Tl Tl1 0.0000000000 0.0000000004 0.5000000000 1.0

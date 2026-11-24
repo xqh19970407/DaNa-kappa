@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       K2Se4Bi2
+_chemical_formula_sum              "K2 Se4 Bi2"
+_cell_length_a       4.30354830977846
+_cell_length_b       4.303548309778461
+_cell_length_c       15.683277275709553
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.0  0.0  0.0  1.0000
+  K   K2        1.0  0.3333333339878637  0.6666666679757275  0.500000000136784  1.0000
+  Se  Se1       1.0  0.0  0.0  0.3559347916806785  1.0000
+  Se  Se2       1.0  0.0  0.0  0.6440652079552676  1.0000
+  Se  Se3       1.0  0.3333333339878637  0.6666666679757275  0.14406520781848364  1.0000
+  Se  Se4       1.0  0.3333333339878637  0.6666666679757275  0.8559347918174625  1.0000
+  Bi  Bi1       1.0  0.6666666658578391  0.33333333398786374  0.250000000068392  1.0000
+  Bi  Bi2       1.0  0.6666666658578391  0.33333333398786374  0.750000000205176  1.0000

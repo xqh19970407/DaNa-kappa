@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Cs2NiO2Cs2NiO2
+_chemical_formula_sum              "Cs4 Ni2 O4"
+_cell_length_a       4.448281718044105
+_cell_length_b       4.448281718044105
+_cell_length_c       13.700521450275426
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  3.7524391748088516e-17  0.0  0.34630763998436115  1.0000
+  Cs  Cs2       1.0  7.083126494209802e-17  0.9999999999999999  0.6536923599955355  1.0000
+  Ni  Ni1       1.0  0.0  0.0  0.0  1.0000
+  O   O1        1.0  1.3596082943594954e-17  0.0  0.12547644819500214  1.0000
+  O   O2        1.0  9.475957374659159e-17  0.9999999999999999  0.8745235517848946  1.0000
+  Cs  Cs3       1.0  0.5000000002198485  0.5000000002198483  0.8463076403392592  1.0000
+  Cs  Cs4       1.0  0.5000000002198484  0.5000000002198484  0.15369235964063757  1.0000
+  Ni  Ni2       1.0  0.5000000002198485  0.5000000002198483  0.500000000354898  1.0000
+  O   O3        1.0  0.5000000002198485  0.5000000002198483  0.6254764485499001  1.0000
+  O   O4        1.0  0.5000000002198484  0.5000000002198484  0.3745235514299966  1.0000

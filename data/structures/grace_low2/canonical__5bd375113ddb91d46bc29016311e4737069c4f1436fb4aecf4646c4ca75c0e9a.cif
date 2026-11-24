@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ClI2Cs3
+_chemical_formula_sum              "Cl1 I2 Cs3"
+_cell_length_a       11.960293288066124
+_cell_length_b       11.960293288066124
+_cell_length_c       11.960293288066124
+_cell_angle_alpha    153.94540289093234
+_cell_angle_beta     153.9454028909323
+_cell_angle_gamma    37.17896512743233
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  3.83403447878905e-10  3.8340394747926615e-10  7.684130554075352e-10  1.0000
+  I   I1        1.0  0.3318201304532545  0.3318201304532548  7.68413011685678e-10  1.0000
+  I   I2        1.0  0.668179870311947  0.6681798703119473  7.68413045618258e-10  1.0000
+  Cs  Cs1       1.0  0.15638717350614506  0.15638717350614545  7.684130334880763e-10  1.0000
+  Cs  Cs2       1.0  0.5000000003834035  0.500000000383404  7.684130257799268e-10  1.0000
+  Cs  Cs3       1.0  0.8436128272590563  0.8436128272590566  7.684128179164614e-10  1.0000

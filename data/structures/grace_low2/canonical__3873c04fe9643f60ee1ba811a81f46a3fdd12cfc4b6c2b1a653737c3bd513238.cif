@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NaMgSnTl
+_chemical_formula_sum              "Na1 Mg1 Sn1 Tl1"
+_cell_length_a       5.261104839790835
+_cell_length_b       5.261104839790835
+_cell_length_c       5.2611048397908355
+_cell_angle_alpha    59.999999999999986
+_cell_angle_beta     59.999999999999986
+_cell_angle_gamma    59.999999999999986
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9999999997909804  0.99999999979098  0.9999999997909796  1.0000
+  Mg  Mg1       1.0  0.5000000001789671  0.5000000001789673  0.5000000001789671  1.0000
+  Sn  Sn1       1.0  0.749999999969947  0.7499999999699473  0.7499999999699468  1.0000
+  Tl  Tl1       1.0  0.2500000001639407  0.2500000001639408  0.2500000001639405  1.0000

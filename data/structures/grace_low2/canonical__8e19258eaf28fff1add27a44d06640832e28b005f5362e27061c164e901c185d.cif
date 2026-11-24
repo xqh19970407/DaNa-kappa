@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cl4Cs4
+_chemical_formula_sum              "Cl4 Cs4"
+_cell_length_a       4.931525457731335
+_cell_length_b       4.931525457731333
+_cell_length_c       16.718187988424425
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.9999999994566605  7.0244017694503725e-09  0.9991053247855105  1.0000
+  Cl  Cl2       1.0  0.9999999994566605  7.024401769450376e-09  0.2520326768019013  1.0000
+  Cl  Cl3       1.0  0.33333333272716337  0.6666666735654072  0.49910532503746413  1.0000
+  Cl  Cl4       1.0  0.33333333272716337  0.6666666735654072  0.7520326771480984  1.0000
+  Cs  Cs1       1.0  0.9999999999166937  7.024401769202726e-09  0.6255690010927812  1.0000
+  Cs  Cs2       1.0  0.33333333272716337  0.6666666735654072  0.12556900074658411  1.0000
+  Cs  Cs3       1.0  0.6666666669072954  0.3333333414656381  0.37556900091968265  1.0000
+  Cs  Cs4       1.0  0.6666666669072954  0.3333333414656381  0.8755690006677288  1.0000

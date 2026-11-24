@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       F2Cd2Te2Cs2
+_chemical_formula_sum              "F2 Cd2 Te2 Cs2"
+_cell_length_a       4.718801395717756
+_cell_length_b       4.7188013957177555
+_cell_length_c       14.520922613036161
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.0  0.0  0.9991852817954295  1.0000
+  F   F2        1.0  0.0  0.0  0.4991852820352158  1.0000
+  Cd  Cd1       1.0  0.0  0.0  0.34572802250822776  1.0000
+  Cd  Cd2       1.0  0.0  0.0  0.8457280227480142  1.0000
+  Te  Te1       1.0  0.3333333338141695  0.666666667628339  0.28770069446203694  1.0000
+  Te  Te2       1.0  0.6666666673608275  0.3333333338141695  0.7877006947018232  1.0000
+  Cs  Cs1       1.0  0.3333333338141695  0.666666667628339  0.5716580028150396  1.0000
+  Cs  Cs2       1.0  0.6666666673608275  0.3333333338141695  0.07165800257525334  1.0000

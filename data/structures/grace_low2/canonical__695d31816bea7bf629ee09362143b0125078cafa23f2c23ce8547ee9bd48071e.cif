@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiSrHgBi
+_chemical_formula_sum              "Li1 Sr1 Hg1 Bi1"
+_cell_length_a       5.489240816974981
+_cell_length_b       5.489240816974981
+_cell_length_c       5.489240816974982
+_cell_angle_alpha    60.00000000000001
+_cell_angle_beta     59.999999999999986
+_cell_angle_gamma    60.00000000000002
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  5.862448027027514e-11  5.86248272149703e-11  5.8624759621005e-11  1.0000
+  Sr  Sr1       1.0  0.5000000000586245  0.5000000000586248  0.5000000000586249  1.0000
+  Hg  Hg1       1.0  0.7500000001172488  0.7500000001172495  0.7500000001172494  1.0000
+  Bi  Bi1       1.0  0.25000000011724904  0.25000000011724954  0.25000000011724954  1.0000

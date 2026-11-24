@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       S2Cu2BaS2Cu2Ba
+_chemical_formula_sum              "S4 Cu4 Ba2"
+_cell_length_a       3.9194850522841547
+_cell_length_b       3.9194850522841533
+_cell_length_c       12.677234826661726
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  5.868117793588334e-08  5.86811778874421e-08  0.0001596320779682081  1.0000
+  S   S2        1.0  5.8681177978154886e-08  5.868117796462721e-08  0.2793043442370622  1.0000
+  Cu  Cu1       1.0  6.064976432185176e-08  0.5000000596654713  0.3897319886832949  1.0000
+  Cu  Cu2       1.0  0.5000000596654712  6.064976476594097e-08  0.3897319886832949  1.0000
+  Ba  Ba1       1.0  5.868117795701911e-08  5.868117792603465e-08  0.6397319881575153  1.0000
+  S   S3        1.0  0.5000000596654711  0.5000000596654713  0.500159632340712  1.0000
+  S   S4        1.0  0.5000000596654711  0.5000000596654713  0.7793043439743185  1.0000
+  Cu  Cu3       1.0  0.5000000596654711  5.868117789926607e-08  0.8897319884205511  1.0000
+  Cu  Cu4       1.0  5.8681177942358917e-08  0.5000000596654713  0.8897319884205511  1.0000
+  Ba  Ba2       1.0  0.5000000596654712  0.5000000596654715  0.13973198842025894  1.0000

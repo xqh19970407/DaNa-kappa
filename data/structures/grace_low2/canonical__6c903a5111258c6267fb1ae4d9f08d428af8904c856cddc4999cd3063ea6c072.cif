@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2Mg2Bi2
+_chemical_formula_sum              "Li2 Mg2 Bi2"
+_cell_length_a       4.830622219468719
+_cell_length_b       4.830622219468719
+_cell_length_c       7.764352173276127
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9999998796825592  1.027861854941741e-07  0.004878047666405486  1.0000
+  Li  Li2       1.0  0.9999998818093632  1.032294858482885e-07  0.5048780480994016  1.0000
+  Mg  Mg1       1.0  0.333333215123804  0.6666667697483856  0.24141113104728035  1.0000
+  Mg  Mg2       1.0  0.6666665463681184  0.33333343626728557  0.7414111301923391  1.0000
+  Bi  Bi1       1.0  0.333333215123804  0.6666667697483856  0.8576677965381583  1.0000
+  Bi  Bi2       1.0  0.6666665463681184  0.33333343626728557  0.35766779610516214  1.0000

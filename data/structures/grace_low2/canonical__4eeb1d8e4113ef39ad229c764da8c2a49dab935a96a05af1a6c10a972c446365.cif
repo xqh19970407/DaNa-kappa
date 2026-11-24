@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       KRb2I3
+_chemical_formula_sum              "K1 Rb2 I3"
+_cell_length_a       11.650036361826059
+_cell_length_b       11.650036361826059
+_cell_length_c       11.650036361826059
+_cell_angle_alpha    154.10903252961887
+_cell_angle_beta     154.10903252961884
+_cell_angle_gamma    36.94114731251451
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  1.1340178796004351e-10  1.1340189898234596e-10  1.582739495020746e-10  1.0000
+  Rb  Rb1       1.0  0.3330379129273865  0.33303791292738655  1.5827391670773664e-10  1.0000
+  Rb  Rb2       1.0  0.6669620875262205  0.6669620875262208  4.748218748875522e-10  1.0000
+  I   I1        1.0  0.16345705399609475  0.16345705399609506  4.748217751257758e-10  1.0000
+  I   I2        1.0  0.500000000113402  0.500000000113402  1.5827393121843577e-10  1.0000
+  I   I3        1.0  0.8365429462312663  0.8365429462312658  1.5827383427052305e-10  1.0000

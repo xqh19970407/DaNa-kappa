@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       RbSbBaHg
+_chemical_formula_sum              "Rb1 Sb1 Ba1 Hg1"
+_cell_length_a       6.00787331027654
+_cell_length_b       6.007873310276543
+_cell_length_c       6.007873310276541
+_cell_angle_alpha    59.99999999999999
+_cell_angle_beta     60.00000000000001
+_cell_angle_gamma    60.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  4.192475041961389e-10  0.9999999996985048  4.1924670764227547e-10  1.0000
+  Sb  Sb1       1.0  0.7499999997779916  0.7500000004987327  0.7499999997779905  1.0000
+  Ba  Ba1       1.0  0.49999999976887194  0.5000000004896136  0.4999999997688715  1.0000
+  Hg  Hg1       1.0  0.2500000002584862  0.24999999953774335  0.25000000025848496  1.0000

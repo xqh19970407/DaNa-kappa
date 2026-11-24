@@ -1,0 +1,27 @@
+data_Crystoria_a48be0ccff6d760601c903a45a1e560758e4299f3d977ff8f19b05b0dcd0e63c
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Ag2 Te2 Tl2'
+_cell_length_a 4.8180713102
+_cell_length_b 4.8180713102
+_cell_length_c 9.2689046860
+_cell_angle_alpha 89.9999999641
+_cell_angle_beta 90.0000000458
+_cell_angle_gamma 119.9999992423
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ag Ag1 0.9999998212 0.0000001442 0.0000000002 1.0
+Ag Ag2 0.3333331645 0.6666668057 0.5000000000 1.0
+Te Te1 0.9999998212 0.0000001496 0.5000000000 1.0
+Te Te2 0.3333331943 0.6666668057 0.0000000007 1.0
+Tl Tl1 0.6666669250 0.3333330154 0.2500000000 1.0
+Tl Tl2 0.6666669250 0.3333330154 0.7500000000 1.0

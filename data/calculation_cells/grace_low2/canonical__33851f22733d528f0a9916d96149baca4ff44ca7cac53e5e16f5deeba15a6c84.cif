@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ClAsBa2
+_chemical_formula_sum              "Cl1 As1 Ba2"
+_cell_length_a       4.658265708870152
+_cell_length_b       4.658265708870154
+_cell_length_c       8.109107708106974
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  1.2394103412569403e-09  2.4788206825138797e-09  4.254914914757249e-33  1.0000
+  As  As1       1.0  1.2394103412569564e-09  2.4788206825138834e-09  0.4999999995001315  1.0000
+  Ba  Ba1       1.0  0.3333333344521509  0.6666666689043016  0.7216389411315491  1.0000
+  Ba  Ba2       1.0  0.6666666690404149  0.33333333569156115  0.27836105786871396  1.0000

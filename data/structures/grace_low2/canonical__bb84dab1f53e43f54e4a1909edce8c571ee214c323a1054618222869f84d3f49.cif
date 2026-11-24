@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       KBrCsAu
+_chemical_formula_sum              "K1 Br1 Cs1 Au1"
+_cell_length_a       5.999438627694414
+_cell_length_b       5.999438627694412
+_cell_length_c       5.999438627694414
+_cell_angle_alpha    60.000000000000036
+_cell_angle_beta     59.99999999999997
+_cell_angle_gamma    59.999999999999986
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  4.95804526682808e-10  7.043946660045601e-10  3.409375834137097e-10  1.0000
+  Br  Br1       1.0  0.25000000048125104  0.2500000005693768  0.25000000037082437  1.0000
+  Cs  Cs1       1.0  0.5000000004958045  0.5000000007043947  0.5000000003409376  1.0000
+  Au  Au1       1.0  0.7500000004812509  0.7500000005693765  0.7500000003708244  1.0000

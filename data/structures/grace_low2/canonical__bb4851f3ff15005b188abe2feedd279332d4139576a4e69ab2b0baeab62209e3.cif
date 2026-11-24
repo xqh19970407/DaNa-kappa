@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ca2SnHg
+_chemical_formula_sum              "Ca2 Sn1 Hg1"
+_cell_length_a       5.422771701627443
+_cell_length_b       5.4227717016274415
+_cell_length_c       5.422771701627441
+_cell_angle_alpha    59.99999999999999
+_cell_angle_beta     60.00000000000001
+_cell_angle_gamma    59.999999999999986
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  4.54469767442673e-10  6.701485822747657e-10  9.387689791515768e-10  1.0000
+  Ca  Ca2       1.0  0.5000000010191004  0.5000000007481079  0.5000000002182201  1.0000
+  Sn  Sn1       1.0  0.25000000034430897  0.25000000113880827  0.2500000010010708  1.0000
+  Hg  Hg1       1.0  0.7500000009089396  0.7500000004895793  0.7500000008128607  1.0000

@@ -1,0 +1,29 @@
+data_Crystoria_cd305e9fc9a75b28ac3b1ea7e9c1cda46a3b2fc2b849697fd5918b60d5fbdee0
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Cs1 In3 Tl4'
+_cell_length_a 5.4641051292
+_cell_length_b 5.4641051292
+_cell_length_c 9.4205369949
+_cell_angle_alpha 89.9999999776
+_cell_angle_beta 89.9999999560
+_cell_angle_gamma 89.9999999882
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+In In1 0.0000000054 0.0000000005 0.9961170554 1.0
+In In2 0.0000000019 0.0000000005 0.3188509345 1.0
+In In3 0.5000000000 0.5000000000 0.6574839950 1.0
+Cs Cs1 0.5000000000 0.5000000000 0.1574839950 1.0
+Tl Tl1 0.0000000060 0.5000000000 0.4804432094 1.0
+Tl Tl2 0.0000000008 0.5000000000 0.8345247507 1.0
+Tl Tl3 0.5000000000 0.0000000001 0.4804432392 1.0
+Tl Tl4 0.5000000000 0.0000000013 0.8345247507 1.0

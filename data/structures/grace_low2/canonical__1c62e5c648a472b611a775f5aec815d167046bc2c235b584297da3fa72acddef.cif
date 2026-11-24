@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       F4Rb2Pd
+_chemical_formula_sum              "F4 Rb2 Pd1"
+_cell_length_a       6.38488420459432
+_cell_length_b       6.38488420459431
+_cell_length_c       3.799423571062551
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.9988976370166688  0.9988976385828681  0.9999999999995893  1.0000
+  F   F2        1.0  0.9988976370166688  0.44303666430857935  1.5590877746976693e-10  1.0000
+  F   F3        1.0  0.44303666430857863  0.9988976385828681  8.707990435954707e-12  1.0000
+  F   F4        1.0  0.44303666430857863  0.44303666430857935  1.6502738818708707e-10  1.0000
+  Rb  Rb1       1.0  0.22096715065898873  0.720967151806728  0.49999999880246887  1.0000
+  Rb  Rb2       1.0  0.7209671502992079  0.2209671521665082  0.5000000012687322  1.0000
+  Pd  Pd1       1.0  0.2209671506626238  0.22096715222882327  8.230838422848093e-11  1.0000

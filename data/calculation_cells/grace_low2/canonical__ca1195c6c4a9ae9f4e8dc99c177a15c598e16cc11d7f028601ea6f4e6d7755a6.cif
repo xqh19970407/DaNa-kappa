@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       F2Cu2Se2Sr2
+_chemical_formula_sum              "F2 Cu2 Se2 Sr2"
+_cell_length_a       4.079531913859225
+_cell_length_b       4.079531913859225
+_cell_length_c       8.91511658646364
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  7.353784854110893e-09  9.80504647214786e-09  4.486761290450695e-09  1.0000
+  F   F2        1.0  0.5000000081064171  0.5000000081064171  4.486761290450695e-09  1.0000
+  Cu  Cu1       1.0  7.353784854110893e-09  9.80504647214786e-09  0.5000000052459416  1.0000
+  Cu  Cu2       1.0  0.5000000081064171  0.5000000081064171  0.5000000052459416  1.0000
+  Se  Se1       1.0  7.353784854110893e-09  0.5000000081064171  0.331716505479046  1.0000
+  Se  Se2       1.0  0.5000000081064171  9.80504647214786e-09  0.6682835038911467  1.0000
+  Sr  Sr1       1.0  7.353784854110893e-09  0.5000000081064171  0.8379982154516572  1.0000
+  Sr  Sr2       1.0  0.5000000081064171  9.80504647214786e-09  0.16200179391853547  1.0000

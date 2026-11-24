@@ -1,0 +1,26 @@
+data_Crystoria_9910c10d67d6202d966ff7c3dd6263abacb624ef2abcdd9829d5f2280fdd176c
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Mg3 Sb2'
+_cell_length_a 4.5956376832
+_cell_length_b 4.5956376832
+_cell_length_c 7.2898983955
+_cell_angle_alpha 89.9999909763
+_cell_angle_beta 90.0000089093
+_cell_angle_gamma 120.0000120724
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Mg Mg1 0.9999998212 0.0000001636 0.0000171958 1.0
+Mg Mg2 0.3333331943 0.6666667461 0.2644740045 1.0
+Mg Mg3 0.6666668653 0.3333331048 0.6322457790 1.0
+Sb Sb1 0.9999998808 0.0000001313 0.4069454372 1.0
+Sb Sb2 0.3333331943 0.6666667461 0.8575456142 1.0

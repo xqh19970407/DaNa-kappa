@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sr2Sn4
+_chemical_formula_sum              "Sr2 Sn4"
+_cell_length_a       6.402214891371129
+_cell_length_b       6.402214891371127
+_cell_length_c       6.402214891371127
+_cell_angle_alpha    60.00000000000001
+_cell_angle_beta     59.999999999999986
+_cell_angle_gamma    60.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.9999999993562461  0.9999999984022043  3.722554405409942e-09  1.0000
+  Sr  Sr2       1.0  0.7499999988523119  0.7499999987507923  0.7500000031135735  1.0000
+  Sn  Sn1       1.0  0.8749999992312701  0.3749999984234334  0.3750000029404008  1.0000
+  Sn  Sn2       1.0  0.3749999991474223  0.8749999982985975  0.37500000342871165  1.0000
+  Sn  Sn3       1.0  0.37499999969962505  0.37499999852503707  0.375000003268998  1.0000
+  Sn  Sn4       1.0  0.3749999989420502  0.37499999827134056  0.8750000036463251  1.0000

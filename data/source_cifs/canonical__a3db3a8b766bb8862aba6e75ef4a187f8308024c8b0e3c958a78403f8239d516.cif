@@ -1,0 +1,29 @@
+data_Crystoria_a3db3a8b766bb8862aba6e75ef4a187f8308024c8b0e3c958a78403f8239d516
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Au4 Cs3 Rb1'
+_cell_length_a 7.3453359604
+_cell_length_b 7.3453359604
+_cell_length_c 7.3453359604
+_cell_angle_alpha 89.9999999964
+_cell_angle_beta 89.9999999954
+_cell_angle_gamma 89.9999999963
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Rb Rb1 0.0000000000 0.0000000004 0.0000000000 1.0
+Cs Cs1 0.0000000000 0.5000000000 0.5000000000 1.0
+Cs Cs2 0.5000000000 0.0000000001 0.5000000000 1.0
+Cs Cs3 0.5000000000 0.5000000000 0.0000000000 1.0
+Au Au1 0.0000000000 0.0000000004 0.5000000000 1.0
+Au Au2 0.0000000003 0.5000000000 0.0000000002 1.0
+Au Au3 0.5000000000 0.0000000000 0.0000000002 1.0
+Au Au4 0.5000000000 0.5000000000 0.5000000000 1.0

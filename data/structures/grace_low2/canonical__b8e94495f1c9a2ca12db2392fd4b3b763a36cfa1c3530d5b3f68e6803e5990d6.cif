@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MgAgLuPb
+_chemical_formula_sum              "Mg1 Ag1 Lu1 Pb1"
+_cell_length_a       5.085163380584398
+_cell_length_b       5.085163380584399
+_cell_length_c       5.0851633805844
+_cell_angle_alpha    59.999999999999986
+_cell_angle_beta     59.99999999999999
+_cell_angle_gamma    59.999999999999986
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.9999999994930127  3.445345183699084e-10  0.9999999994930127  1.0000
+  Ag  Ag1       1.0  0.24999999987198276  0.2500000007235046  0.24999999987198243  1.0000
+  Lu  Lu1       1.0  0.5000000004621049  0.49999999961058345  0.5000000004621048  1.0000
+  Pb  Pb1       1.0  0.7500000002389584  0.7499999993874369  0.750000000238958  1.0000

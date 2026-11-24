@@ -1,0 +1,29 @@
+data_Crystoria_9aafefcfe48e0554fcbf3b0bc27713fb74ab198ee9052989a8edf5c0695ea765
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Cd1 Hg3 Te4'
+_cell_length_a 6.6532793045
+_cell_length_b 6.6532793045
+_cell_length_c 6.6532793045
+_cell_angle_alpha 89.9999995165
+_cell_angle_beta 89.9999993669
+_cell_angle_gamma 89.9999996816
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cd Cd1 0.0000000000 0.0000000000 0.0000000000 1.0
+Te Te1 0.2493563145 0.2493563145 0.2493563145 1.0
+Te Te2 0.2493562996 0.7506436706 0.7506436706 1.0
+Te Te3 0.7506437302 0.2493562996 0.7506437302 1.0
+Te Te4 0.7506436706 0.7506436706 0.2493562996 1.0
+Hg Hg1 0.0000000000 0.5000000000 0.5000000000 1.0
+Hg Hg2 0.5000000000 0.0000000000 0.5000000000 1.0
+Hg Hg3 0.5000000000 0.5000000000 0.0000000011 1.0

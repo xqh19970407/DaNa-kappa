@@ -1,0 +1,33 @@
+data_Crystoria_a2e592e24b0f7bbdca5b05674d5fd29539e719e9d6ccd875920eac169a10ef12
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Ag6 Cl6'
+_cell_length_a 7.4549698830
+_cell_length_b 7.4549698830
+_cell_length_c 7.4549698830
+_cell_angle_alpha 90.0000001427
+_cell_angle_beta 90.0000000222
+_cell_angle_gamma 89.9999999866
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cl Cl1 0.0000000000 0.0000000036 0.0000000052 1.0
+Cl Cl2 0.0000000011 0.0000000000 0.5000000000 1.0
+Cl Cl3 0.2500000000 0.5000000000 0.2500000000 1.0
+Cl Cl4 0.5000000000 0.2500000000 0.7500000000 1.0
+Cl Cl5 0.5000000000 0.7500000000 0.7500000000 1.0
+Cl Cl6 0.7500000000 0.5000000000 0.2500000000 1.0
+Ag Ag1 0.0000000000 0.2500000000 0.2500000000 1.0
+Ag Ag2 0.0000000000 0.7500000000 0.2500000000 1.0
+Ag Ag3 0.2500000000 0.0000000005 0.7500000000 1.0
+Ag Ag4 0.5000000000 0.5000000000 0.0000000000 1.0
+Ag Ag5 0.5000000000 0.5000000000 0.5000000000 1.0
+Ag Ag6 0.7500000000 0.0000000005 0.7500000000 1.0

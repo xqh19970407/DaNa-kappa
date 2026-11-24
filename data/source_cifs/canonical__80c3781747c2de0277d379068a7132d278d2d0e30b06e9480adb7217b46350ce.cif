@@ -1,0 +1,29 @@
+data_Crystoria_80c3781747c2de0277d379068a7132d278d2d0e30b06e9480adb7217b46350ce
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'As3 Rb1 Zn4'
+_cell_length_a 4.2199840546
+_cell_length_b 4.2199840546
+_cell_length_c 10.4840688705
+_cell_angle_alpha 89.9999999229
+_cell_angle_beta 90.0000003351
+_cell_angle_gamma 90.0000000102
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Zn Zn1 0.0000000000 0.0000000023 0.0031375168 1.0
+Zn Zn2 0.0000000197 0.0000000041 0.3174299300 1.0
+Zn Zn3 0.5000000000 0.5000000000 0.0031375203 1.0
+Zn Zn4 0.5000000000 0.5000000000 0.3174299300 1.0
+As As1 0.0000000020 0.5000000000 0.1602838188 1.0
+As As2 0.4999999702 0.0000000073 0.4500316381 1.0
+As As3 0.5000000000 0.0000000008 0.8705358505 1.0
+Rb Rb1 0.0000000034 0.5000000000 0.6602837443 1.0

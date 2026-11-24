@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       As2I2Ba4
+_chemical_formula_sum              "As2 I2 Ba4"
+_cell_length_a       4.872566951503769
+_cell_length_b       4.872566951503766
+_cell_length_c       16.823176096356566
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.0  0.0  0.0  1.0000
+  As  As2       1.0  2.937209937836925e-25  3.4789120551998916e-25  0.5000000001082862  1.0000
+  I   I1        1.0  0.3333333332035662  0.6666666664071325  0.249999999756934  1.0000
+  I   I2        1.0  0.6666666674736266  0.33333333320356623  0.7499999998652201  1.0000
+  Ba  Ba1       1.0  0.3333333332035662  0.6666666664071325  0.601130885872982  1.0000
+  Ba  Ba2       1.0  0.3333333332035662  0.6666666664071325  0.8988691144518761  1.0000
+  Ba  Ba3       1.0  0.6666666674736266  0.33333333320356623  0.10113088576469598  1.0000
+  Ba  Ba4       1.0  0.6666666674736266  0.33333333320356623  0.3988691143435901  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       PBa2Au
+_chemical_formula_sum              "P1 Ba2 Au1"
+_cell_length_a       8.18121035681875
+_cell_length_b       8.18121035681875
+_cell_length_c       8.181210356818749
+_cell_angle_alpha    33.71624753562359
+_cell_angle_beta     33.71624753562358
+_cell_angle_gamma    33.71624753562359
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  1.477564331576781e-08  0.9999999903797007  0.9999999946887921  1.0000
+  Ba  Ba1       1.0  0.739058067847111  0.7390580443442166  0.7390580476182063  1.0000
+  Ba  Ba2       1.0  0.2609419615460229  0.2609419371500807  0.2609419414591723  1.0000
+  Au  Au1       1.0  0.5000000148937995  0.4999999904978573  0.49999999480694896  1.0000

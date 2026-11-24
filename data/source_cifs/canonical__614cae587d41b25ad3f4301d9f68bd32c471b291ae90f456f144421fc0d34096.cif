@@ -1,0 +1,26 @@
+data_Crystoria_614cae587d41b25ad3f4301d9f68bd32c471b291ae90f456f144421fc0d34096
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Cu1 K1 Mg1 Se2'
+_cell_length_a 4.2016677764
+_cell_length_b 4.2016677764
+_cell_length_c 8.1485843658
+_cell_angle_alpha 90.0000000000
+_cell_angle_beta 90.0000000000
+_cell_angle_gamma 119.9999998546
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Mg Mg1 0.0000000000 0.0000000000 0.0000000000 1.0
+K K1 0.6666669846 0.3333329856 0.4102210104 1.0
+Cu Cu1 0.3333329856 0.6666669846 0.7378370166 1.0
+Se Se1 0.0000000000 0.0000000000 0.6859109998 1.0
+Se Se2 0.3333329856 0.6666669846 0.1210210025 1.0

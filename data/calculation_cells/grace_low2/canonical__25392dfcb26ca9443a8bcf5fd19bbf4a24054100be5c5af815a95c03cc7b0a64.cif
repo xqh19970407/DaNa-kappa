@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       SrBaPbSrBaPbSrBaPbSrBaPb
+_chemical_formula_sum              "Sr4 Ba4 Pb4"
+_cell_length_a       8.288341918696938
+_cell_length_b       8.288341918696936
+_cell_length_c       8.288341918696936
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.0  0.0  0.0  1.0000
+  Ba  Ba1       1.0  0.5000000002199103  0.5000000002199103  0.5000000002199105  1.0000
+  Pb  Pb1       1.0  0.7500000003298655  0.7500000003298656  0.7500000003298659  1.0000
+  Sr  Sr2       1.0  0.9999999999323329  0.5000000001915282  0.5000000003159598  1.0000
+  Ba  Ba2       1.0  0.5000000002875774  2.838211581857285e-11  0.9999999999039507  1.0000
+  Pb  Pb2       1.0  0.7500000003975325  0.2500000001383373  0.25000000001390604  1.0000
+  Sr  Sr3       1.0  0.5000000001915281  5.676430761826188e-11  0.5000000001915283  1.0000
+  Ba  Ba3       1.0  2.8382270433667555e-11  0.500000000163146  2.838226569541148e-11  1.0000
+  Pb  Pb3       1.0  0.2500000001383374  0.7500000002731013  0.25000000013833756  1.0000
+  Sr  Sr4       1.0  0.5000000003159597  0.5000000001915282  0.999999999932333  1.0000
+  Ba  Ba4       1.0  0.9999999999039505  2.8382022565514896e-11  0.5000000002875774  1.0000
+  Pb  Pb4       1.0  0.2500000000139057  0.2500000001383372  0.7500000003975327  1.0000

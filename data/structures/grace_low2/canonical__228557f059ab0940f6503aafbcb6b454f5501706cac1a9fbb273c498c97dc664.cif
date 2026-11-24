@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NaBr2In
+_chemical_formula_sum              "Na1 Br2 In1"
+_cell_length_a       7.960201619990948
+_cell_length_b       7.960201619990948
+_cell_length_c       7.960201619990947
+_cell_angle_alpha    32.38210238546305
+_cell_angle_beta     32.38210238546305
+_cell_angle_gamma    32.38210238546308
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  2.094039247136035e-10  1.6742821794243824e-10  0.9999999996990435  1.0000
+  Br  Br1       1.0  0.7398074386269398  0.7398074385849641  0.7398074381165793  1.0000
+  Br  Br2       1.0  0.26019256181716  0.2601925617751842  0.2601925613067995  1.0000
+  In  In1       1.0  0.50000000022205  0.5000000001800742  0.49999999971168957  1.0000

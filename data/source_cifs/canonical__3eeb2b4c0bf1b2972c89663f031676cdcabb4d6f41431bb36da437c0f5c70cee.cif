@@ -1,0 +1,27 @@
+data_Crystoria_3eeb2b4c0bf1b2972c89663f031676cdcabb4d6f41431bb36da437c0f5c70cee
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Hg6'
+_cell_length_a 6.1411922712
+_cell_length_b 6.1411922712
+_cell_length_c 6.1411922712
+_cell_angle_alpha 109.4712206345
+_cell_angle_beta 109.4712206345
+_cell_angle_gamma 109.4712206345
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Hg Hg1 0.0000000000 0.0000000000 0.0000000000 1.0
+Hg Hg2 0.1250000000 0.2500000000 0.6250000000 1.0
+Hg Hg3 0.2500000000 0.7500000000 0.5000000000 1.0
+Hg Hg4 0.5000000000 0.8750000000 0.1250000000 1.0
+Hg Hg5 0.6250000000 0.5000000000 0.3750000000 1.0
+Hg Hg6 0.7500000000 0.3750000000 0.8750000000 1.0

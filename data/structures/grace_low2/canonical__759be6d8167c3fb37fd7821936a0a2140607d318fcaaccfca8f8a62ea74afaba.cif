@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HMgSeCs
+_chemical_formula_sum              "H1 Mg1 Se1 Cs1"
+_cell_length_a       4.358322487441559
+_cell_length_b       4.358322487441558
+_cell_length_c       6.862002253082423
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  1.324707547119912e-09  2.649415094239824e-09  0.00353447275379504  1.0000
+  Mg  Mg1       1.0  1.324707547119912e-09  2.649415094239824e-09  0.7370381957726896  1.0000
+  Se  Se1       1.0  0.6666666670489281  0.33333333580529295  0.6114504535633534  1.0000
+  Cs  Cs1       1.0  0.33333333448058544  0.6666666689611709  0.20803985591213311  1.0000

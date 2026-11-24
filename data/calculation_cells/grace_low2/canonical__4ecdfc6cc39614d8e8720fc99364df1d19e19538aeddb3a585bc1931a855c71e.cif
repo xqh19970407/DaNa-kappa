@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HRbInBi
+_chemical_formula_sum              "H1 Rb1 In1 Bi1"
+_cell_length_a       4.755598995768243
+_cell_length_b       4.755598995768246
+_cell_length_c       6.496810077621079
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  1.2616707181028264e-08  2.7032478372548066e-26  0.0009234008580094891  1.0000
+  Rb  Rb1       1.0  0.6666666797061588  0.33333333328905584  0.8712980774209039  1.0000
+  In  In1       1.0  1.1403769928364227e-08  2.187558104045538e-18  0.28443869497823726  1.0000
+  Bi  Bi1       1.0  0.3333333459057631  0.6666666665781117  0.45238983360834206  1.0000

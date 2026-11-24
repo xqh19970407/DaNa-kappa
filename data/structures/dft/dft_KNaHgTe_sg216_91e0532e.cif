@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HgKNaTe
+_chemical_formula_sum              "Hg1 K1 Na1 Te1"
+_cell_length_a       5.682150511199629
+_cell_length_b       5.682150511199634
+_cell_length_c       5.682150511199632
+_cell_angle_alpha    59.99999999999999
+_cell_angle_beta     60.00000000000005
+_cell_angle_gamma    59.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.7500000001010817  0.7499999992464127  0.7500000000470024  1.0000
+  K   K1        1.0  0.49999999983116084  0.4999999996232063  0.5000000002428849  1.0000
+  Na  Na1       1.0  2.6992096378381454e-10  0.9999999996232064  0.9999999998041175  1.0000
+  Te  Te1       1.0  0.25000000002688694  0.24999999993217872  0.24999999997280747  1.0000

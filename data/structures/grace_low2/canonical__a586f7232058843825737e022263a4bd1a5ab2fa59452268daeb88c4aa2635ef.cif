@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       KAs2Sn2Cs
+_chemical_formula_sum              "K1 As2 Sn2 Cs1"
+_cell_length_a       4.236535301220729
+_cell_length_b       4.236535301220729
+_cell_length_c       13.410238173327372
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.0  0.0  2.2370967325300193e-09  1.0000
+  As  As1       1.0  0.33333333379788876  0.6666666675957776  0.17588683135332855  1.0000
+  As  As2       1.0  0.6666666667548727  0.3333333337978888  0.8241131743641411  1.0000
+  Sn  Sn1       1.0  0.33333333379788876  0.6666666675957776  0.7265697435098152  1.0000
+  Sn  Sn2       1.0  0.6666666667548727  0.3333333337978888  0.2734302614619555  1.0000
+  Cs  Cs1       1.0  0.0  0.0  0.5000000024858853  1.0000

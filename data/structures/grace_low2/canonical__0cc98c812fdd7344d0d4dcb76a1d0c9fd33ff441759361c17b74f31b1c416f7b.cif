@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       NaI
+_chemical_formula_sum              "Na1 I1"
+_cell_length_a       4.626991018002428
+_cell_length_b       4.626991018002428
+_cell_length_c       4.626991018002428
+_cell_angle_alpha    59.99999999999999
+_cell_angle_beta     59.99999999999999
+_cell_angle_gamma    60.00000000000002
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  2.526335865784425e-10  4.2997574346124757e-10  0.9999999993191361  1.0000
+  I   I1        1.0  0.4999999995908941  0.5000000003386086  0.5000000001636099  1.0000

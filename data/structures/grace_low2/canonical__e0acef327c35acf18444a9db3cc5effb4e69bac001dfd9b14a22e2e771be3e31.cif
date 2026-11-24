@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Br3RbIn2
+_chemical_formula_sum              "Br3 Rb1 In2"
+_cell_length_a       4.835240030386824
+_cell_length_b       4.835240030386823
+_cell_length_c       11.690197373165827
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  3.1994386505539296e-10  4.776187039826749e-09  0.00010843074703625888  1.0000
+  Br  Br2       1.0  0.3333333332783124  0.6666666706929241  0.3235549930647305  1.0000
+  Br  Br3       1.0  0.666666666322076  0.3333333389286023  0.647001554256197  1.0000
+  Rb  Rb1       1.0  0.3333333332783124  0.6666666706929241  0.8235549925016167  1.0000
+  In  In1       1.0  3.1994386505539327e-10  4.776187039826748e-09  0.4840518666510397  1.0000
+  In  In2       1.0  0.666666666322076  0.3333333389286023  0.16305811862300373  1.0000

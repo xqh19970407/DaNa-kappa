@@ -1,0 +1,29 @@
+data_Crystoria_684e9c124d8d3f7cec7a62e4f848f8083b89545e71e74626e62a8cbbc3dffa5e
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Ag1 Br4 Li3'
+_cell_length_a 6.0022258759
+_cell_length_b 6.0022258759
+_cell_length_c 6.0022258759
+_cell_angle_alpha 90.0000000000
+_cell_angle_beta 90.0000000000
+_cell_angle_gamma 90.0000000000
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Li Li1 0.0000000000 0.0000000000 0.0000000000 1.0
+Li Li2 0.0000000000 0.5000000000 0.5000000000 1.0
+Li Li3 0.5000000000 0.0000000000 0.5000000000 1.0
+Br Br1 0.2385029942 0.2385029942 0.7385029793 1.0
+Br Br2 0.2385029942 0.7614970207 0.2614969909 1.0
+Br Br3 0.7614970207 0.2385029942 0.2614969909 1.0
+Br Br4 0.7614970207 0.7614970207 0.7385029793 1.0
+Ag Ag1 0.5000000000 0.5000000000 0.0000000000 1.0

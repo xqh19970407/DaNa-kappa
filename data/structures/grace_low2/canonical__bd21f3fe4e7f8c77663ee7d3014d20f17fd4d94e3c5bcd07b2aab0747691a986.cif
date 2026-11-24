@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       GaSe2Lu
+_chemical_formula_sum              "Ga1 Se2 Lu1"
+_cell_length_a       7.669232417820438
+_cell_length_b       7.669232417820438
+_cell_length_c       7.66923241782044
+_cell_angle_alpha    30.62878779027258
+_cell_angle_beta     30.62878779027258
+_cell_angle_gamma    30.62878779027259
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  1.1796922697963433e-10  1.3195355919037863e-10  2.114712109128427e-11  1.0000
+  Se  Se1       1.0  0.7604570166803961  0.7604570167083645  0.7604570164867528  1.0000
+  Se  Se2       1.0  0.2395429833692593  0.23954298338324378  0.23954298327243598  1.0000
+  Lu  Lu1       1.0  0.5000000001631476  0.5000000001771323  0.5000000000663248  1.0000

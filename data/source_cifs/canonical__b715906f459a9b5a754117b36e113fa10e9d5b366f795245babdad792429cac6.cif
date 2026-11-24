@@ -1,0 +1,25 @@
+data_Crystoria_b715906f459a9b5a754117b36e113fa10e9d5b366f795245babdad792429cac6
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Bi1 Ca1 H1 Zn1'
+_cell_length_a 4.4618504324
+_cell_length_b 4.4618504324
+_cell_length_c 4.9109373093
+_cell_angle_alpha 90.0000038528
+_cell_angle_beta 89.9999961251
+_cell_angle_gamma 120.0000039450
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+H H1 0.0000000133 0.0000000000 0.0002076316 1.0
+Ca Ca1 0.3333330154 0.6666669250 0.0257678218 1.0
+Zn Zn1 0.0000000674 0.9999999404 0.6557495594 1.0
+Bi Bi1 0.6666668653 0.3333331048 0.4722119868 1.0

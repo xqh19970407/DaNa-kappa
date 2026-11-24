@@ -1,0 +1,26 @@
+data_Crystoria_b8753ee55d6c7e34a32b67e85fd082e138339a7bdf7ae2c205832f3939e923fd
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Cd1 Li1 Na1 S2'
+_cell_length_a 4.1549896293
+_cell_length_b 4.1549896293
+_cell_length_c 7.0384502411
+_cell_angle_alpha 89.9999999518
+_cell_angle_beta 90.0000001090
+_cell_angle_gamma 120.0000061576
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Li Li1 0.0000001104 0.9999998808 0.0017817209 1.0
+Na Na1 0.3333332837 0.6666666865 0.6978718638 1.0
+S S1 0.0000001514 0.9999998212 0.4318995774 1.0
+S S2 0.6666666865 0.3333333135 0.9326232076 1.0
+Cd Cd1 0.6666667461 0.3333332241 0.2923906744 1.0

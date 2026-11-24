@@ -1,0 +1,27 @@
+data_Crystoria_fef781394c98ac47bf8f882b612b23c2a6695daa6e70794036f976d0b1b8dfa9
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Ag4 O2'
+_cell_length_a 4.8419361115
+_cell_length_b 4.8419361115
+_cell_length_c 4.8419361115
+_cell_angle_alpha 89.9999998988
+_cell_angle_beta 90.0000005424
+_cell_angle_gamma 89.9999998901
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+O O1 0.0000000173 0.0000000220 0.0000000076 1.0
+O O2 0.5000000000 0.5000000000 0.5000000000 1.0
+Ag Ag1 0.2500000000 0.2500000000 0.2500000000 1.0
+Ag Ag2 0.2500000298 0.7500000000 0.7500000000 1.0
+Ag Ag3 0.7500000000 0.2500000298 0.7500000000 1.0
+Ag Ag4 0.7500000000 0.7499999404 0.2500000298 1.0

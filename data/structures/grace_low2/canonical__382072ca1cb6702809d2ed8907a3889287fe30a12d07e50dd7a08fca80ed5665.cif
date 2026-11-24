@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cl2Ca2Ba2Bi2
+_chemical_formula_sum              "Cl2 Ca2 Ba2 Bi2"
+_cell_length_a       5.134626970322851
+_cell_length_b       5.134626970322851
+_cell_length_c       11.11430334506896
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.0  0.0  0.0  1.0000
+  Cl  Cl2       1.0  0.500000000942342  0.500000000942342  2.2781155674473685e-20  1.0000
+  Ca  Ca1       1.0  5.595621840297591e-43  9.896484801276694e-20  0.4999999997719622  1.0000
+  Ca  Ca2       1.0  0.500000000942342  0.500000000942342  0.4999999997719622  1.0000
+  Ba  Ba1       1.0  2.1313724117652e-27  0.500000000942342  0.1625845132976068  1.0000
+  Ba  Ba2       1.0  0.500000000942342  1.6574939271540258e-19  0.8374154862463178  1.0000
+  Bi  Bi1       1.0  7.189950722476107e-43  0.500000000942342  0.678063746869349  1.0000
+  Bi  Bi2       1.0  0.500000000942342  6.372074466053967e-20  0.32193625267457543  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CaLaAuPb
+_chemical_formula_sum              "Ca1 La1 Au1 Pb1"
+_cell_length_a       5.449600903465824
+_cell_length_b       5.449600903465825
+_cell_length_c       5.449600903465825
+_cell_angle_alpha    59.999999999999986
+_cell_angle_beta     60.00000000000001
+_cell_angle_gamma    59.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  1.3161001700062688e-09  1.977380233334126e-10  1.0737975984413002e-09  1.0000
+  La  La1       1.0  0.5000000013161001  0.500000000462597  0.5000000005440796  1.0000
+  Au  Au1       1.0  0.2500000009466483  0.24999999991690686  0.25000000112029197  1.0000
+  Pb  Pb1       1.0  0.7500000015084991  0.7499999997296231  0.7500000009330086  1.0000

@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       AgSnSb
+_chemical_formula_sum              "Ag1 Sn1 Sb1"
+_cell_length_a       4.857456971572401
+_cell_length_b       4.857456971572398
+_cell_length_c       4.8574569715723985
+_cell_angle_alpha    60.000000000000036
+_cell_angle_beta     60.000000000000036
+_cell_angle_gamma    59.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  1.4242392708292782e-09  1.2682678647166541e-09  1.3867614541262752e-09  1.0000
+  Sn  Sn1       1.0  0.7500000015877935  0.7500000012748402  0.7500000014108733  1.0000
+  Sb  Sb1       1.0  0.2500000015877934  0.25000000157198665  0.25000000081658047  1.0000

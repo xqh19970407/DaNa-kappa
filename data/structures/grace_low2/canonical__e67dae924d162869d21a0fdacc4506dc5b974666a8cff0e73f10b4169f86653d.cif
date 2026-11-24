@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sn2TeI2
+_chemical_formula_sum              "Sn2 Te1 I2"
+_cell_length_a       4.565656257778879
+_cell_length_b       4.565656257778878
+_cell_length_c       11.33828123117966
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.9999999415308938  3.540741270158314e-08  0.0010963759468372027  1.0000
+  Sn  Sn2       1.0  0.3333332744465423  0.666666702211679  0.3272816156469528  1.0000
+  Te  Te1       1.0  0.6666666073564427  0.3333333675449953  0.16418899584891605  1.0000
+  I   I1        1.0  0.9999999410444093  3.540741270166042e-08  0.49175230498493283  1.0000
+  I   I2        1.0  0.3333332744465423  0.666666702211679  0.8366256866088569  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SbBa2Au
+_chemical_formula_sum              "Sb1 Ba2 Au1"
+_cell_length_a       5.886325972818261
+_cell_length_b       5.886325972818259
+_cell_length_c       5.886325972818261
+_cell_angle_alpha    60.00000000000001
+_cell_angle_beta     60.00000000000001
+_cell_angle_gamma    59.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.9999999997482716  0.999999990962684  9.521900400839758e-09  1.0000
+  Ba  Ba1       1.0  0.7500000002935824  0.7499999906003179  0.7500000093041226  1.0000
+  Ba  Ba2       1.0  0.24999999987498575  0.24999999091734584  0.25000000888552604  1.0000
+  Au  Au1       1.0  0.5000000003167938  0.49999999097310466  0.5000000090691955  1.0000

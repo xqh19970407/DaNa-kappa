@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       F2Na2Ba2
+_chemical_formula_sum              "F2 Na2 Ba2"
+_cell_length_a       4.593336301853988
+_cell_length_b       4.5933363018539834
+_cell_length_c       9.994939431956048
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.0  0.0  0.0  1.0000
+  F   F2        1.0  0.4999999997981872  0.49999999979818766  9.877702689325977e-21  1.0000
+  Na  Na1       1.0  6.844688934923156e-42  0.49999999979818766  0.4220043201577  1.0000
+  Na  Na2       1.0  0.4999999997981872  5.0834296990048616e-20  0.5779956796465964  1.0000
+  Ba  Ba1       1.0  6.844688934923156e-42  0.49999999979818766  0.8601558607261609  1.0000
+  Ba  Ba2       1.0  0.4999999997981872  1.2299189680037352e-20  0.13984413907813528  1.0000

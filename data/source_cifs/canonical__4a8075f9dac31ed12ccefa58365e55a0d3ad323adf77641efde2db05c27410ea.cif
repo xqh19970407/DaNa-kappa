@@ -1,0 +1,22 @@
+data_Crystoria_4a8075f9dac31ed12ccefa58365e55a0d3ad323adf77641efde2db05c27410ea
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Xe1'
+_cell_length_a 4.6991993028
+_cell_length_b 4.6991993028
+_cell_length_c 4.6991993028
+_cell_angle_alpha 109.4712206345
+_cell_angle_beta 109.4712206345
+_cell_angle_gamma 109.4712206345
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Xe Xe1 0.0000000000 0.0000000000 0.0000000000 1.0

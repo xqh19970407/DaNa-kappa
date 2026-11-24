@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       F2Hg2F2Hg2
+_chemical_formula_sum              "F4 Hg4"
+_cell_length_a       3.8338659026895203
+_cell_length_b       3.8338659026895208
+_cell_length_c       10.995758779069057
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  2.347499946127537e-08  3.3908332554957824e-08  0.0010955042068520034  1.0000
+  F   F2        1.0  0.5000000231242413  0.500000033557574  0.8719094027644447  1.0000
+  Hg  Hg1       1.0  0.5000000231242412  0.5000000335575742  0.06930550272261607  1.0000
+  Hg  Hg2       1.0  2.3474999506849272e-08  3.390833246129371e-08  0.8036994042486805  1.0000
+  F   F3        1.0  0.5000000231242412  0.5000000335575742  0.5010955042491839  1.0000
+  F   F4        1.0  2.5381816204372853e-08  3.320681574159323e-08  0.3719094027221127  1.0000
+  Hg  Hg3       1.0  2.5381816204372853e-08  3.320681574159323e-08  0.5693055027649481  1.0000
+  Hg  Hg4       1.0  0.5000000231242412  0.5000000335575742  0.30369940420634867  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       KIn2I3
+_chemical_formula_sum              "K1 In2 I3"
+_cell_length_a       11.259574442760536
+_cell_length_b       11.259574442760536
+_cell_length_c       11.259574442760536
+_cell_angle_alpha    154.22595634919583
+_cell_angle_beta     154.22595634919583
+_cell_angle_gamma    36.77126449215801
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  4.5968301994558006e-09  4.5968301994558006e-09  8.261405126488322e-09  1.0000
+  In  In1       1.0  0.3331092370503058  0.33310923705030593  8.261405069455661e-09  1.0000
+  In  In2       1.0  0.6668907726076568  0.6668907726076568  8.261405316072411e-09  1.0000
+  I   I1        1.0  0.16843617328037983  0.16843617328037985  8.261405142464872e-09  1.0000
+  I   I2        1.0  0.5000000045968302  0.5000000045968302  8.261405261234772e-09  1.0000
+  I   I3        1.0  0.8315638359096296  0.8315638359096297  8.261405145927659e-09  1.0000

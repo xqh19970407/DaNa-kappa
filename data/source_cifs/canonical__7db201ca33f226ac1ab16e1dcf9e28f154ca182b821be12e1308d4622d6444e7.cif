@@ -1,0 +1,29 @@
+data_Crystoria_7db201ca33f226ac1ab16e1dcf9e28f154ca182b821be12e1308d4622d6444e7
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Ga2 H2 Na2 Sb2'
+_cell_length_a 4.2949381604
+_cell_length_b 4.2949381604
+_cell_length_c 11.2494115829
+_cell_angle_alpha 89.9999999603
+_cell_angle_beta 90.0000001065
+_cell_angle_gamma 120.0000011234
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+H H1 0.0000000000 0.0000000059 0.0000344158 1.0
+H H2 0.0000000056 0.0000000000 0.5000344515 1.0
+Na Na1 0.3333329856 0.6666669846 0.0613548905 1.0
+Na Na2 0.6666669846 0.3333329856 0.5613549352 1.0
+Ga Ga1 0.0000000496 0.9999999404 0.3537801802 1.0
+Ga Ga2 0.9999999404 0.0000000532 0.8537801504 1.0
+Sb Sb1 0.3333330452 0.6666669250 0.7633244991 1.0
+Sb Sb2 0.6666669250 0.3333330452 0.2633245289 1.0

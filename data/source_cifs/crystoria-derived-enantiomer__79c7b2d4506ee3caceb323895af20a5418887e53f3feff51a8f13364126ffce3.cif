@@ -1,0 +1,24 @@
+data_Crystoria_79c7b2d4506ee3caceb323895af20a5418887e53f3feff51a8f13364126ffce3
+_audit_creation_method 'Crystoria stable endpoint CIF export v1'
+_chemical_formula_sum 'Se3'
+_cell_length_a 4.5117414806
+_cell_length_b 4.5117418084
+_cell_length_c 5.0317726100
+_cell_angle_alpha 89.9999870026
+_cell_angle_beta 90.0000184978
+_cell_angle_gamma 120.0000035849
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Se Se1 0.9832165300 0.9832165500 0.9999999600 1.0
+Se Se2 0.7628319600 0.5424474800 0.3333333100 1.0
+Se Se3 0.5424475100 0.7628319900 0.6666667800 1.0

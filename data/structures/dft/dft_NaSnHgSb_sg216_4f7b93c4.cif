@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HgNaSbSn
+_chemical_formula_sum              "Hg1 Na1 Sb1 Sn1"
+_cell_length_a       5.384577094451388
+_cell_length_b       5.38457709445139
+_cell_length_c       5.38457709445139
+_cell_angle_alpha    59.999999999999986
+_cell_angle_beta     59.999999999999986
+_cell_angle_gamma    59.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.25000000003826983  0.2500000002799752  0.2500000003448264  1.0000
+  Na  Na1       1.0  1.9134899999999998e-11  0.999999999907473  1.7241320000000017e-10  1.0000
+  Sb  Sb1       1.0  0.7500000000382698  0.7499999993499101  0.7500000003448264  1.0000
+  Sn  Sn1       1.0  0.49999999944959234  0.5000000000973229  0.5000000003622632  1.0000
