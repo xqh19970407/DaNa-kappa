@@ -1,0 +1,82 @@
+{
+  "release": "0.1.0",
+  "checked_on": "2026-11-24",
+  "inference": {
+    "random": {
+      "track": "random",
+      "observations": 1403,
+      "maximum_prediction_difference": 1.6689300537109375e-06,
+      "MAE_ln": 0.36967181025258133,
+      "strict_weight_load": true,
+      "public_adapter": true,
+      "passed": true
+    },
+    "space_group": {
+      "track": "space_group",
+      "observations": 1393,
+      "maximum_prediction_difference": 7.152557373046875e-07,
+      "MAE_ln": 0.47970735559924266,
+      "strict_weight_load": true,
+      "public_adapter": true,
+      "passed": true
+    },
+    "ood": {
+      "track": "ood",
+      "observations": 1914,
+      "maximum_prediction_difference": 4.76837158203125e-07,
+      "MAE_ln": 1.1817014222874809,
+      "strict_weight_load": true,
+      "public_adapter": true,
+      "passed": true
+    },
+    "arithmetic_mean_MAE_ln": 0.6770268627131016,
+    "test_use": "Development evaluation: public tests were used during architecture exploration."
+  },
+  "structures": {
+    "parsed": 1772,
+    "geometry_hashes_verified": 1772,
+    "symmetry_mismatches": []
+  },
+  "screening_examples": {
+    "threshold8_retained": 3,
+    "threshold2_retained": 2,
+    "after_registered_ID_exclusion": 0,
+    "duplicate_structure_test": "2 retained, 1 duplicate removed"
+  },
+  "GRACE_BaPd": {
+    "scope": "source CIF -> relaxation -> forces -> FC2/FC3 -> 19^3 Wigner conductivity",
+    "reference_kappa_W_mK": 1.5594254984096707,
+    "recomputed_kappa_W_mK": 1.559306091805048,
+    "relative_difference": 7.657089405322104e-05,
+    "maximum_FC2_absolute_difference": 1.125e-13,
+    "maximum_FC3_absolute_difference": 9.627e-13,
+    "tensor_scalar_check": "mean of xx, yy, zz only; sigma and temperature axes retained"
+  },
+  "DFT_CsKAu2": {
+    "scope": "input generation, XML parser, FC2 harmonic gate, archived FORCES_FC2/FC3 -> original phono3py backend -> conductivity",
+    "FC2_displacements": 3,
+    "FC3_displacements": 231,
+    "reference_kappa_W_mK": 0.18258359155388226,
+    "recomputed_kappa_W_mK": 0.1825848795163917,
+    "relative_difference": 7.054097788790869e-06,
+    "new_licensed_VASP_execution": false,
+    "harmonic_gate_passed": true,
+    "POSCAR_PAW_group_order_checked": true
+  },
+  "packaging": {
+    "installed_wheel_imported_outside_checkout": true,
+    "default_configs_in_wheel": true,
+    "archive_CRC_checks": "all four archives passed",
+    "archive_content_scan": "no private workspace paths or private keys in JSON/YAML/text metadata",
+    "local_archive_extraction_checked": [
+      "data",
+      "models"
+    ],
+    "installed_package_inference_using_extracted_weight": true
+  },
+  "unit_checks": [
+    "Wigner integration/temperature axes and tensor trace",
+    "Published conventional-cell budget proxy",
+    "Label counts, P+C closure and linked CIF existence"
+  ]
+}

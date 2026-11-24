@@ -156,7 +156,15 @@ relaxation/force execution remains a user-side integration step.
 
 ## 5. Transport from the 58-material archive
 
-Extract the force-constants archive into `downloads/dft58/`. With the current
+Extract the force-constants archive into `downloads/dft58/`:
+
+```bash
+python scripts/get_assets.py force_constants \
+  --archive /path/to/dana-kappa-dft58-force-constants-v0.1.0.zip \
+  --dest downloads/dft58
+```
+
+With the current
 transport environment, point to a single extracted material folder:
 
 ```bash

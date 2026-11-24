@@ -1,0 +1,3 @@
+# Preserve archived structure bytes and CSV formatting across operating systems.
+*.cif -text
+*.csv -text whitespace=cr-at-eol
