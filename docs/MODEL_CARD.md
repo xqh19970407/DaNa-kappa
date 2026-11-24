@@ -31,7 +31,7 @@ The external models archive contains `dana_random_s123.pt`,
 They were trained independently with seed 123 on the respective splits of
 the Phonix-derived ALiEGNN benchmark (6,966 records overall). They are not
 an ensemble. The full-source screening uses only the random-split weight.
-Per-weight SHA256 values are inside the archive's `MANIFEST.json`.
+Per-weight SHA256 values are inside the archive's `MANIFEST_MODELS.json`.
 
 The author baseline/data source is
 [Wang et al., Fast and Accurate Prediction of Lattice Thermal Conductivity
