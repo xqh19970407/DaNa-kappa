@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dana-kappa"
+version = "0.1.0"
+description = "DANA-kappa inference and multilevel thermal-conductivity screening"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {file = "LICENSE"}
+authors = [{name = "Xiao-Qi Han"}]
+dependencies = ["numpy>=1.24,<2", "ase>=3.23", "spglib>=2.5", "PyYAML>=6"]
+
+[project.optional-dependencies]
+inference = ["jarvis-tools==2025.5.30", "e3nn==0.5.8", "pydantic>=1.10,<2", "matplotlib>=3.7"]
+transport = ["h5py>=3.10", "phonopy==2.47.1", "phono3py==3.24.0"]
+structure = ["pymatgen>=2024.6"]
+
+[project.scripts]
+dana-predict = "dana_kappa.predict:main"
+dana-screen = "dana_kappa.screen:main"
+dana-grace = "dana_kappa.grace:main"
+dana-vasp = "dana_kappa.vasp:main"
+dana-transport = "dana_kappa.transport:main"
+
+[tool.setuptools.packages.find]
+include = ["dana_kappa*"]
+
+[tool.setuptools.package-data]
+dana_kappa = ["defaults/*.json"]
