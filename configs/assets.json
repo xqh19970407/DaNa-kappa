@@ -3,26 +3,30 @@
     "filename": "dana-kappa-models-v0.1.0.zip",
     "bytes": 259959701,
     "sha256": "f44635e987a7403bb1a9478c1fb836dd706420b42aa3232e2c34dca022fd84ae",
-    "url": null
+    "url": "https://zenodo.org/records/24520420/files/dana-kappa-models-v0.1.0.zip?download=1",
+    "md5": "e8bffdaa84b911abdffd222436b4ac74"
   },
   "predictions": {
     "filename": "dana-kappa-fullpool-predictions-v0.1.0.zip",
     "records": 1953259,
     "bytes": 208382617,
     "sha256": "27951e420aee4e84186970df365276a634cd3206e16e6f22b796393af7b984bb",
-    "url": null
+    "url": "https://zenodo.org/records/24520420/files/dana-kappa-fullpool-predictions-v0.1.0.zip?download=1",
+    "md5": "819e54cb5e98f3d28eafae39c11dc4d2"
   },
   "force_constants": {
     "filename": "dana-kappa-dft58-force-constants-v0.1.0.zip",
     "records": 58,
     "bytes": 286206531,
     "sha256": "1fcbcef3c69da68b4ecc21d311deaf59450f45185dd29b974296ac4e8221ce36",
-    "url": null
+    "url": "https://zenodo.org/records/24520420/files/dana-kappa-dft58-force-constants-v0.1.0.zip?download=1",
+    "md5": "c5830cefc528f7ccb74032736ce427e7"
   },
   "data": {
     "filename": "dana-kappa-cifs-results-v0.1.0.zip",
     "bytes": 5382679,
     "sha256": "5ceff250dbc890484777d0093785ee0c9a4b20175ccf9892618841b5ac9eedd3",
-    "url": null
+    "url": "https://zenodo.org/records/24520420/files/dana-kappa-cifs-results-v0.1.0.zip?download=1",
+    "md5": "c19d13662699be28bdd9b0f9cda9fd1a"
   }
 }

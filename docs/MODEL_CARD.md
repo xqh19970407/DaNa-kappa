@@ -26,7 +26,8 @@ These dormant branches are not extra active forward layers.
 
 ## Checkpoints and data
 
-The external models archive contains `dana_random_s123.pt`,
+The [published Zenodo models archive](https://zenodo.org/records/24520420/files/dana-kappa-models-v0.1.0.zip?download=1)
+contains `dana_random_s123.pt`,
 `dana_space_group_s123.pt` and `dana_ood_s123.pt` under `checkpoints/`.
 They were trained independently with seed 123 on the respective splits of
 the Phonix-derived ALiEGNN benchmark (6,966 records overall). They are not

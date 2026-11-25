@@ -77,5 +77,9 @@ counts require the original snapshot and frozen flags.
 
 The full-pool predictions archive contains 154,377 MP and 1,798,882 Crystoria
 records. Bulk source structures are not mirrored here. Source-specific
-terms apply; see `NOTICE.md`. Zenodo URLs for project release archives are
-pending in `configs/assets.json`.
+terms apply; see `NOTICE.md`. The project archives are published in
+[Zenodo version v1](https://zenodo.org/records/24520420), dated November 25,
+2026, DOI [10.5281/zenodo.24520420](https://doi.org/10.5281/zenodo.24520420).
+Direct file URLs, sizes, SHA256 and published MD5 checksums are listed
+in `configs/assets.json`; use `scripts/get_assets.py` to download them.
+The dataset citation is available in `docs/DATA_CITATION.bib`.

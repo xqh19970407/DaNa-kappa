@@ -159,9 +159,7 @@ relaxation/force execution remains a user-side integration step.
 Extract the force-constants archive into `downloads/dft58/`:
 
 ```bash
-python scripts/get_assets.py force_constants \
-  --archive /path/to/dana-kappa-dft58-force-constants-v0.1.0.zip \
-  --dest downloads/dft58
+python scripts/get_assets.py force_constants --dest downloads/dft58
 ```
 
 With the current

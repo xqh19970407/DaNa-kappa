@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "Please cite this software and the papers listed in the documentation."
+message: "Please cite this software, the accompanying Zenodo dataset, and the papers listed in the documentation."
 title: "DANA-kappa: Distribution-Aware Neighborhood Attention for lattice thermal conductivity"
 type: software
 version: 0.1.0
@@ -17,3 +17,16 @@ authors:
     given-names: Peng-Jie
   - family-names: Lu
     given-names: Zhong-Yi
+references:
+  - type: data
+    title: "Accelerated Discovery of Ultralow-Thermal-Conductivity Materials via Structure-to-Property and Machine-Learning Potential Models"
+    authors:
+      - family-names: Han
+        given-names: Xiao-Qi
+    year: 2026
+    date-released: 2026-11-25
+    version: v1
+    doi: 10.5281/zenodo.24520420
+    publisher:
+      name: Zenodo
+    url: "https://zenodo.org/records/24520420"
